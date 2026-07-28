@@ -17,7 +17,7 @@ def main() -> None:
     """Execute the complete daily verse workflow."""
 
     # Initialize modules
-    reader = GitaReader("data/chapter_01.json")
+    reader = GitaReader("data/Chapter_01.json")
     state = StateManager("state/current_verse.json")
     formatter = Formatter()
     sender = EmailSender()
