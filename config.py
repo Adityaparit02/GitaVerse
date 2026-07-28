@@ -3,8 +3,9 @@ config.py
 
 Application configuration.
 """
-SENDER_EMAIL = "adityaparit44@gmail.com"
 
-APP_PASSWORD = ""
+import os
 
-RECEIVER_EMAIL = "paritaditya1234@gmail.com"
+SENDER_EMAIL = os.getenv("EMAIL")
+APP_PASSWORD = os.getenv("PASSWORD")
+RECEIVER_EMAIL = os.getenv("RECEIVER")

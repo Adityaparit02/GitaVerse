@@ -45,7 +45,8 @@ class EmailSender:
             with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
 
                 smtp.starttls()
-
+                print(f"Sender: {SENDER_EMAIL}")
+                print(f"Password Length: {len(APP_PASSWORD) if APP_PASSWORD else 0}")   
                 smtp.login(
                     SENDER_EMAIL,
                     APP_PASSWORD
