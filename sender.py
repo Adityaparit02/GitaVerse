@@ -3,7 +3,6 @@ sender.py
 
 Handles sending emails.
 """
-import logger
 import smtplib
 
 from email.mime.text import MIMEText
@@ -18,13 +17,14 @@ from config import (
 class EmailSender:
     """Send emails using Gmail SMTP."""
 
-    def send(self, subject: str, body: str,receivers: list[str]) -> bool:
+    def send(self, subject: str, body: str, receivers: list[str]) -> bool:
         """
         Send an email.
 
         Args:
             subject (str): Email subject.
-            body (str): Email body.
+            body (str): HTML email body.
+            receivers (list[str]): List of recipient email addresses.
 
         Returns:
             bool: True if email sent successfully, otherwise False.
@@ -35,11 +35,6 @@ class EmailSender:
 
             message["From"] = SENDER_EMAIL
             message["To"] = ", ".join(receivers)
-            smtp.sendmail(
-                SENDER_EMAIL,
-                receivers,
-                message.as_string()
-)
             message["Subject"] = subject
 
             message.attach(
@@ -49,14 +44,20 @@ class EmailSender:
             with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
 
                 smtp.starttls()
+
                 print(f"Sender: {SENDER_EMAIL}")
-                print(f"Password Length: {len(APP_PASSWORD) if APP_PASSWORD else 0}")   
+                print(f"Password Length: {len(APP_PASSWORD) if APP_PASSWORD else 0}")
+
                 smtp.login(
                     SENDER_EMAIL,
                     APP_PASSWORD
                 )
 
-                smtp.send_message(message)
+                smtp.sendmail(
+                    SENDER_EMAIL,
+                    receivers,
+                    message.as_string()
+                )
 
             return True
 
