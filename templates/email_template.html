@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitaVerse</title>
+
+<style>
+
+body{
+    margin:0;
+    padding:0;
+    background:#f4f4f4;
+    font-family:Arial,Helvetica,sans-serif;
+    color:#333333;
+}
+
+.wrapper{
+    width:100%;
+    background:#f4f4f4;
+    padding:30px 0;
+}
+
+.container{
+    max-width:700px;
+    margin:auto;
+    background:#ffffff;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0px 5px 20px rgba(0,0,0,.08);
+}
+
+.header{
+    background:linear-gradient(135deg,#ff9933,#ff6f00);
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+.logo{
+    font-size:46px;
+}
+
+.title{
+    font-size:34px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+.subtitle{
+    font-size:15px;
+    margin-top:8px;
+    opacity:.95;
+}
+
+.info{
+    padding:30px;
+    text-align:center;
+}
+
+.chapter{
+    font-size:18px;
+    color:#ff6f00;
+    font-weight:bold;
+}
+
+.chapter-name{
+    font-size:24px;
+    margin-top:8px;
+    font-weight:bold;
+}
+
+.verse-number{
+    margin-top:12px;
+    font-size:16px;
+}
+
+.card{
+    margin:25px;
+    border-radius:10px;
+    border:1px solid #ececec;
+    overflow:hidden;
+}
+
+.card-title{
+    background:#fff3e0;
+    color:#d35400;
+    padding:12px;
+    text-align:center;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.card-content{
+    padding:22px;
+    line-height:1.8;
+    font-size:18px;
+}
+
+.sanskrit{
+    text-align:center;
+    font-size:24px;
+    line-height:2;
+}
+
+.translation{
+    font-size:17px;
+}
+
+.reflection{
+    background:#fffaf0;
+    border-left:6px solid #ff9800;
+}
+
+.reflection-title{
+    padding:16px;
+    font-size:24px;
+    font-weight:bold;
+    color:#d35400;
+}
+
+.reflection-content{
+    padding:24px;
+    line-height:2;
+    font-size:20px;
+    font-weight:500;
+    color:#333333;
+}
+
+.keyword-section{
+    padding:25px;
+}
+
+.keyword-title{
+    text-align:center;
+    font-size:20px;
+    font-weight:bold;
+    color:#d35400;
+    margin-bottom:18px;
+}
+
+.badge-container{
+    text-align:center;
+}
+
+.badge{
+    display:inline-block;
+    padding:8px 14px;
+    margin:5px;
+    background:#ffecb3;
+    color:#7a4b00;
+    border-radius:20px;
+    font-size:14px;
+    font-weight:bold;
+}
+
+.ack{
+    background:#fafafa;
+    padding:35px;
+    text-align:center;
+    border-top:1px solid #eeeeee;
+}
+
+.ack h2{
+    color:#d35400;
+    margin-bottom:20px;
+}
+
+.footer{
+    background:#2d2d2d;
+    color:white;
+    text-align:center;
+    padding:35px;
+}
+
+.footer h3{
+    margin:0;
+}
+
+.footer p{
+    line-height:1.8;
+    color:#dddddd;
+}
+
+.quote{
+    font-style:italic;
+    margin-top:20px;
+    color:#ffcc80;
+}
+
+.social{
+    margin-top:25px;
+    font-size:13px;
+    color:#cccccc;
+}
+
+hr{
+    border:none;
+    border-top:1px solid #eeeeee;
+}
+
+@media only screen and (max-width:600px){
+
+.header{
+padding:25px;
+}
+
+.title{
+font-size:28px;
+}
+
+.chapter-name{
+font-size:20px;
+}
+
+.sanskrit{
+font-size:20px;
+}
+
+.card-content{
+font-size:16px;
+padding:18px;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<div class="container">
+
+<div class="header">
+
+<div class="logo">🕉</div>
+
+<div class="title">
+GitaVerse
+</div>
+
+<div class="subtitle">
+One Verse • Every Day • Eternal Wisdom
+</div>
+
+</div>
+
+<div class="info">
+
+<div class="chapter">
+Chapter {chapter}
+</div>
+
+<div class="chapter-name">
+{chapter_name}
+</div>
+
+<div class="verse-number">
+Verse {verse_number}
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Sanskrit
+</div>
+
+<div class="card-content sanskrit">
+
+{sanskrit}
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Transliteration
+</div>
+
+<div class="card-content">
+
+{transliteration}
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+English Translation
+</div>
+
+<div class="card-content translation">
+
+{english}
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Hindi Translation
+</div>
+
+<div class="card-content translation">
+
+{hindi}
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Marathi Translation
+</div>
+
+<div class="card-content translation">
+
+{marathi}
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Word Meaning
+</div>
+
+<div class="card-content">
+
+{word_meaning}
+
+</div>
+
+</div>
+
+<div class="card reflection">
+
+<div class="reflection-title">
+💡 Reflection
+</div>
+
+<div class="reflection-content">
+
+{reflection}
+
+</div>
+
+</div>
+
+<div class="keyword-section">
+
+<div class="keyword-title">
+Keywords
+</div>
+
+<div class="badge-container">
+
+{keywords}
+
+</div>
+
+</div>
+
+<div class="ack">
+
+<h2>
+Acknowledgement
+</h2>
+
+<p>
+
+This project was inspired and developed under the valuable mentorship of
+
+</p>
+
+<h3>
+
+Mr. Piyush Manohar Khairnar
+
+</h3>
+
+<p>
+
+Marvellous Infosystems
+
+</p>
+
+</div>
+
+<div class="footer">
+
+<h3>
+
+Designed & Developed by
+
+</h3>
+
+<p>
+
+Aditya Namdeo Parit
+
+<br><br>
+
+Powered by Python Automation
+
+</p>
+
+<div class="quote">
+
+“One Verse Every Day.<br>
+
+A Lifetime of Wisdom.”
+
+</div>
+
+<div class="social">
+
+Thank you for being a part of the GitaVerse journey.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

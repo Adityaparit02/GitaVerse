@@ -1,0 +1,919 @@
+{
+    "book": "Bhagavad Gita",
+    "language": "Multilingual",
+    "total_chapters": 18,
+    "total_verses": 700,
+    "note": "This file contains Chapter 1 (Arjuna Vishada Yoga, verses 1-47) of the complete 700-verse database. Additional chapters will be appended in subsequent files/parts.",
+    "chapter_1_title": "Arjuna Vishada Yoga (The Yoga of Arjuna's Despair/Dejection)",
+    "verses_in_this_file": 47,
+    "verses": [
+        {
+            "id": 1,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 1,
+            "sanskrit": "धृतराष्ट्र उवाच।\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+            "transliteration": "dhṛtarāṣṭra uvāca\ndharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāś caiva kim akurvata sañjaya",
+            "english": "Dhritarashtra said: O Sanjaya, assembled on the holy field of Kurukshetra, eager to fight, what did my sons and the sons of Pandu do?",
+            "hindi": "धृतराष्ट्र ने कहा: हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे और पाण्डु के पुत्रों ने क्या किया?",
+            "marathi": "धृतराष्ट्र म्हणाले: हे संजया! धर्मभूमी कुरुक्षेत्रावर युद्धाच्या इच्छेने एकत्र जमलेल्या माझ्या व पांडूच्या पुत्रांनी काय केले?",
+            "word_meaning": "dharma-kṣetre = in the field of dharma; kuru-kṣetre = at Kurukshetra; samavetāḥ = assembled; yuyutsavaḥ = desiring to fight; māmakāḥ = my sons; pāṇḍavāḥ = sons of Pandu; kim akurvata = what did they do; sañjaya = O Sanjaya",
+            "keywords": [
+                "Dhritarashtra",
+                "Sanjaya",
+                "Kurukshetra",
+                "opening verse",
+                "dharma-kshetra"
+            ],
+            "summary": "The blind king Dhritarashtra opens the Gita by asking his minister Sanjaya what is happening on the battlefield where his sons (Kauravas) and Pandu's sons (Pandavas) have gathered to fight.",
+            "reflection": "Anxiety often begins with attachment to outcomes involving those we love; awareness of this attachment is the first step to clarity."
+        },
+        {
+            "id": 2,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 2,
+            "sanskrit": "सञ्जय उवाच।\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्॥",
+            "transliteration": "sañjaya uvāca\ndṛṣṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanas tadā\nācāryam upasaṅgamya rājā vacanam abravīt",
+            "english": "Sanjaya said: Having seen the army of the Pandavas arrayed for battle, King Duryodhana approached his teacher Drona and spoke these words.",
+            "hindi": "संजय ने कहा: पाण्डवों की सेना को व्यूह रचना में देखकर राजा दुर्योधन अपने गुरु द्रोणाचार्य के पास जाकर बोला।",
+            "marathi": "संजय म्हणाले: पांडवांचे सैन्य व्यूहरचनेत उभे असलेले पाहून राजा दुर्योधन आपले गुरु द्रोणाचार्य यांच्याकडे जाऊन असे बोलला.",
+            "word_meaning": "dṛṣṭvā = having seen; pāṇḍava-anīkam = the army of the Pandavas; vyūḍham = arrayed; duryodhanaḥ = Duryodhana; ācāryam = to the teacher; upasaṅgamya = approaching; vacanam abravīt = spoke these words",
+            "keywords": [
+                "Duryodhana",
+                "Drona",
+                "army formation",
+                "Sanjaya narration"
+            ],
+            "summary": "Duryodhana, seeing the Pandava army arranged for battle, goes to his teacher Drona to discuss the situation.",
+            "reflection": "Facing a challenge, it is natural to first seek counsel from those we trust and respect."
+        },
+        {
+            "id": 3,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 3,
+            "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता॥",
+            "transliteration": "paśyaitāṁ pāṇḍu-putrāṇām ācārya mahatīṁ camūm\nvyūḍhāṁ drupada-putreṇa tava śiṣyeṇa dhīmatā",
+            "english": "Behold, O Teacher, this mighty army of the sons of Pandu, arrayed skillfully by your own gifted disciple, the son of Drupada.",
+            "hindi": "हे आचार्य! अपने ही बुद्धिमान शिष्य द्रुपद-पुत्र (धृष्टद्युम्न) द्वारा व्यूह-रचना में सजाई गई पाण्डु-पुत्रों की इस विशाल सेना को देखिए।",
+            "marathi": "हे आचार्य! आपल्याच बुद्धिमान शिष्य द्रुपदपुत्राने (धृष्टद्युम्नाने) रचलेली पांडुपुत्रांची ही विशाल सेना पहा.",
+            "word_meaning": "paśya = behold; etām = this; pāṇḍu-putrāṇām = of the sons of Pandu; mahatīm camūm = great army; drupada-putreṇa = by the son of Drupada; tava śiṣyeṇa = your disciple; dhīmatā = intelligent",
+            "keywords": [
+                "Duryodhana",
+                "Drupada",
+                "Dhrishtadyumna",
+                "army"
+            ],
+            "summary": "Duryodhana points out to Drona that the Pandava army has been arrayed by Drona's own former student, Dhrishtadyumna.",
+            "reflection": "Old rivalries and loyalties can complicate even the clearest duties; be mindful of hidden tensions in any conflict."
+        },
+        {
+            "id": 4,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 4,
+            "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\nयुयुधानो विराटश्च द्रुपदश्च महारथः॥",
+            "transliteration": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaś ca drupadaś ca mahā-rathaḥ",
+            "english": "Here are heroes, great archers equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and the great warrior Drupada.",
+            "hindi": "यहाँ भीम और अर्जुन के समान युद्ध में शूरवीर महान धनुर्धर हैं—युयुधान, विराट और महारथी द्रुपद।",
+            "marathi": "येथे भीम आणि अर्जुनासारखे युद्धात पराक्रमी महान धनुर्धर आहेत—युयुधान, विराट आणि महारथी द्रुपद.",
+            "word_meaning": "atra = here; śūrāḥ = heroes; mahā-iṣvāsāḥ = great archers; bhīma-arjuna-samāḥ = equal to Bhima and Arjuna; yudhi = in battle; mahā-rathaḥ = great chariot-warrior",
+            "keywords": [
+                "warriors",
+                "Bhima",
+                "Arjuna",
+                "Drupada",
+                "Virata"
+            ],
+            "summary": "Duryodhana lists the powerful warriors on the Pandava side who are equal in skill to Bhima and Arjuna.",
+            "reflection": "Recognizing the strength of one's opposition honestly, rather than underestimating it, is the beginning of wise strategy."
+        },
+        {
+            "id": 5,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 5,
+            "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः॥",
+            "transliteration": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān\npurujit kuntibhojaś ca śaibyaś ca nara-puṅgavaḥ",
+            "english": "Dhrishtaketu, Chekitana, and the valiant king of Kashi; Purujit, Kuntibhoja, and Shaibya, the best among men.",
+            "hindi": "धृष्टकेतु, चेकितान, पराक्रमी काशिराज, पुरुजित्, कुन्तिभोज और नरश्रेष्ठ शैब्य।",
+            "marathi": "धृष्टकेतू, चेकितान, पराक्रमी काशिराज, पुरुजित्, कुंतिभोज आणि नरश्रेष्ठ शैब्य.",
+            "word_meaning": "dhṛṣṭaketuḥ, cekitānaḥ, kāśirājaḥ = names of warriors; vīryavān = valiant; nara-puṅgavaḥ = best of men",
+            "keywords": [
+                "warriors list",
+                "Kashi king",
+                "Purujit"
+            ],
+            "summary": "Duryodhana continues naming further heroic warriors allied with the Pandavas.",
+            "reflection": "A thorough assessment of any situation requires acknowledging every strength arrayed against us, not just the obvious ones."
+        },
+        {
+            "id": 6,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 6,
+            "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः॥",
+            "transliteration": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān\nsaubhadro draupadeyāś ca sarva eva mahā-rathāḥ",
+            "english": "The mighty Yudhamanyu, the valiant Uttamauja, the son of Subhadra, and the sons of Draupadi — all of them great warriors.",
+            "hindi": "पराक्रमी युधामन्यु, वीर्यवान उत्तमौजा, सुभद्रा-पुत्र (अभिमन्यु) और द्रौपदी-पुत्र — ये सभी महारथी हैं।",
+            "marathi": "पराक्रमी युधामन्यू, वीर्यवान उत्तमौजा, सुभद्रापुत्र (अभिमन्यू) आणि द्रौपदीचे पुत्र — हे सर्व महारथी आहेत.",
+            "word_meaning": "vikrāntaḥ = powerful; vīryavān = valiant; saubhadraḥ = son of Subhadra (Abhimanyu); draupadeyāḥ = sons of Draupadi; mahā-rathāḥ = great chariot-warriors",
+            "keywords": [
+                "Abhimanyu",
+                "Draupadi's sons",
+                "warriors"
+            ],
+            "summary": "Duryodhana concludes his list of the notable Pandava warriors, all described as great chariot-fighters.",
+            "reflection": "Even amid rivalry, it is worth honoring the genuine capability of those on the other side."
+        },
+        {
+            "id": 7,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 7,
+            "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥",
+            "transliteration": "asmākaṁ tu viśiṣṭā ye tān nibodha dvija-uttama\nnāyakā mama sainyasya saṁjñārthaṁ tān bravīmi te",
+            "english": "But know also, O best of the twice-born, the distinguished ones on our side; I name the leaders of my army for your information.",
+            "hindi": "हे द्विजोत्तम! अब हमारी सेना के भी विशिष्ट योद्धाओं को जानिए; अपनी सेना के नायकों के नाम मैं आपके ज्ञान हेतु बताता हूँ।",
+            "marathi": "हे द्विजोत्तमा! आता आमच्या सेनेतील विशिष्ट योद्धेही जाणून घ्या; माझ्या सेनेच्या नायकांची नावे मी आपल्या माहितीसाठी सांगतो.",
+            "word_meaning": "asmākam = our; viśiṣṭāḥ = distinguished; dvija-uttama = O best of the twice-born (Drona); nāyakāḥ = leaders; sainyasya = of the army; saṁjñārtham = for information",
+            "keywords": [
+                "Drona",
+                "Kaurava army",
+                "leaders"
+            ],
+            "summary": "Duryodhana now turns to introduce the principal commanders of his own Kaurava army.",
+            "reflection": "Confidence is strengthened by knowing not only the opponent's strength but also clearly recognizing one's own resources."
+        },
+        {
+            "id": 8,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 8,
+            "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥",
+            "transliteration": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiñjayaḥ\naśvatthāmā vikarṇaś ca saumadattis tathaiva ca",
+            "english": "Yourself, Bhishma, Karna, and the victorious Kripa; Ashvatthama, Vikarna, and also the son of Somadatta.",
+            "hindi": "आप, भीष्म, कर्ण, युद्ध-विजयी कृप, अश्वत्थामा, विकर्ण तथा सोमदत्त-पुत्र (भूरिश्रवा)।",
+            "marathi": "आपण, भीष्म, कर्ण, युद्धविजयी कृप, अश्वत्थामा, विकर्ण तसेच सोमदत्तपुत्र (भूरिश्रवा).",
+            "word_meaning": "bhavān = yourself (Drona); bhīṣmaḥ, karṇaḥ, kṛpaḥ = named warriors; samitiñjayaḥ = victorious in battle; saumadattiḥ = son of Somadatta",
+            "keywords": [
+                "Bhishma",
+                "Karna",
+                "Kripa",
+                "Ashvatthama"
+            ],
+            "summary": "Duryodhana names his own great commanders, including Bhishma, Karna, Drona, and others.",
+            "reflection": "Naming and honoring one's allies builds morale and clarity before facing any major challenge."
+        },
+        {
+            "id": 9,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 9,
+            "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः॥",
+            "transliteration": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ\nnānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ",
+            "english": "And many other heroes also, ready to give up their lives for my sake, armed with various weapons, all skilled in warfare.",
+            "hindi": "और भी बहुत से शूरवीर मेरे लिए अपने प्राणों की परवाह न करते हुए, नाना प्रकार के शस्त्रों से सुसज्जित, युद्ध में निपुण हैं।",
+            "marathi": "आणखीही पुष्कळ शूरवीर माझ्यासाठी आपल्या प्राणांची पर्वा न करता, नाना प्रकारच्या शस्त्रांनी सुसज्ज, युद्धकुशल आहेत.",
+            "word_meaning": "anye = others; bahavaḥ śūrāḥ = many heroes; mad-arthe = for my sake; tyakta-jīvitāḥ = ready to give up life; yuddha-viśāradāḥ = skilled in war",
+            "keywords": [
+                "Kaurava warriors",
+                "loyalty",
+                "sacrifice"
+            ],
+            "summary": "Duryodhana notes that many more warriors stand ready to lay down their lives for his cause.",
+            "reflection": "Loyalty freely given by others is a great responsibility, not something to take lightly."
+        },
+        {
+            "id": 10,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 10,
+            "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्॥",
+            "transliteration": "aparyāptaṁ tad asmākaṁ balaṁ bhīṣmābhirakṣitam\nparyāptaṁ tv idam eteṣāṁ balaṁ bhīmābhirakṣitam",
+            "english": "Our strength, protected by Bhishma, is unlimited; but the strength of the Pandavas, protected by Bhima, is limited.",
+            "hindi": "हमारी सेना, जो भीष्म द्वारा सुरक्षित है, अपर्याप्त (असीम) है; परन्तु इनकी सेना, जो भीम द्वारा सुरक्षित है, पर्याप्त (सीमित) है।",
+            "marathi": "आमचे सैन्य, जे भीष्मांकडून सुरक्षित आहे, ते अपरिमित आहे; परंतु यांचे सैन्य, जे भीमाकडून सुरक्षित आहे, ते मर्यादित आहे.",
+            "word_meaning": "aparyāptam = unlimited/insufficient (interpretations vary); balam = strength/army; bhīṣma-abhirakṣitam = protected by Bhishma; paryāptam = limited/sufficient; bhīma-abhirakṣitam = protected by Bhima",
+            "keywords": [
+                "Bhishma",
+                "Bhima",
+                "army strength",
+                "confidence"
+            ],
+            "summary": "Duryodhana assesses the relative strength of both armies, expressing confidence bolstered by Bhishma's protection, though the verse is famously ambiguous in translation.",
+            "reflection": "Assessments made from anxiety or pride can be unreliable; true strength is rarely just about numbers."
+        },
+        {
+            "id": 11,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 11,
+            "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि॥",
+            "transliteration": "ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ\nbhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi",
+            "english": "Therefore, all of you stationed in your respective positions at the entrances of the army divisions, should protect Bhishma alone.",
+            "hindi": "अतः अपने-अपने स्थानों पर मोर्चों पर स्थित होकर आप सभी केवल भीष्म पितामह की रक्षा करें।",
+            "marathi": "म्हणून आपापल्या ठिकाणी मोर्चांवर उभे राहून आपण सर्वांनी केवळ भीष्म पितामहांचेच रक्षण करावे.",
+            "word_meaning": "ayaneṣu = at the strategic points; yathā-bhāgam = according to position; avasthitāḥ = stationed; bhīṣmam eva = Bhishma alone; abhirakṣantu = should protect",
+            "keywords": [
+                "Bhishma",
+                "strategy",
+                "protection"
+            ],
+            "summary": "Duryodhana instructs all his warriors to specifically safeguard Bhishma, recognizing him as the linchpin of the army.",
+            "reflection": "Effective leadership means identifying and protecting the most critical resources in any collective effort."
+        },
+        {
+            "id": 12,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 12,
+            "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्॥",
+            "transliteration": "tasya sañjanayan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyoccaiḥ śaṅkhaṁ dadhmau pratāpavān",
+            "english": "Then Bhishma, the glorious grandsire of the Kuru dynasty, roaring like a lion, blew his conch shell loudly, gladdening the heart of Duryodhana.",
+            "hindi": "तब कुरुवंश के वृद्ध, तेजस्वी पितामह भीष्म ने सिंह के समान गर्जना करते हुए उच्च स्वर में शंख बजाकर दुर्योधन को हर्षित किया।",
+            "marathi": "तेव्हा कुरुवंशाचे वृद्ध, तेजस्वी पितामह भीष्म यांनी सिंहासारखी गर्जना करत उच्च स्वरात शंख फुंकून दुर्योधनाला आनंदित केले.",
+            "word_meaning": "tasya = his (Duryodhana's); sañjanayan harṣam = generating joy; kuru-vṛddhaḥ pitāmahaḥ = the elder grandsire of Kuru; siṁha-nādam = lion's roar; śaṅkham dadhmau = blew the conch",
+            "keywords": [
+                "Bhishma",
+                "conch shell",
+                "battle beginning"
+            ],
+            "summary": "Bhishma blows his conch shell with a lion-like roar to boost Duryodhana's morale as battle approaches.",
+            "reflection": "Symbolic gestures of confidence can powerfully influence the morale of a whole group before a challenge."
+        },
+        {
+            "id": 13,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 13,
+            "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥",
+            "transliteration": "tataḥ śaṅkhāś ca bheryaś ca paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śabdas tumulo 'bhavat",
+            "english": "Then conches, kettledrums, tabors, drums, and horns suddenly blared forth together, and the sound was tumultuous.",
+            "hindi": "तब शंख, नगाड़े, ढोल, मृदंग और भेरी एक साथ बज उठे, जिनका वह शब्द अत्यंत भयंकर हुआ।",
+            "marathi": "तेव्हा शंख, नगारे, ढोल, मृदंग आणि भेरी एकाच वेळी वाजू लागले, आणि तो आवाज अत्यंत भयंकर झाला.",
+            "word_meaning": "śaṅkhāḥ = conches; bheryaḥ = kettledrums; paṇava-ānaka-gomukhāḥ = various drums and horns; sahasā = suddenly; tumulaḥ = tumultuous",
+            "keywords": [
+                "battle sounds",
+                "conches",
+                "drums"
+            ],
+            "summary": "A tumultuous roar of conches, drums, and horns erupts from the Kaurava side, signaling readiness for war.",
+            "reflection": "Grand shows of force can stir strong emotion, but true courage is tested in the quieter moments that follow."
+        },
+        {
+            "id": 14,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 14,
+            "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः॥",
+            "transliteration": "tataḥ śvetair hayair yukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ",
+            "english": "Then, seated in a magnificent chariot yoked with white horses, Krishna (Madhava) and Arjuna (the son of Pandu) blew their divine conches.",
+            "hindi": "तब श्वेत घोड़ों से युक्त विशाल रथ में बैठे हुए माधव (कृष्ण) और पाण्डव (अर्जुन) ने अपने दिव्य शंख बजाए।",
+            "marathi": "तेव्हा पांढऱ्या घोड्यांनी युक्त अशा भव्य रथात बसलेल्या माधवाने (कृष्णाने) आणि पांडवाने (अर्जुनाने) आपापले दिव्य शंख फुंकले.",
+            "word_meaning": "śvetaiḥ hayaiḥ = with white horses; mahati syandane = in the great chariot; mādhavaḥ = Krishna; pāṇḍavaḥ = Arjuna; divyau śaṅkhau = divine conches",
+            "keywords": [
+                "Krishna",
+                "Arjuna",
+                "white horses",
+                "conch"
+            ],
+            "summary": "In response, Krishna and Arjuna, seated in their magnificent chariot, sound their own divine conches.",
+            "reflection": "Facing intimidation, a calm and confident response can be more powerful than matching noise for noise."
+        },
+        {
+            "id": 15,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 15,
+            "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः॥",
+            "transliteration": "pāñcajanyaṁ hṛṣīkeśo devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahā-śaṅkhaṁ bhīma-karmā vṛkodaraḥ",
+            "english": "Krishna blew his conch Panchajanya, Arjuna blew Devadatta, and Bhima of terrific deeds blew his mighty conch Paundra.",
+            "hindi": "हृषीकेश (कृष्ण) ने पाञ्चजन्य, धनञ्जय (अर्जुन) ने देवदत्त और भयंकर कर्मों वाले भीम ने विशाल पौण्ड्र शंख बजाया।",
+            "marathi": "हृषीकेशाने (कृष्णाने) पांचजन्य, धनंजयाने (अर्जुनाने) देवदत्त आणि भयंकर कृत्ये करणाऱ्या भीमाने विशाल पौंड्र शंख फुंकला.",
+            "word_meaning": "pāñcajanyam = Krishna's conch; devadattam = Arjuna's conch; pauṇḍram = Bhima's conch; bhīma-karmā = of terrific deeds; vṛkodaraḥ = Bhima (wolf-bellied)",
+            "keywords": [
+                "Panchajanya",
+                "Devadatta",
+                "Paundra",
+                "conches named"
+            ],
+            "summary": "The named conches of Krishna, Arjuna, and Bhima are sounded, each carrying great symbolic power.",
+            "reflection": "Each person brings their own unique strength to a shared cause; recognizing this diversity builds a stronger whole."
+        },
+        {
+            "id": 16,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 16,
+            "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ॥",
+            "transliteration": "ananta-vijayaṁ rājā kuntī-putro yudhiṣṭhiraḥ\nnakulaḥ sahadevaś ca sughoṣa-maṇipuṣpakau",
+            "english": "King Yudhishthira, the son of Kunti, blew his conch Anantavijaya, while Nakula and Sahadeva blew Sughosha and Manipushpaka.",
+            "hindi": "राजा युधिष्ठिर ने अनन्तविजय, तथा नकुल और सहदेव ने सुघोष और मणिपुष्पक शंख बजाए।",
+            "marathi": "राजा युधिष्ठिराने अनंतविजय, तसेच नकुल आणि सहदेवाने सुघोष व मणिपुष्पक शंख फुंकले.",
+            "word_meaning": "ananta-vijayam = Yudhishthira's conch; sughoṣa-maṇipuṣpakau = conches of Nakula and Sahadeva",
+            "keywords": [
+                "Yudhishthira",
+                "Nakula",
+                "Sahadeva",
+                "conches"
+            ],
+            "summary": "The remaining Pandava brothers, Yudhishthira, Nakula, and Sahadeva, each sound their distinctive conches.",
+            "reflection": "Unity is expressed not by uniformity but by each member contributing their distinct voice to a shared purpose."
+        },
+        {
+            "id": 17,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 17,
+            "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥",
+            "transliteration": "kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahā-rathaḥ\ndhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ",
+            "english": "The great archer the king of Kashi, the great warrior Shikhandi, Dhrishtadyumna, Virata, and the invincible Satyaki.",
+            "hindi": "महाधनुर्धर काशिराज, महारथी शिखण्डी, धृष्टद्युम्न, विराट और अजेय सात्यकि ने भी अपने शंख बजाए।",
+            "marathi": "महाधनुर्धर काशिराज, महारथी शिखंडी, धृष्टद्युम्न, विराट आणि अजिंक्य सात्यकी यांनीही आपापले शंख फुंकले.",
+            "word_meaning": "parama-iṣvāsaḥ = great archer; mahā-rathaḥ = great warrior; aparājitaḥ = unconquered",
+            "keywords": [
+                "Shikhandi",
+                "Dhrishtadyumna",
+                "Satyaki",
+                "warriors"
+            ],
+            "summary": "More key Pandava warriors are named as they too blow their conches in readiness.",
+            "reflection": "A well-prepared team draws strength from the visible readiness of each of its capable members."
+        },
+        {
+            "id": 18,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 18,
+            "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्॥",
+            "transliteration": "drupado draupadeyāś ca sarvaśaḥ pṛthivī-pate\nsaubhadraś ca mahā-bāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak",
+            "english": "O Lord of the Earth, Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra all blew their conches separately.",
+            "hindi": "हे पृथ्वीपते! द्रुपद, द्रौपदी के पुत्र, तथा महाबाहु सुभद्रा-पुत्र (अभिमन्यु) ने भी अलग-अलग शंख बजाए।",
+            "marathi": "हे पृथ्वीपते! द्रुपद, द्रौपदीचे पुत्र, तसेच महाबाहू सुभद्रापुत्र (अभिमन्यू) यांनीही स्वतंत्रपणे शंख फुंकले.",
+            "word_meaning": "pṛthivī-pate = O lord of the earth (Dhritarashtra); pṛthak pṛthak = each separately",
+            "keywords": [
+                "Drupada",
+                "Abhimanyu",
+                "Draupadi's sons"
+            ],
+            "summary": "The remaining great warriors on the Pandava side each blow their own conches, completing the symphony of readiness.",
+            "reflection": "Every individual's distinct contribution matters, even within a large collective undertaking."
+        },
+        {
+            "id": 19,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 19,
+            "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन्॥",
+            "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṁ hṛdayāni vyadārayat\nnabhaś ca pṛthivīṁ caiva tumulo 'bhyanunādayan",
+            "english": "That tumultuous sound, reverberating through heaven and earth, tore the hearts of Dhritarashtra's sons.",
+            "hindi": "आकाश और पृथ्वी को गुँजाता हुआ वह भयंकर शब्द धृतराष्ट्र के पुत्रों के हृदयों को विदीर्ण करने वाला था।",
+            "marathi": "आकाश आणि पृथ्वी दुमदुमवणारा तो भयंकर आवाज धृतराष्ट्राच्या पुत्रांची हृदये विदीर्ण करणारा होता.",
+            "word_meaning": "saḥ ghoṣaḥ = that sound; dhārtarāṣṭrāṇām = of Dhritarashtra's sons; hṛdayāni vyadārayat = pierced the hearts; tumulaḥ = tumultuous",
+            "keywords": [
+                "fear",
+                "Kauravas",
+                "conch sound"
+            ],
+            "summary": "The combined blast of the Pandava conches strikes fear into the hearts of the Kaurava warriors.",
+            "reflection": "The confidence of an opposing side can shake our resolve; inner steadiness matters more than outer noise."
+        },
+        {
+            "id": 20,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 20,
+            "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः।\nहृषीकेशं तदा वाक्यमिदमाह महीपते॥",
+            "transliteration": "atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapi-dhvajaḥ\npravṛtte śastra-sampāte dhanur udyamya pāṇḍavaḥ\nhṛṣīkeśaṁ tadā vākyam idam āha mahī-pate",
+            "english": "O King, then Arjuna, whose banner bore the emblem of Hanuman, seeing the sons of Dhritarashtra arrayed, took up his bow as the fight was about to begin, and spoke these words to Krishna.",
+            "hindi": "हे राजन! तब कपिध्वज (हनुमान-ध्वजधारी) अर्जुन ने धृतराष्ट्र के पुत्रों को व्यूह में खड़ा देखकर, शस्त्र चलने के समय अपना धनुष उठाकर हृषीकेश (कृष्ण) से यह वचन कहा।",
+            "marathi": "हे राजा! तेव्हा कपिध्वज (हनुमानध्वजधारी) अर्जुनाने धृतराष्ट्राच्या पुत्रांना व्यूहात उभे असलेले पाहून, शस्त्रसंधानाच्या वेळी आपले धनुष्य उचलून हृषीकेशाला (कृष्णाला) हे वचन सांगितले.",
+            "word_meaning": "kapi-dhvajaḥ = one whose flag bears Hanuman; dhanuḥ udyamya = raising the bow; hṛṣīkeśam = to Krishna; vākyam āha = spoke these words",
+            "keywords": [
+                "Arjuna",
+                "Hanuman banner",
+                "bow",
+                "Krishna"
+            ],
+            "summary": "As the battle is about to begin, Arjuna raises his bow and turns to Krishna to speak, setting up his famous request.",
+            "reflection": "Before acting in a high-stakes moment, it is wise to pause and seek guidance from a trusted source."
+        },
+        {
+            "id": 21,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 21,
+            "sanskrit": "अर्जुन उवाच।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत।\nयावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्॥",
+            "transliteration": "arjuna uvāca\nsenayor ubhayor madhye rathaṁ sthāpaya me 'cyuta\nyāvad etān nirīkṣe 'haṁ yoddhu-kāmān avasthitān",
+            "english": "Arjuna said: O Achyuta (Krishna), please place my chariot between the two armies, so that I may see those assembled here, eager for battle.",
+            "hindi": "अर्जुन ने कहा: हे अच्युत! मेरे रथ को दोनों सेनाओं के मध्य खड़ा कीजिए, जिससे मैं युद्ध की इच्छा रखने वाले इन योद्धाओं को देख सकूँ।",
+            "marathi": "अर्जुन म्हणाला: हे अच्युता! माझा रथ दोन्ही सैन्यांच्या मध्ये उभा करा, जेणेकरून मला युद्धेच्छू असलेल्या या योद्ध्यांना पाहता येईल.",
+            "word_meaning": "senayoḥ ubhayoḥ madhye = between the two armies; ratham sthāpaya = place the chariot; acyuta = O infallible one; yoddhu-kāmān = desiring to fight; avasthitān = stationed",
+            "keywords": [
+                "Arjuna",
+                "request",
+                "chariot",
+                "Krishna"
+            ],
+            "summary": "Arjuna asks Krishna to drive his chariot to the middle of the battlefield so he can survey both armies before the fighting starts.",
+            "reflection": "Before making a major decision, it helps to look clearly and directly at the full situation rather than acting on assumption."
+        },
+        {
+            "id": 22,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 22,
+            "sanskrit": "कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे।\nयोत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः॥",
+            "transliteration": "kair mayā saha yoddhavyam asmin raṇa-samudyame\nyotsyamānān avekṣe 'haṁ ya ete 'tra samāgatāḥ",
+            "english": "That I may see with whom I must fight in this great venture of war, and observe those who have gathered here, ready to fight.",
+            "hindi": "जिससे मैं देख सकूँ कि इस युद्ध के प्रयत्न में मुझे किनके साथ युद्ध करना है, और यहाँ एकत्र हुए इन युद्धेच्छुक योद्धाओं को देख सकूँ।",
+            "marathi": "जेणेकरून मला हे कळेल की या युद्धप्रयत्नात मला कोणाशी लढायचे आहे, आणि येथे जमलेल्या या युद्धेच्छू योद्ध्यांना मी पाहू शकेन.",
+            "word_meaning": "kaiḥ mayā saha yoddhavyam = with whom I must fight; raṇa-samudyame = in this endeavor of war; yotsyamānān = those about to fight; avekṣe = I may observe",
+            "keywords": [
+                "Arjuna",
+                "battle preparation",
+                "observation"
+            ],
+            "summary": "Arjuna continues, wanting to identify exactly who he will be facing in the impending battle.",
+            "reflection": "Understanding precisely what — and whom — we are up against helps us respond with clarity rather than vague dread."
+        },
+        {
+            "id": 23,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 23,
+            "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः॥",
+            "transliteration": "yotsyamānān avekṣe 'haṁ ya ete 'tra samāgatāḥ\ndhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ",
+            "english": "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhritarashtra.",
+            "hindi": "जो दुर्बुद्धि दुर्योधन को प्रसन्न करने की इच्छा से युद्ध में यहाँ एकत्र हुए हैं, उन्हें मैं देखना चाहता हूँ।",
+            "marathi": "जे दुर्बुद्धी दुर्योधनाला प्रसन्न करण्याच्या इच्छेने युद्धासाठी येथे जमले आहेत, त्यांना मी पाहू इच्छितो.",
+            "word_meaning": "dhārtarāṣṭrasya = of Dhritarashtra's son (Duryodhana); durbuddheḥ = evil-minded; priya-cikīrṣavaḥ = wishing to please",
+            "keywords": [
+                "Duryodhana",
+                "Arjuna's survey",
+                "battle"
+            ],
+            "summary": "Arjuna specifically wants to see who has aligned themselves with Duryodhana's cause out of loyalty or self-interest.",
+            "reflection": "It is worth understanding the motivations of those opposing us, whether loyalty, fear, or ambition, before responding."
+        },
+        {
+            "id": 24,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 24,
+            "sanskrit": "सञ्जय उवाच।\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥",
+            "transliteration": "sañjaya uvāca\nevam ukto hṛṣīkeśo guḍākeśena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam",
+            "english": "Sanjaya said: O descendant of Bharata, thus addressed by Arjuna (Gudakesha), Krishna drove that magnificent chariot between the two armies.",
+            "hindi": "संजय ने कहा: हे भरतवंशी! गुडाकेश (अर्जुन) द्वारा ऐसा कहे जाने पर हृषीकेश (कृष्ण) ने उस उत्तम रथ को दोनों सेनाओं के मध्य खड़ा किया।",
+            "marathi": "संजय म्हणाले: हे भरतवंशी! गुडाकेशाने (अर्जुनाने) असे सांगितल्यावर हृषीकेशाने (कृष्णाने) तो उत्तम रथ दोन्ही सैन्यांच्या मध्ये उभा केला.",
+            "word_meaning": "evam uktaḥ = thus addressed; guḍākeśena = by Arjuna (conqueror of sleep); rathottamam = the excellent chariot; sthāpayitvā = having placed",
+            "keywords": [
+                "Krishna",
+                "Arjuna",
+                "chariot placement"
+            ],
+            "summary": "Krishna complies with Arjuna's request and positions the chariot exactly between the two waiting armies.",
+            "reflection": "A good guide listens fully to a request before acting, honoring what is genuinely needed."
+        },
+        {
+            "id": 25,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 25,
+            "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति॥",
+            "transliteration": "bhīṣma-droṇa-pramukhataḥ sarveṣāṁ ca mahī-kṣitām\nuvāca pārtha paśyaitān samavetān kurūn iti",
+            "english": "In front of Bhishma, Drona, and all the rulers of the world, Krishna said, 'O Partha, behold these Kurus assembled here.'",
+            "hindi": "भीष्म, द्रोण और अन्य सभी राजाओं के सामने कृष्ण ने कहा, 'हे पार्थ! एकत्र हुए इन कुरुवंशियों को देखो।'",
+            "marathi": "भीष्म, द्रोण आणि इतर सर्व राजांच्या समोर कृष्ण म्हणाले, 'हे पार्था! एकत्र जमलेल्या या कुरुवंशीयांना पहा.'",
+            "word_meaning": "bhīṣma-droṇa-pramukhataḥ = in front of Bhishma and Drona; mahī-kṣitām = of the rulers of the earth; pārtha = O son of Pritha (Arjuna); paśya = behold",
+            "keywords": [
+                "Krishna",
+                "Bhishma",
+                "Drona",
+                "Kurus"
+            ],
+            "summary": "Krishna positions the chariot before the elders and kings and invites Arjuna to look at the assembled Kuru clan.",
+            "reflection": "Sometimes a guide's role is simply to help us see the situation clearly, without judgment, so we can decide for ourselves."
+        },
+        {
+            "id": 26,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 26,
+            "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥",
+            "transliteration": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān\nācāryān mātulān bhrātṝn putrān pautrān sakhīṁs tathā",
+            "english": "There Arjuna saw stationed fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and friends.",
+            "hindi": "वहाँ पार्थ ने पिता-तुल्य, पितामह, आचार्य, मामा, भाई, पुत्र, पौत्र और मित्रों को खड़ा देखा।",
+            "marathi": "तेथे पार्थाने पितृतुल्य, पितामह, आचार्य, मामा, भाऊ, पुत्र, नातू आणि मित्रांना उभे असलेले पाहिले.",
+            "word_meaning": "tatra = there; apaśyat = saw; pitṝn = fathers/father figures; pitāmahān = grandfathers; ācāryān = teachers; mātulān = maternal uncles; bhrātṝn = brothers; sakhīn = friends",
+            "keywords": [
+                "Arjuna's vision",
+                "relatives",
+                "teachers",
+                "friends"
+            ],
+            "summary": "Arjuna sees, arrayed on both sides, elders, teachers, relatives, and friends he must potentially fight.",
+            "reflection": "Difficult decisions become far heavier when they involve people we love and respect, not abstract strangers."
+        },
+        {
+            "id": 27,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 27,
+            "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्॥",
+            "transliteration": "śvaśurān suhṛdaś caiva senayor ubhayor api\ntān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān",
+            "english": "Fathers-in-law and well-wishers too, in both armies. Seeing all these kinsmen arrayed, the son of Kunti was overcome.",
+            "hindi": "दोनों ही सेनाओं में श्वसुर और शुभचिंतकों को भी देखकर कुन्तीपुत्र अर्जुन इन सब बन्धुओं को देखकर अभिभूत हो गए।",
+            "marathi": "दोन्ही सैन्यांत सासरे आणि हितचिंतकांनाही पाहून कुंतीपुत्र अर्जुन हे सर्व बांधव पाहून व्याकुळ झाला.",
+            "word_meaning": "śvaśurān = fathers-in-law; suhṛdaḥ = well-wishers; kaunteyaḥ = son of Kunti (Arjuna); bandhūn = kinsmen; samīkṣya = having seen",
+            "keywords": [
+                "Arjuna",
+                "kinsmen",
+                "emotional weight"
+            ],
+            "summary": "Arjuna realizes that both armies are filled with his own extended family and well-wishers, deepening his distress.",
+            "reflection": "When conflict involves people close to us on all sides, it forces a much harder reckoning with our values."
+        },
+        {
+            "id": 28,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 28,
+            "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत्।\nअर्जुन उवाच।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्॥",
+            "transliteration": "kṛpayā parayāviṣṭo viṣīdann idam abravīt\narjuna uvāca\ndṛṣṭvemaṁ svajanaṁ kṛṣṇa yuyutsuṁ samupasthitam",
+            "english": "Overwhelmed with deep compassion, Arjuna, despairing, said: O Krishna, seeing my own kinsmen gathered here, eager to fight,",
+            "hindi": "अत्यन्त करुणा से भरकर, विषाद में डूबे अर्जुन ने कहा: हे कृष्ण! युद्ध की इच्छा से उपस्थित इन अपने ही स्वजनों को देखकर,",
+            "marathi": "अत्यंत करुणेने व्याप्त होऊन, विषादग्रस्त अर्जुन म्हणाला: हे कृष्णा! युद्धेच्छेने उपस्थित असलेल्या या आपल्याच स्वजनांना पाहून,",
+            "word_meaning": "kṛpayā parayā = with deep compassion; āviṣṭaḥ = overwhelmed; viṣīdan = despairing; svajanam = own people; yuyutsum = eager to fight; samupasthitam = present here",
+            "keywords": [
+                "Arjuna's grief",
+                "compassion",
+                "despair"
+            ],
+            "summary": "Overcome by compassion at the sight of his own relatives ready for war, Arjuna begins to voice his despair to Krishna.",
+            "reflection": "Compassion for those we might harm is not weakness — it is a sign of moral seriousness that deserves to be examined, not suppressed."
+        },
+        {
+            "id": 29,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 29,
+            "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते॥",
+            "transliteration": "sīdanti mama gātrāṇi mukhaṁ ca pariśuṣyati\nvepathuś ca śarīre me roma-harṣaś ca jāyate",
+            "english": "My limbs give way, and my mouth is drying up. My body trembles, and my hair stands on end.",
+            "hindi": "मेरे अंग शिथिल हो रहे हैं और मुख सूख रहा है। मेरे शरीर में कम्पन हो रहा है और रोंगटे खड़े हो रहे हैं।",
+            "marathi": "माझे अंग शिथिल होत आहेत आणि मुख कोरडे पडत आहे. माझ्या शरीरात कंप सुटला आहे आणि अंगावर रोमांच उभे राहत आहेत.",
+            "word_meaning": "sīdanti = give way/sink; gātrāṇi = limbs; pariśuṣyati = drying up; vepathuḥ = trembling; roma-harṣaḥ = hair standing on end",
+            "keywords": [
+                "physical symptoms",
+                "anxiety",
+                "Arjuna"
+            ],
+            "summary": "Arjuna describes intense physical symptoms of anxiety and dread overtaking his body.",
+            "reflection": "Strong emotional distress often manifests physically; noticing these signs in ourselves is important, not something to ignore."
+        },
+        {
+            "id": 30,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 30,
+            "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः॥",
+            "transliteration": "gāṇḍīvaṁ sraṁsate hastāt tvak caiva paridahyate\nna ca śaknomy avasthātuṁ bhramatīva ca me manaḥ",
+            "english": "My bow Gandiva is slipping from my hand, and my skin is burning all over. I am unable to stand steady, and my mind seems to be reeling.",
+            "hindi": "मेरे हाथ से गाण्डीव धनुष गिर रहा है और त्वचा जल रही है। मैं खड़ा भी नहीं रह पा रहा और मेरा मन भी भ्रमित हो रहा है।",
+            "marathi": "माझ्या हातातून गांडीव धनुष्य गळून पडत आहे आणि त्वचा जळत आहे. मला स्थिर उभेही राहता येत नाही आणि माझे मनही भ्रमित होत आहे.",
+            "word_meaning": "gāṇḍīvam = Arjuna's bow; sraṁsate = slipping; hastāt = from the hand; tvak = skin; paridahyate = burning; bhramati = reeling",
+            "keywords": [
+                "Gandiva",
+                "physical collapse",
+                "confusion"
+            ],
+            "summary": "Arjuna's distress intensifies to the point that he can no longer even hold his weapon steady.",
+            "reflection": "When overwhelmed, it can help to pause and acknowledge our state honestly rather than forcing ourselves forward blindly."
+        },
+        {
+            "id": 31,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 31,
+            "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे॥",
+            "transliteration": "nimittāni ca paśyāmi viparītāni keśava\nna ca śreyo 'nupaśyāmi hatvā svajanam āhave",
+            "english": "I see bad omens, O Keshava. Nor do I foresee any good in killing my own kinsmen in battle.",
+            "hindi": "हे केशव! मुझे अपशकुन दिखाई दे रहे हैं और युद्ध में अपने ही स्वजनों को मारकर मुझे कोई कल्याण दिखाई नहीं देता।",
+            "marathi": "हे केशवा! मला अपशकुन दिसत आहेत आणि युद्धात आपल्याच स्वजनांना मारून मला काही कल्याण दिसत नाही.",
+            "word_meaning": "nimittāni = omens; viparītāni = adverse/contrary; śreyaḥ = good/welfare; hatvā = having killed; āhave = in battle",
+            "keywords": [
+                "omens",
+                "Arjuna's doubt",
+                "kinsmen"
+            ],
+            "summary": "Arjuna states plainly that he sees no good outcome in killing his own relatives, regardless of the cause.",
+            "reflection": "When an action, however justified in theory, feels deeply wrong in practice, that inner conflict deserves honest examination."
+        },
+        {
+            "id": 32,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 32,
+            "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा॥",
+            "transliteration": "na kāṅkṣe vijayaṁ kṛṣṇa na ca rājyaṁ sukhāni ca\nkiṁ no rājyena govinda kiṁ bhogair jīvitena vā",
+            "english": "I do not desire victory, O Krishna, nor kingdom, nor pleasures. Of what use is a kingdom to us, O Govinda, or enjoyment, or even life itself?",
+            "hindi": "हे कृष्ण! मुझे न विजय चाहिए, न राज्य और न सुख। हे गोविन्द! हमें राज्य से, भोगों से या जीवन से भी क्या लाभ?",
+            "marathi": "हे कृष्णा! मला विजय नको, राज्य नको आणि सुखही नको. हे गोविंदा! आम्हांला राज्याचा, भोगांचा किंवा जीवनाचाही काय उपयोग?",
+            "word_meaning": "na kāṅkṣe = I do not desire; vijayam = victory; rājyam = kingdom; sukhāni = pleasures; bhogaiḥ = with enjoyments; jīvitena = with life",
+            "keywords": [
+                "renunciation",
+                "Arjuna's despair",
+                "kingdom"
+            ],
+            "summary": "Arjuna declares that victory, kingdom, and pleasure hold no appeal to him if they must come at the cost of his family.",
+            "reflection": "When success is weighed against the wellbeing of those we love, the calculation of what truly matters can shift entirely."
+        },
+        {
+            "id": 33,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 33,
+            "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च॥",
+            "transliteration": "yeṣām arthe kāṅkṣitaṁ no rājyaṁ bhogāḥ sukhāni ca\nta ime 'vasthitā yuddhe prāṇāṁs tyaktvā dhanāni ca",
+            "english": "Those for whose sake we desire kingdom, enjoyments, and pleasures are standing here in battle, having renounced their lives and wealth.",
+            "hindi": "जिनके लिए हम राज्य, भोग और सुख चाहते हैं, वे ही लोग अपने प्राणों और धन का त्याग करके युद्ध में खड़े हैं।",
+            "marathi": "ज्यांच्यासाठी आम्ही राज्य, भोग आणि सुख इच्छितो, तेच लोक आपले प्राण आणि धन यांचा त्याग करून युद्धात उभे आहेत.",
+            "word_meaning": "yeṣām arthe = for whose sake; kāṅkṣitam = desired; avasthitāḥ yuddhe = stationed in battle; tyaktvā = having given up",
+            "keywords": [
+                "irony",
+                "kinsmen",
+                "sacrifice"
+            ],
+            "summary": "Arjuna points out the bitter irony that the very people for whom worldly gains would matter are the ones he'd have to kill to get them.",
+            "reflection": "Ambitions pursued at the cost of the relationships that give them meaning often become hollow victories."
+        },
+        {
+            "id": 34,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 34,
+            "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः।\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा॥",
+            "transliteration": "ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinas tathā",
+            "english": "Teachers, fathers, sons, grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives.",
+            "hindi": "आचार्य, पिता, पुत्र, पितामह, मामा, श्वसुर, पौत्र, साले तथा अन्य सम्बन्धी।",
+            "marathi": "आचार्य, पिता, पुत्र, पितामह, मामा, सासरे, नातू, मेहुणे तसेच इतर नातेवाईक.",
+            "word_meaning": "ācāryāḥ = teachers; pitaraḥ = fathers; putrāḥ = sons; śyālāḥ = brothers-in-law; sambandhinaḥ = relatives",
+            "keywords": [
+                "relatives list",
+                "family ties"
+            ],
+            "summary": "Arjuna continues cataloguing the many kinds of relatives standing on the battlefield before him.",
+            "reflection": "Naming exactly who and what is at stake helps clarify the true emotional weight of a decision."
+        },
+        {
+            "id": 35,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 35,
+            "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते॥",
+            "transliteration": "etān na hantum icchāmi ghnato 'pi madhusūdana\napi trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛte",
+            "english": "I do not wish to kill them, O Madhusudana, even if they were to kill me — not even for the sovereignty of the three worlds, let alone for this earth.",
+            "hindi": "हे मधुसूदन! मैं इन्हें मारना नहीं चाहता, चाहे ये मुझे मार डालें, त्रैलोक्य के राज्य के लिए भी नहीं, फिर पृथ्वी के लिए तो क्या ही।",
+            "marathi": "हे मधुसूदना! मला यांना मारायचे नाही, जरी हे मला मारले तरी; त्रैलोक्याच्या राज्यासाठीही नाही, मग पृथ्वीसाठी तर काय बोलावे.",
+            "word_meaning": "na hantum icchāmi = I do not wish to kill; ghnataḥ api = even if they kill (me); trailokya-rājyasya hetoḥ = for the sake of the kingdom of the three worlds",
+            "keywords": [
+                "nonviolence",
+                "Arjuna's refusal",
+                "kinship"
+            ],
+            "summary": "Arjuna declares he would not kill his kin even to gain rule over the entire universe, let alone a mere kingdom.",
+            "reflection": "Some values, for a person of conscience, cannot be traded away for any amount of gain."
+        },
+        {
+            "id": 36,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 36,
+            "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।\nपापमेवाश्रयेदस्मान् हत्वैतानाततायिनः॥",
+            "transliteration": "nihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana\npāpam evāśrayed asmān hatvaitān ātatāyinaḥ",
+            "english": "What pleasure could we have, O Janardana, in killing the sons of Dhritarashtra? Sin alone would come to us by slaying these aggressors.",
+            "hindi": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें क्या प्रसन्नता होगी? इन आततायियों को मारने से हमें केवल पाप ही लगेगा।",
+            "marathi": "हे जनार्दना! धृतराष्ट्राच्या पुत्रांना मारून आम्हांला काय आनंद मिळणार? या आततायींना मारल्याने आम्हांला केवळ पापच लागेल.",
+            "word_meaning": "nihatya = having killed; kā prītiḥ = what joy; pāpam = sin; āśrayet = would befall; ātatāyinaḥ = aggressors",
+            "keywords": [
+                "sin",
+                "Kauravas",
+                "moral doubt"
+            ],
+            "summary": "Arjuna questions what satisfaction could possibly come from killing his cousins, fearing it would only bring sin upon them.",
+            "reflection": "Even when an opponent's actions are wrong, taking their life may still weigh heavily on one's own conscience."
+        },
+        {
+            "id": 37,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 37,
+            "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥",
+            "transliteration": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣṭrān sva-bāndhavān\nsvajanaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava",
+            "english": "Therefore we ought not to kill the sons of Dhritarashtra, our own relatives. How, O Madhava, could we be happy after killing our own kinsmen?",
+            "hindi": "अतः हमें अपने बन्धु धृतराष्ट्र-पुत्रों को नहीं मारना चाहिए। हे माधव! अपने ही स्वजनों को मारकर हम सुखी कैसे हो सकते हैं?",
+            "marathi": "म्हणून आम्ही आमच्या बांधव धृतराष्ट्रपुत्रांना मारू नये. हे माधवा! आपल्याच स्वजनांना मारून आम्ही सुखी कसे होऊ शकू?",
+            "word_meaning": "na arhāḥ = we ought not; sva-bāndhavān = our own relatives; sukhinaḥ = happy; syāma = we might be",
+            "keywords": [
+                "family",
+                "happiness",
+                "moral reasoning"
+            ],
+            "summary": "Arjuna concludes that killing his own family cannot possibly lead to a happy or worthwhile outcome.",
+            "reflection": "True wellbeing is hard to build on foundations of harm to those close to us, regardless of surrounding justification."
+        },
+        {
+            "id": 38,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 38,
+            "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥",
+            "transliteration": "yady apy ete na paśyanti lobhopahata-cetasaḥ\nkula-kṣaya-kṛtaṁ doṣaṁ mitra-drohe ca pātakam",
+            "english": "Even though they, their minds overpowered by greed, see no wrong in destroying their own family or committing treachery against friends,",
+            "hindi": "यद्यपि लोभ से आच्छादित चित्त वाले ये लोग कुल के नाश में दोष और मित्रों के प्रति द्रोह में पाप नहीं देखते,",
+            "marathi": "जरी लोभाने ग्रासलेल्या मनाचे हे लोक कुळाच्या नाशात दोष आणि मित्रांशी द्रोह करण्यात पाप पाहत नसले तरी,",
+            "word_meaning": "lobha-upahata-cetasaḥ = minds overpowered by greed; kula-kṣaya-kṛtam doṣam = the fault caused by destruction of the family; mitra-drohe = in betrayal of friends",
+            "keywords": [
+                "greed",
+                "moral blindness",
+                "Kauravas"
+            ],
+            "summary": "Arjuna observes that the Kauravas, blinded by greed, fail to see the wrongness of destroying their own clan.",
+            "reflection": "Greed can cloud moral judgment; recognizing this in others is a warning to guard against it in ourselves too."
+        },
+        {
+            "id": 39,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 39,
+            "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन॥",
+            "transliteration": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣaya-kṛtaṁ doṣaṁ prapaśyadbhir janārdana",
+            "english": "Why should we, O Janardana, who clearly see the wrong in destroying a family, not know enough to turn away from this sin?",
+            "hindi": "हे जनार्दन! कुल-नाश के दोष को स्पष्ट देखने वाले हम लोगों को इस पाप से निवृत्त होना क्यों नहीं सूझना चाहिए?",
+            "marathi": "हे जनार्दना! कुलनाशाचा दोष स्पष्ट पाहणाऱ्या आम्हांला या पापापासून निवृत्त होणे का सुचू नये?",
+            "word_meaning": "kathaṁ na jñeyam = why should it not be understood; nivartitum = to turn away; prapaśyadbhiḥ = by those who clearly see",
+            "keywords": [
+                "wisdom",
+                "restraint",
+                "moral duty"
+            ],
+            "summary": "Arjuna argues that since he and the Pandavas can clearly see the wrongness of this destruction, they should be wise enough to withdraw.",
+            "reflection": "Recognizing a harmful path clearly is the first step; the harder task is having the courage to actually turn away from it."
+        },
+        {
+            "id": 40,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 40,
+            "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥",
+            "transliteration": "kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ\ndharme naṣṭe kulaṁ kṛtsnam adharmo 'bhibhavaty uta",
+            "english": "With the destruction of a family, its ancient traditions perish; and when tradition is lost, the whole family becomes overwhelmed by unrighteousness.",
+            "hindi": "कुल के नाश से सनातन कुलधर्म नष्ट हो जाते हैं और धर्म के नष्ट होने पर सम्पूर्ण कुल में अधर्म फैल जाता है।",
+            "marathi": "कुळाच्या नाशाने सनातन कुलधर्म नष्ट होतात आणि धर्म नष्ट झाल्यावर संपूर्ण कुळात अधर्म पसरतो.",
+            "word_meaning": "kula-kṣaye = in the destruction of the family; kula-dharmāḥ sanātanāḥ = ancient family traditions; adharmaḥ = unrighteousness; abhibhavati = overwhelms",
+            "keywords": [
+                "family tradition",
+                "dharma",
+                "social order"
+            ],
+            "summary": "Arjuna warns that destroying a family destroys its time-honored moral traditions, opening the door to widespread unrighteousness.",
+            "reflection": "When core relationships and traditions collapse, the moral fabric holding a community together can unravel quickly."
+        },
+        {
+            "id": 41,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 41,
+            "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः॥",
+            "transliteration": "adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṅkaraḥ",
+            "english": "When unrighteousness prevails, O Krishna, the women of the family become corrupted; and when women are corrupted, O Varshneya, unwanted social confusion arises.",
+            "hindi": "हे कृष्ण! अधर्म के बढ़ने पर कुल की स्त्रियाँ दूषित हो जाती हैं, और हे वार्ष्णेय! स्त्रियों के दूषित होने पर वर्णसंकर उत्पन्न होता है।",
+            "marathi": "हे कृष्णा! अधर्म वाढल्याने कुळातील स्त्रिया दूषित होतात, आणि हे वार्ष्णेया! स्त्रिया दूषित झाल्याने वर्णसंकर निर्माण होतो.",
+            "word_meaning": "adharma-abhibhavāt = due to the prevailing of unrighteousness; kula-striyaḥ = women of the family; varṇa-saṅkaraḥ = intermixture/social confusion",
+            "keywords": [
+                "social order",
+                "tradition",
+                "ancient context"
+            ],
+            "summary": "Arjuna describes, in terms reflecting the social norms of his era, how societal breakdown follows the collapse of family structure.",
+            "reflection": "This verse reflects ancient social assumptions about gender and lineage; its broader point is about how the collapse of a stable social structure has cascading consequences."
+        },
+        {
+            "id": 42,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 42,
+            "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः॥",
+            "transliteration": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya ca\npatanti pitaro hy eṣāṁ lupta-piṇḍodaka-kriyāḥ",
+            "english": "Such confusion leads to hell for the destroyers of the family as well as for the family itself. Their ancestors fall, deprived of the offerings of rice-balls and water.",
+            "hindi": "यह वर्णसंकर कुलघातियों और कुल दोनों को नरक में ले जाता है। पिण्डदान और जलदान की क्रिया लुप्त हो जाने से इनके पितर भी अधोगति को प्राप्त होते हैं।",
+            "marathi": "हा वर्णसंकर कुलघातकांना आणि कुळालाही नरकात नेतो. पिंडदान व जलदानाची क्रिया लुप्त झाल्याने यांचे पितरही अधोगतीला प्राप्त होतात.",
+            "word_meaning": "saṅkaraḥ = confusion; narakāya = leads to hell; kula-ghnānām = of the destroyers of the family; pitaraḥ patanti = ancestors fall; lupta-piṇḍa-udaka-kriyāḥ = deprived of ritual offerings",
+            "keywords": [
+                "ancestral rites",
+                "consequences",
+                "tradition"
+            ],
+            "summary": "Arjuna continues, warning that ancestral rites too would collapse, believed in his tradition to cause the ancestors themselves to suffer.",
+            "reflection": "Actions taken in the present can ripple outward, affecting the wellbeing of an entire lineage or community, not just the immediate actors."
+        },
+        {
+            "id": 43,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 43,
+            "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः॥",
+            "transliteration": "doṣair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ",
+            "english": "By these evils of the destroyers of the family, which cause social confusion, the eternal traditions of caste and family are destroyed.",
+            "hindi": "कुलघातियों के इन दोषों से, जो वर्णसंकर उत्पन्न करते हैं, जाति-धर्म और सनातन कुलधर्म नष्ट हो जाते हैं।",
+            "marathi": "कुलघातकांच्या या दोषांनी, जे वर्णसंकर निर्माण करतात, जातिधर्म आणि सनातन कुलधर्म नष्ट होतात.",
+            "word_meaning": "doṣaiḥ = by the faults; utsādyante = are destroyed; jāti-dharmāḥ = caste duties; śāśvatāḥ = eternal",
+            "keywords": [
+                "tradition",
+                "dharma",
+                "consequences"
+            ],
+            "summary": "Arjuna reiterates his fear that the destruction of family will unravel long-standing social and moral order.",
+            "reflection": "Fear of losing tradition and order is a powerful motivator; it deserves examination alongside other values at stake."
+        },
+        {
+            "id": 44,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 44,
+            "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम॥",
+            "transliteration": "utsanna-kula-dharmāṇāṁ manuṣyāṇāṁ janārdana\nnarake 'niyataṁ vāso bhavatīty anuśuśruma",
+            "english": "O Janardana, we have heard that those men whose family traditions are destroyed dwell for an unknown duration in hell.",
+            "hindi": "हे जनार्दन! हमने सुना है कि जिन मनुष्यों के कुलधर्म नष्ट हो जाते हैं, उन्हें अनिश्चित काल तक नरक में वास करना पड़ता है।",
+            "marathi": "हे जनार्दना! आम्ही ऐकले आहे की ज्या माणसांचे कुलधर्म नष्ट होतात, त्यांना अनिश्चित काळ नरकात राहावे लागते.",
+            "word_meaning": "utsanna-kula-dharmāṇām = of those whose family traditions are destroyed; narake = in hell; aniyatam vāsaḥ = uncertain/prolonged dwelling; anuśuśruma = we have heard",
+            "keywords": [
+                "consequences",
+                "tradition",
+                "belief"
+            ],
+            "summary": "Arjuna cites received tradition, saying that those responsible for destroying family dharma are said to suffer greatly afterward.",
+            "reflection": "Beliefs passed down through tradition often carry real weight in how we weigh our choices, even when we can't verify them directly."
+        },
+        {
+            "id": 45,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 45,
+            "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥",
+            "transliteration": "aho bata mahat pāpaṁ kartuṁ vyavasitā vayam\nyad rājya-sukha-lobhena hantuṁ svajanam udyatāḥ",
+            "english": "Alas, what a great sin we are resolved to commit! Driven by greed for the pleasures of a kingdom, we stand ready to kill our own kinsmen.",
+            "hindi": "हाय! हम कितना बड़ा पाप करने को तैयार हो गए हैं, जो राज्य-सुख के लोभ में अपने ही स्वजनों को मारने के लिए उद्यत हैं।",
+            "marathi": "अरेरे! आम्ही किती मोठे पाप करण्यास सिद्ध झालो आहोत, जे राज्यसुखाच्या लोभाने आपल्याच स्वजनांना मारण्यास उद्युक्त झालो आहोत.",
+            "word_meaning": "aho bata = alas; mahat pāpam = great sin; vyavasitāḥ = resolved; rājya-sukha-lobhena = out of greed for royal pleasure",
+            "keywords": [
+                "remorse",
+                "greed",
+                "Arjuna's lament"
+            ],
+            "summary": "Arjuna laments that greed for a kingdom's pleasures has driven them to the brink of a terrible sin.",
+            "reflection": "Pausing to name our own potential wrongdoing honestly, without excuse, is a mark of genuine self-awareness."
+        },
+        {
+            "id": 46,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 46,
+            "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥",
+            "transliteration": "yadi mām apratīkāram aśastraṁ śastra-pāṇayaḥ\ndhārtarāṣṭrā raṇe hanyus tan me kṣemataraṁ bhavet",
+            "english": "If the armed sons of Dhritarashtra were to kill me, unarmed and unresisting, in battle, that would be a greater good for me.",
+            "hindi": "यदि शस्त्रधारी धृतराष्ट्र के पुत्र मुझ निःशस्त्र और अप्रतिकार करने वाले को युद्ध में मार डालें, तो यह मेरे लिए अधिक कल्याणकारी होगा।",
+            "marathi": "जर शस्त्रधारी धृतराष्ट्राचे पुत्र मला निःशस्त्र आणि प्रतिकार न करणाऱ्याला युद्धात मारून टाकतील, तर ते माझ्यासाठी अधिक कल्याणकारक होईल.",
+            "word_meaning": "apratīkāram = without resistance; aśastram = unarmed; śastra-pāṇayaḥ = weapon in hand; kṣemataram = more beneficial",
+            "keywords": [
+                "Arjuna's despair",
+                "non-resistance",
+                "surrender"
+            ],
+            "summary": "In deep despair, Arjuna declares he would rather be killed unarmed and unresisting than fight this battle.",
+            "reflection": "Extreme despair can push a person toward passivity that feels like relief; recognizing this state is important before acting on it."
+        },
+        {
+            "id": 47,
+            "chapter": 1,
+            "chapter_name": "Arjuna Vishada Yoga",
+            "verse": 47,
+            "sanskrit": "सञ्जय उवाच।\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत्।\nविसृज्य सशरं चापं शोकसंविग्नमानसः॥",
+            "transliteration": "sañjaya uvāca\nevam uktvārjunaḥ saṅkhye rathopastha upāviśat\nvisṛjya sa-śaraṁ cāpaṁ śoka-saṁvigna-mānasaḥ",
+            "english": "Sanjaya said: Having spoken thus on the battlefield, Arjuna, his mind overwhelmed with grief, cast aside his bow and arrows and sank down onto the seat of his chariot.",
+            "hindi": "संजय ने कहा: युद्धभूमि में ऐसा कहकर, शोक-संतप्त मन वाले अर्जुन धनुष-बाण त्यागकर रथ के आसन पर बैठ गए।",
+            "marathi": "संजय म्हणाले: युद्धभूमीवर असे बोलून, शोकसंतप्त मनाच्या अर्जुनाने धनुष्यबाण टाकून दिले आणि रथाच्या आसनावर तो बसला.",
+            "word_meaning": "evam uktvā = having spoken thus; rathopasthe upāviśat = sat down on the chariot seat; visṛjya = casting aside; śoka-saṁvigna-mānasaḥ = mind overwhelmed with grief",
+            "keywords": [
+                "Arjuna's collapse",
+                "grief",
+                "chapter ending"
+            ],
+            "summary": "Overwhelmed by grief, Arjuna drops his weapons and sits down in despair, unable to proceed — setting the stage for Krishna's teaching.",
+            "reflection": "Reaching a point of total overwhelm can be the necessary moment that opens us to seeking deeper guidance and wisdom."
+        }
+    ]
+}
