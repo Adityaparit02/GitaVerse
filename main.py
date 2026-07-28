@@ -9,8 +9,7 @@ from state_manager import StateManager
 from formatter import Formatter
 from sender import EmailSender
 from log_manager import LogManager
-
-from config import RECEIVER_EMAIL
+from subscriber_manager import SubscriberManager
 
 
 def main() -> None:
@@ -22,6 +21,7 @@ def main() -> None:
     formatter = Formatter()
     sender = EmailSender()
     log = LogManager()
+    subscriber = SubscriberManager()
 
     # Start logging
     log.start()
@@ -50,12 +50,20 @@ def main() -> None:
         verse_number=verse["verse"]
     )
 
-    # Format message
+    # Load subscribers
+    receivers = subscriber.get_all()
+
+    if not receivers:
+        log.error("No subscribers found.")
+        log.finish(False)
+        return
+
+    # Format HTML email
     message = formatter.format_html(verse)
 
     log.formatting_completed()
 
-    # Subject
+    # Email subject
     subject = (
         f"Bhagavad Gita | "
         f"Chapter {verse['chapter']} "
@@ -63,16 +71,21 @@ def main() -> None:
     )
 
     # Send email
-    success = sender.send(subject, message)
+    success = sender.send(
+        subject,
+        message,
+        receivers
+    )
 
     if success:
 
         previous = current_id
 
+        # Move to next verse
         state.increment(reader.get_total_verses())
 
         log.email_sent(
-            recipient=RECEIVER_EMAIL,
+            recipient=f"{len(receivers)} Subscribers",
             subject=subject
         )
 

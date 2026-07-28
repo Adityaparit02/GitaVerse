@@ -11,15 +11,14 @@ from email.mime.multipart import MIMEMultipart
 
 from config import (
     SENDER_EMAIL,
-    APP_PASSWORD,
-    RECEIVER_EMAIL
+    APP_PASSWORD
 )
 
 
 class EmailSender:
     """Send emails using Gmail SMTP."""
 
-    def send(self, subject: str, body: str) -> bool:
+    def send(self, subject: str, body: str,receivers: list[str]) -> bool:
         """
         Send an email.
 
@@ -35,7 +34,12 @@ class EmailSender:
             message = MIMEMultipart()
 
             message["From"] = SENDER_EMAIL
-            message["To"] = RECEIVER_EMAIL
+            message["To"] = ", ".join(receivers)
+            smtp.sendmail(
+                SENDER_EMAIL,
+                receivers,
+                message.as_string()
+)
             message["Subject"] = subject
 
             message.attach(
