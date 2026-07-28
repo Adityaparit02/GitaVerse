@@ -3,6 +3,7 @@ sender.py
 
 Handles sending emails.
 """
+
 import smtplib
 
 from email.mime.text import MIMEText
@@ -19,7 +20,7 @@ class EmailSender:
 
     def send(self, subject: str, body: str, receivers: list[str]) -> bool:
         """
-        Send an email.
+        Send an email to all subscribers individually.
 
         Args:
             subject (str): Email subject.
@@ -27,37 +28,43 @@ class EmailSender:
             receivers (list[str]): List of recipient email addresses.
 
         Returns:
-            bool: True if email sent successfully, otherwise False.
+            bool: True if all emails are sent successfully, otherwise False.
         """
 
+        if not receivers:
+            print("No subscribers found.")
+            return False
+
         try:
-            message = MIMEMultipart()
-
-            message["From"] = SENDER_EMAIL
-            message["To"] = ", ".join(receivers)
-            message["Subject"] = subject
-
-            message.attach(
-                MIMEText(body, "html", "utf-8")
-            )
 
             with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
 
                 smtp.starttls()
-
-                print(f"Sender: {SENDER_EMAIL}")
-                print(f"Password Length: {len(APP_PASSWORD) if APP_PASSWORD else 0}")
 
                 smtp.login(
                     SENDER_EMAIL,
                     APP_PASSWORD
                 )
 
-                smtp.sendmail(
-                    SENDER_EMAIL,
-                    receivers,
-                    message.as_string()
-                )
+                for receiver in receivers:
+
+                    message = MIMEMultipart()
+
+                    message["From"] = SENDER_EMAIL
+                    message["To"] = receiver
+                    message["Subject"] = subject
+
+                    message.attach(
+                        MIMEText(body, "html", "utf-8")
+                    )
+
+                    smtp.sendmail(
+                        SENDER_EMAIL,
+                        receiver,
+                        message.as_string()
+                    )
+
+                    print(f"✓ Email sent to {receiver}")
 
             return True
 
