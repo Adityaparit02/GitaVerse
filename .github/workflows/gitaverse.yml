@@ -1,0 +1,49 @@
+name: GitaVerse Daily Automation
+
+on:
+  schedule:
+    # Runs every day at 2:30 AM UTC = 8:00 AM IST
+    - cron: "30 2 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  send-verse:
+    runs-on: ubuntu-latest
+
+    env:
+      EMAIL: ${{ secrets.EMAIL }}
+      PASSWORD: ${{ secrets.PASSWORD }}
+      RECEIVER: ${{ secrets.RECEIVER }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run GitaVerse
+        run: |
+          python main.py
+
+      - name: Commit Updated Verse State
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add state/current_verse.json
+
+          git diff --cached --quiet || git commit -m "Update current verse"
+
+          git push
