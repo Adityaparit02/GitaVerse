@@ -42,7 +42,9 @@ jobs:
           else
             echo "PASSWORD length: ${#PASSWORD}"
           fi
-          
+          - name: Debug Email
+        run: |
+        echo "EMAIL=$EMAIL"
       - name: Run GitaVerse
         run: |
           python main.py
