@@ -32,7 +32,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: Verify Secrets
+        run: |
+          echo "EMAIL=$EMAIL"
+          echo "RECEIVER=$RECEIVER"
 
+          if [ -z "$PASSWORD" ]; then
+            echo "PASSWORD is EMPTY"
+          else
+            echo "PASSWORD length: ${#PASSWORD}"
+          fi
+          
       - name: Run GitaVerse
         run: |
           python main.py
