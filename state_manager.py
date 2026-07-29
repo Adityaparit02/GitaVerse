@@ -1,3 +1,36 @@
+###############################################################################
+#                                                                             #
+#                           G I T A V E R S E                                 #
+#                 Daily Bhagavad Gita Verse Email Automation                  #
+#                                                                             #
+###############################################################################
+# Project Name : GitaVerse
+# File Name    : <state_manager.py>
+#
+# Author       : Aditya Namdeo Parit
+# GitHub       : https://github.com/Adityaparit02/GitaVerse
+# Created On   : 28 July 2026
+# Last Updated : 29 July 2026
+# Version      : 1.0.0
+#
+# Description  :
+# -----------------------------------------------------------------------------
+# Maintains the application's current verse progress and updates the state
+# after every successful email delivery.
+
+# Features :
+# -----------------------------------------------------------------------------
+# • Daily Bhagavad Gita Verse Automation
+# • HTML Email Generation
+# • Multiple Subscriber Support
+# • GitHub Actions Automation
+# • Automatic Verse Progression
+# • State Management
+# • Logging & Error Handling
+#
+# Copyright (c) 2026 Aditya Namdeo Parit
+###############################################################################
+
 """
 state_manager.py
 

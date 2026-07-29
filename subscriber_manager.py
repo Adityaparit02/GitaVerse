@@ -1,3 +1,34 @@
+###############################################################################
+#                                                                             #
+#                           G I T A V E R S E                                 #
+#                 Daily Bhagavad Gita Verse Email Automation                  #
+#                                                                             #
+###############################################################################
+# Project Name : GitaVerse
+# File Name    : <subscriber_manager.py>
+#
+# Author       : Aditya Namdeo Parit
+# GitHub       : https://github.com/Adityaparit02/GitaVerse
+# Created On   : 28 July 2026
+# Last Updated : 29 July 2026
+# Version      : 1.0.0
+#
+# Description  :
+# -----------------------------------------------------------------------------
+# Loads and manages subscriber information stored in subscribers.json.
+#
+# Features :
+# -----------------------------------------------------------------------------
+# • Daily Bhagavad Gita Verse Automation
+# • HTML Email Generation
+# • Multiple Subscriber Support
+# • GitHub Actions Automation
+# • Automatic Verse Progression
+# • State Management
+# • Logging & Error Handling
+#
+# Copyright (c) 2026 Aditya Namdeo Parit
+###############################################################################
 import json
 
 

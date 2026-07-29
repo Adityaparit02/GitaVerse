@@ -1,3 +1,37 @@
+###############################################################################
+#                                                                             #
+#                           G I T A V E R S E                                 #
+#                 Daily Bhagavad Gita Verse Email Automation                  #
+#                                                                             #
+###############################################################################
+# Project Name : GitaVerse
+# File Name    : <main.py>
+#
+# Author       : Aditya Namdeo Parit
+# GitHub       : https://github.com/Adityaparit02/GitaVerse
+# Created On   : 28 July 2026
+# Last Updated : 29 July 2026
+# Version      : 1.0.0
+#
+# Description  :
+# -----------------------------------------------------------------------------
+# Main entry point of the GitaVerse application.
+# Coordinates all project modules to read the current verse, format the email,
+# send it to subscribers, update the verse state, and log execution details.
+#
+# Features :
+# -----------------------------------------------------------------------------
+# • Daily Bhagavad Gita Verse Automation
+# • HTML Email Generation
+# • Multiple Subscriber Support
+# • GitHub Actions Automation
+# • Automatic Verse Progression
+# • State Management
+# • Logging & Error Handling
+#
+# Copyright (c) 2026 Aditya Namdeo Parit
+#
+################################################################################
 """
 main.py
 
