@@ -1,0 +1,1394 @@
+{
+    "book": "Bhagavad Gita",
+    "language": "Multilingual",
+    "total_chapters": 18,
+    "total_verses": 700,
+    "note": "This file contains Chapter 2, Sankhya Yoga, verses 1-72, as part of the complete 700-verse Bhagavad Gita database. IDs continue globally from Chapter 1 (which ends at id 47).",
+    "chapter_2_title": "Sankhya Yoga (The Yoga of Knowledge / Analytical Knowledge)",
+    "verses_in_this_file": 72,
+    "verses": [
+        {
+            "id": 48,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 1,
+            "sanskrit": "सञ्जय उवाच।\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः॥",
+            "transliteration": "sañjaya uvāca\ntaṁ tathā kṛpayāviṣṭam aśru-pūrṇākulekṣaṇam\nviṣīdantam idaṁ vākyam uvāca madhusūdanaḥ",
+            "english": "Sanjaya said: Seeing Arjuna overwhelmed with pity, his eyes filled with tears and downcast, Madhusudana (Krishna) spoke these words.",
+            "hindi": "संजय ने कहा: करुणा से भरे हुए, आँसुओं से भरे और व्याकुल नेत्रों वाले तथा शोकयुक्त अर्जुन को देखकर मधुसूदन (श्रीकृष्ण) ने ये वचन कहे।",
+            "marathi": "संजय म्हणाले: करुणेने व्याकुळ झालेल्या, अश्रूंनी भरलेल्या व्याकुळ नेत्रांच्या आणि शोकाकुल अर्जुनाला पाहून मधुसूदनांनी (श्रीकृष्णांनी) हे वचन सांगितले.",
+            "word_meaning": "Sanjaya: the narrator reporting to King Dhritarashtra. Madhusudana: a name of Krishna, 'slayer of the demon Madhu'. kṛpayā āviṣṭam: overcome by compassion/pity.",
+            "keywords": [
+                "Sanjaya",
+                "Arjuna's grief",
+                "Krishna",
+                "narration",
+                "compassion"
+            ],
+            "summary": "The chapter opens with Sanjaya describing Arjuna's pitiable, tearful state, setting the stage for Krishna's teaching.",
+            "reflection": "Even the strongest among us can be overwhelmed by grief and confusion; what matters is being willing to turn toward wisdom in that moment."
+        },
+        {
+            "id": 49,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 2,
+            "sanskrit": "श्रीभगवानुवाच।\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्।\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन॥",
+            "transliteration": "śrī-bhagavān uvāca\nkutas tvā kaśmalam idaṁ viṣame samupasthitam\nanārya-juṣṭam asvargyam akīrti-karam arjuna",
+            "english": "The Blessed Lord said: From where has this dejection come to you in this hour of crisis, Arjuna? It is unworthy of an noble person, does not lead to heaven, and brings disgrace.",
+            "hindi": "भगवान ने कहा: हे अर्जुन, इस विषम अवसर पर तुझे यह मोह किस कारण से प्राप्त हुआ है? यह श्रेष्ठ पुरुषों द्वारा आचरित नहीं, स्वर्ग देने वाला नहीं और अपयश करने वाला है।",
+            "marathi": "भगवान म्हणाले: हे अर्जुना, या कठीण प्रसंगी तुला हा मोह कोठून प्राप्त झाला? हा श्रेष्ठ पुरुषांनी आचरलेला नाही, स्वर्ग देणारा नाही आणि अपकीर्ती करणारा आहे.",
+            "word_meaning": "kaśmalam: impurity/dejection of mind. anārya-juṣṭam: not practiced by noble/civilized people. asvargyam: not conducive to heaven. akīrti-karam: causing disgrace.",
+            "keywords": [
+                "dejection",
+                "Krishna's rebuke",
+                "duty",
+                "honor"
+            ],
+            "summary": "Krishna gently but firmly questions the source of Arjuna's weakness, calling it unbecoming of him.",
+            "reflection": "Naming our confusion honestly, as Krishna does here, is often the first step toward moving through it rather than being paralyzed by it."
+        },
+        {
+            "id": 50,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 3,
+            "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥",
+            "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayy upapadyate\nkṣudraṁ hṛdaya-daurbalyaṁ tyaktvottiṣṭha parantapa",
+            "english": "Do not yield to unmanliness, O Partha; it does not become you. Cast off this petty weakness of heart and arise, O scorcher of foes.",
+            "hindi": "हे पार्थ! नपुंसकता को प्राप्त मत हो, यह तुझे शोभा नहीं देती। हे परंतप! हृदय की तुच्छ दुर्बलता को त्यागकर खड़ा हो जा।",
+            "marathi": "हे पार्था! नपुंसकत्वाला प्राप्त होऊ नकोस, हे तुला शोभत नाही. हे परंतपा! हृदयाची तुच्छ दुर्बलता सोडून ऊठ.",
+            "word_meaning": "klaibyam: impotence/cowardice. Partha: son of Pritha (Arjuna). parantapa: scorcher of enemies, an epithet of Arjuna.",
+            "keywords": [
+                "courage",
+                "weakness",
+                "call to action",
+                "Arjuna"
+            ],
+            "summary": "Krishna urges Arjuna to shed his faint-heartedness and rise to his responsibility as a warrior.",
+            "reflection": "There are moments life calls us to rise above self-doubt and act, even when our hearts feel heavy."
+        },
+        {
+            "id": 51,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 4,
+            "sanskrit": "अर्जुन उवाच।\nकथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन।\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन॥",
+            "transliteration": "arjuna uvāca\nkathaṁ bhīṣmam ahaṁ saṅkhye droṇaṁ ca madhusūdana\niṣubhiḥ pratiyotsyāmi pūjārhāv ari-sūdana",
+            "english": "Arjuna said: How can I, O Madhusudana, fight in battle with arrows against Bhishma and Drona, who are worthy of my worship, O slayer of foes?",
+            "hindi": "अर्जुन ने कहा: हे मधुसूदन! मैं युद्ध में पूजनीय भीष्म और द्रोण के विरुद्ध बाणों से किस प्रकार लड़ूँ, हे अरिसूदन?",
+            "marathi": "अर्जुन म्हणाले: हे मधुसूदना! युद्धात पूजनीय भीष्म आणि द्रोण यांच्याविरुद्ध बाणांनी मी कसे लढू, हे अरिसूदना?",
+            "word_meaning": "Bhishma and Drona: revered elders and teachers of Arjuna, now on the opposing side. pūjārhau: worthy of worship/reverence.",
+            "keywords": [
+                "Bhishma",
+                "Drona",
+                "moral dilemma",
+                "reverence"
+            ],
+            "summary": "Arjuna voices his anguish at having to fight revered elders and teachers who deserve honor, not violence.",
+            "reflection": "Conflicts of duty against love and respect for those who raised us are among life's hardest tests."
+        },
+        {
+            "id": 52,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 5,
+            "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके।\nहत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान्॥",
+            "transliteration": "gurūn ahatvā hi mahānubhāvān śreyo bhoktuṁ bhaikṣyam apīha loke\nhatvārtha-kāmāṁs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān",
+            "english": "It is better indeed to live on alms in this world without killing these noble elders, than to enjoy wealth and pleasures here, stained with the blood of gurus slain out of greed.",
+            "hindi": "इस लोक में इन महानुभाव गुरुजनों को न मारकर भिक्षान्न खाना भी श्रेष्ठ है, परन्तु अर्थ और भोगों की कामना से इन गुरुजनों को मारकर तो रक्त से सने हुए भोगों को ही भोगना होगा।",
+            "marathi": "या जगात या महानुभाव गुरुजनांना न मारता भिक्षान्न खाणे देखील श्रेष्ठ आहे, पण अर्थ आणि भोगांच्या कामनेने या गुरुजनांना मारून रक्ताने माखलेले भोगच भोगावे लागतील.",
+            "word_meaning": "mahānubhāvān: noble, great-souled ones. bhaikṣyam: alms/begging. rudhira-pradigdhān: stained/smeared with blood.",
+            "keywords": [
+                "non-violence",
+                "guru reverence",
+                "moral conflict",
+                "renunciation"
+            ],
+            "summary": "Arjuna feels that even a beggar's life would be more honorable than gaining a kingdom through the blood of his teachers.",
+            "reflection": "When gain comes at the cost of deep moral injury, its value can feel hollow."
+        },
+        {
+            "id": 53,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 6,
+            "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः।\nयानेव हत्वा न जिजीविषामस्ते ऽवस्थिताः प्रमुखे धार्तराष्ट्राः॥",
+            "transliteration": "na caitad vidmaḥ kataran no garīyo yad vā jayema yadi vā no jayeyuḥ\nyān eva hatvā na jijīviṣāmas te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+            "english": "Nor do we know which is better for us—whether we conquer them or they conquer us. The sons of Dhritarashtra, having killed whom we would not wish to live, stand arrayed before us.",
+            "hindi": "और हम यह भी नहीं जानते कि हमारे लिए क्या श्रेष्ठ है—हम उन्हें जीतें या वे हमें जीतें। जिन्हें मारकर हम जीना भी नहीं चाहेंगे, वे धृतराष्ट्र के पुत्र ही हमारे सामने खड़े हैं।",
+            "marathi": "आणि आम्हांला हेही माहीत नाही की आमच्यासाठी काय श्रेष्ठ आहे—आम्ही त्यांना जिंकावे की त्यांनी आम्हांला. ज्यांना मारून आम्हांला जगावेसेही वाटणार नाही, तेच धृतराष्ट्राचे पुत्र आमच्यासमोर उभे आहेत.",
+            "word_meaning": "dhārtarāṣṭrāḥ: sons of Dhritarashtra, the Kauravas. garīyaḥ: better/more weighty.",
+            "keywords": [
+                "uncertainty",
+                "kin",
+                "Kauravas",
+                "moral paralysis"
+            ],
+            "summary": "Arjuna confesses deep uncertainty about the outcome and value of the war, since the enemy consists of his own kin.",
+            "reflection": "Doubt about outcomes can be as paralyzing as fear of loss itself."
+        },
+        {
+            "id": 54,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 7,
+            "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्॥",
+            "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ\nyac chreyaḥ syān niścitaṁ brūhi tan me śiṣyas te 'haṁ śādhi māṁ tvāṁ prapannam",
+            "english": "My nature overcome by weakness and pity, my mind confused about duty, I ask you: tell me decisively what is good for me. I am your disciple; instruct me, who has taken refuge in you.",
+            "hindi": "कायरता के दोष से जिसका स्वभाव नष्ट हो गया है और धर्म के विषय में जिसका चित्त मोहित है, ऐसा मैं आपसे पूछता हूँ—जो निश्चित रूप से कल्याणकारी हो, वह मुझे बताइए। मैं आपका शिष्य हूँ, शरण में आए हुए मुझे शिक्षा दीजिए।",
+            "marathi": "भ्याडपणाच्या दोषाने ज्याचा स्वभाव नष्ट झाला आहे आणि धर्माविषयी ज्याचे चित्त मोहित झाले आहे, असा मी आपणास विचारतो—जे निश्चितपणे कल्याणकारी असेल ते मला सांगा. मी आपला शिष्य आहे, शरण आलेल्या मला शिकवा.",
+            "word_meaning": "kārpaṇya: pitiful weakness/miserliness of spirit. śiṣyaḥ: disciple. prapannam: one who has taken refuge/surrendered.",
+            "keywords": [
+                "surrender",
+                "discipleship",
+                "seeking guidance",
+                "confusion"
+            ],
+            "summary": "Arjuna formally surrenders as a disciple to Krishna, asking for clear guidance out of his confusion.",
+            "reflection": "Real learning often begins the moment we admit we don't know, and ask for guidance with humility."
+        },
+        {
+            "id": 55,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 8,
+            "sanskrit": "न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम्।\nअवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्॥",
+            "transliteration": "na hi prapaśyāmi mama apanudyād yac chokam ucchoṣaṇam indriyāṇām\navāpya bhūmāv asapatnaṁ ṛddhaṁ rājyaṁ surāṇām api cādhipatyam",
+            "english": "I do not see what could dispel this grief that is drying up my senses, even if I were to attain a prosperous, unrivalled kingdom on earth, or even sovereignty over the gods.",
+            "hindi": "मुझे ऐसा कुछ नहीं दिखता जो मेरी इन्द्रियों को सुखाने वाले इस शोक को दूर कर सके, चाहे मुझे पृथ्वी पर निष्कंटक समृद्ध राज्य मिल जाए अथवा देवताओं का स्वामित्व भी क्यों न मिल जाए।",
+            "marathi": "मला असे काही दिसत नाही जे माझ्या इंद्रियांना शोषून टाकणाऱ्या या शोकाला दूर करू शकेल, मग पृथ्वीवर निष्कंटक समृद्ध राज्य मिळो किंवा देवांचे स्वामित्व मिळो.",
+            "word_meaning": "ucchoṣaṇam indriyāṇām: that which dries up/withers the senses. asapatnam: without rival, unopposed. ṛddham: prosperous.",
+            "keywords": [
+                "grief",
+                "renunciation of power",
+                "existential despair"
+            ],
+            "summary": "Arjuna declares that no worldly gain, however great, could dispel the grief consuming him.",
+            "reflection": "Sometimes external success cannot touch an inner wound; the healing we need is of a different kind."
+        },
+        {
+            "id": 56,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 9,
+            "sanskrit": "सञ्जय उवाच।\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः।\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह॥",
+            "transliteration": "sañjaya uvāca\nevam uktvā hṛṣīkeśaṁ guḍākeśaḥ parantapaḥ\nna yotsya iti govindam uktvā tūṣṇīṁ babhūva ha",
+            "english": "Sanjaya said: Having spoken thus to Hrishikesha, Gudakesha the scorcher of foes said to Govinda, 'I will not fight,' and fell silent.",
+            "hindi": "संजय ने कहा: गुडाकेश (अर्जुन) ने हृषीकेश (श्रीकृष्ण) से इस प्रकार कहकर, 'मैं युद्ध नहीं करूँगा' यह गोविन्द से कहकर चुप हो गया।",
+            "marathi": "संजय म्हणाले: गुडाकेशाने (अर्जुनाने) हृषीकेशाला (श्रीकृष्णाला) असे सांगून, 'मी युद्ध करणार नाही' असे गोविंदास सांगून तो शांत झाला.",
+            "word_meaning": "Hrishikesha, Govinda: names of Krishna. Gudakesha: 'conqueror of sleep', a name of Arjuna. tūṣṇīm babhūva: became silent.",
+            "keywords": [
+                "Arjuna's refusal",
+                "silence",
+                "narration"
+            ],
+            "summary": "Arjuna declares outright that he will not fight, and lapses into silence, setting up Krishna's response.",
+            "reflection": "Sometimes the most honest thing we can say is a clear 'I cannot,' even before we understand the way forward."
+        },
+        {
+            "id": 57,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 10,
+            "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत।\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः॥",
+            "transliteration": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata\nsenayor ubhayor madhye viṣīdantam idaṁ vacaḥ",
+            "english": "To him, grieving between the two armies, Hrishikesha, as if smiling, O descendant of Bharata, spoke these words.",
+            "hindi": "हे भारत (धृतराष्ट्र)! दोनों सेनाओं के बीच शोक करते हुए उस अर्जुन से हृषीकेश ने मानो हँसते हुए यह वचन कहा।",
+            "marathi": "हे भारता (धृतराष्ट्रा)! दोन्ही सैन्यांच्या मध्ये शोक करणाऱ्या त्या अर्जुनाला हृषीकेशाने जणू हसत हे वचन सांगितले.",
+            "word_meaning": "prahasann iva: as if smiling gently, not mockingly—suggesting compassionate amusement. Bharata: epithet for Dhritarashtra, the listener of Sanjaya's narration.",
+            "keywords": [
+                "Krishna's smile",
+                "compassion",
+                "narration"
+            ],
+            "summary": "Sanjaya notes Krishna's gentle smile before he begins his teaching, hinting at the wisdom about to be shared.",
+            "reflection": "A wise teacher can meet our anguish with warmth rather than judgment, which itself begins to ease it."
+        },
+        {
+            "id": 58,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 11,
+            "sanskrit": "श्रीभगवानुवाच।\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥",
+            "transliteration": "śrī-bhagavān uvāca\naśocyān anvaśocas tvaṁ prajñā-vādāṁś ca bhāṣase\ngatāsūn agatāsūṁś ca nānuśocanti paṇḍitāḥ",
+            "english": "The Blessed Lord said: You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise grieve neither for the living nor for the dead.",
+            "hindi": "भगवान ने कहा: तू न शोक करने योग्य लोगों के लिए शोक करता है, और पंडितों जैसी बातें कहता है। जो पंडित हैं, वे न मृतकों के लिए और न जीवितों के लिए शोक करते हैं।",
+            "marathi": "भगवान म्हणाले: तू शोक करण्यास अयोग्य अशा लोकांसाठी शोक करतोस, आणि पंडितांसारखे बोलतोस. जे पंडित असतात ते मृतांसाठी किंवा जिवंतांसाठी शोक करत नाहीत.",
+            "word_meaning": "aśocyān: those not fit to be grieved for. paṇḍitāḥ: the wise/learned. This verse opens Krishna's core philosophical teaching.",
+            "keywords": [
+                "wisdom",
+                "grief",
+                "the wise",
+                "soul"
+            ],
+            "summary": "Krishna begins his teaching by pointing out the contradiction in Arjuna's grief mixed with wise-sounding words.",
+            "reflection": "True wisdom is tested not by how eloquently we speak, but by whether our understanding actually steadies us in hardship."
+        },
+        {
+            "id": 59,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 12,
+            "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः।\nन चैव न भविष्यामः सर्वे वयमतः परम्॥",
+            "transliteration": "na tv evāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ\nna caiva na bhaviṣyāmaḥ sarve vayam ataḥ param",
+            "english": "Never was there a time when I did not exist, nor you, nor these kings; nor shall any of us ever cease to exist hereafter.",
+            "hindi": "ऐसा कभी नहीं था कि मैं न था, तू न था, अथवा ये राजा लोग न थे, और न ऐसा है कि आगे हम सब का अस्तित्व नहीं रहेगा।",
+            "marathi": "असे कधीच नव्हते की मी नव्हतो, तू नव्हतास, किंवा हे राजे नव्हते, आणि असेही नाही की पुढे आपल्या सर्वांचे अस्तित्व राहणार नाही.",
+            "word_meaning": "jātu: ever, at any time. janādhipāḥ: rulers of men, kings. This verse affirms the eternal continuity of the soul.",
+            "keywords": [
+                "eternity of soul",
+                "continuity",
+                "existence"
+            ],
+            "summary": "Krishna asserts the eternal nature of the self—it has always existed and always will, beyond birth and death.",
+            "reflection": "Recognizing something enduring within us can loosen the grip of fear around loss and change."
+        },
+        {
+            "id": 60,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 13,
+            "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥",
+            "transliteration": "dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati",
+            "english": "Just as the embodied soul passes, in this body, through childhood, youth, and old age, so also it passes into another body. The wise are not deluded by this.",
+            "hindi": "जिस प्रकार देहधारी की इस देह में बालकपन, जवानी और बुढ़ापा होता है, उसी प्रकार अन्य शरीर की प्राप्ति होती है। धीर पुरुष इसमें मोहित नहीं होता।",
+            "marathi": "ज्याप्रमाणे देहधारी जीवाला या देहात बालपण, तारुण्य आणि वृद्धत्व प्राप्त होते, त्याचप्रमाणे दुसऱ्या देहाची प्राप्ती होते. धीर पुरुष यात मोहित होत नाही.",
+            "word_meaning": "dehī: the embodied soul. dehāntara-prāptiḥ: attainment of another body, i.e. reincarnation. dhīraḥ: the wise/steady one.",
+            "keywords": [
+                "reincarnation",
+                "soul's journey",
+                "body changes",
+                "steadiness"
+            ],
+            "summary": "Krishna compares death to the natural transitions of childhood to youth to old age—just another passage for the eternal soul.",
+            "reflection": "Change, even the biggest kind, can be seen as part of a continuous journey rather than an ending."
+        },
+        {
+            "id": 61,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 14,
+            "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+            "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ\nāgamāpāyino 'nityās tāṁs titikṣasva bhārata",
+            "english": "The contacts of the senses with their objects, O son of Kunti, give rise to cold and heat, pleasure and pain. They come and go, being impermanent; endure them, O Bharata.",
+            "hindi": "हे कौन्तेय! सर्दी-गर्मी और सुख-दुःख देने वाले इन्द्रिय-विषयों के संयोग तो आने-जाने वाले और अनित्य हैं; हे भारत! उन्हें तू सहन कर।",
+            "marathi": "हे कौंतेया! थंडी-उष्णता आणि सुख-दुःख देणारे इंद्रिय-विषयांचे संयोग येणारे-जाणारे व अनित्य आहेत; हे भारता! ते सहन कर.",
+            "word_meaning": "mātrā-sparśāḥ: contacts of the senses with objects. titikṣasva: endure/tolerate. Highlights the impermanence of sensory experience.",
+            "keywords": [
+                "impermanence",
+                "sense perception",
+                "endurance",
+                "duality"
+            ],
+            "summary": "Krishna teaches that sensations of pleasure and pain are temporary and should be met with patient endurance.",
+            "reflection": "Emotional weather passes; learning to sit steady through it, rather than being swept away, is its own kind of strength."
+        },
+        {
+            "id": 62,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 15,
+            "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते॥",
+            "transliteration": "yaṁ hi na vyathayanty ete puruṣaṁ puruṣarṣabha\nsama-duḥkha-sukhaṁ dhīraṁ so 'mṛtatvāya kalpate",
+            "english": "That steady person whom these do not disturb, O best of men, who is the same in pleasure and pain, becomes fit for immortality.",
+            "hindi": "हे पुरुषश्रेष्ठ! जिस धीर पुरुष को ये (सुख-दुःख) व्यथित नहीं करते और जो सुख-दुःख में सम रहता है, वह अमरत्व के योग्य होता है।",
+            "marathi": "हे पुरुषश्रेष्ठा! ज्या धीर पुरुषाला हे (सुख-दुःख) व्यथित करत नाहीत आणि जो सुख-दुःखात सम राहतो, तो अमरत्वास पात्र होतो.",
+            "word_meaning": "puruṣarṣabha: best among men, addressed to Arjuna. amṛtatvāya kalpate: becomes fit/qualified for immortality/liberation.",
+            "keywords": [
+                "equanimity",
+                "immortality",
+                "steadiness"
+            ],
+            "summary": "One who remains undisturbed and equal-minded through pleasure and pain becomes qualified for spiritual liberation.",
+            "reflection": "Equanimity isn't numbness—it's a steadiness that lets us meet both joy and sorrow without being uprooted by either."
+        },
+        {
+            "id": 63,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 16,
+            "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः।\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः॥",
+            "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ",
+            "english": "Of the unreal there is no being; of the real there is no non-being. The truth of both has been perceived by the seers of truth.",
+            "hindi": "असत् की सत्ता नहीं है और सत् का अभाव नहीं है; इन दोनों का तत्त्व तत्त्वदर्शी पुरुषों द्वारा देखा गया है।",
+            "marathi": "असताची सत्ता नाही आणि सताचा अभाव नाही; या दोहोंचे तत्त्व तत्त्वदर्शी पुरुषांनी पाहिले आहे.",
+            "word_meaning": "asataḥ: of the unreal/non-existent (the perishable body). sataḥ: of the real/existent (the eternal soul). tattva-darśibhiḥ: by the seers of truth.",
+            "keywords": [
+                "reality and unreality",
+                "philosophy",
+                "seers of truth"
+            ],
+            "summary": "Krishna distinguishes between the temporary, changing body (unreal) and the eternal soul (real).",
+            "reflection": "Learning to tell apart what is truly lasting in us from what merely passes through is at the heart of clear seeing."
+        },
+        {
+            "id": 64,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 17,
+            "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्।\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति॥",
+            "transliteration": "avināśi tu tad viddhi yena sarvam idaṁ tatam\nvināśam avyayasyāsya na kaścit kartum arhati",
+            "english": "Know that to be indestructible by which all this is pervaded. No one is able to cause the destruction of this imperishable being.",
+            "hindi": "जिससे यह सब कुछ व्याप्त है, उसे तू अविनाशी जान। इस अव्यय का विनाश करने में कोई भी समर्थ नहीं है।",
+            "marathi": "ज्याने हे सर्व व्यापले आहे, ते तू अविनाशी जाण. या अव्ययाचा नाश करण्यास कोणीही समर्थ नाही.",
+            "word_meaning": "avināśi: indestructible. tatam: pervaded/spread throughout. avyayasya: of the imperishable one, referring to the Self.",
+            "keywords": [
+                "indestructibility",
+                "the Self",
+                "pervasiveness"
+            ],
+            "summary": "The eternal Self, which pervades all of existence, cannot be destroyed by anyone or anything.",
+            "reflection": "There is something in us untouched by circumstance—recognizing it can be quietly steadying."
+        },
+        {
+            "id": 65,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 18,
+            "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः।\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत॥",
+            "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ\nanāśino 'prameyasya tasmād yudhyasva bhārata",
+            "english": "These bodies of the eternal, indestructible, immeasurable embodied soul are said to have an end. Therefore fight, O Bharata.",
+            "hindi": "नित्य, अविनाशी और अप्रमेय आत्मा के ये शरीर अन्तवाले कहे गए हैं। इसलिए हे भारत! तू युद्ध कर।",
+            "marathi": "नित्य, अविनाशी आणि अप्रमेय आत्म्याचे हे शरीर अंतवाले असे सांगितले आहे. म्हणून हे भारता! तू युद्ध कर.",
+            "word_meaning": "antavantaḥ: having an end, perishable. śarīriṇaḥ: of the embodied one (the soul). aprameyasya: immeasurable, beyond ordinary perception.",
+            "keywords": [
+                "mortality of body",
+                "immortality of soul",
+                "call to duty"
+            ],
+            "summary": "Krishna contrasts the perishable body with the imperishable soul and urges Arjuna to fulfill his duty as a warrior.",
+            "reflection": "Understanding what is truly lasting in us can free us to act courageously in the face of what is temporary."
+        },
+        {
+            "id": 66,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 19,
+            "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्।\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते॥",
+            "transliteration": "ya enaṁ vetti hantāraṁ yaś cainaṁ manyate hatam\nubhau tau na vijānīto nāyaṁ hanti na hanyate",
+            "english": "He who thinks the soul to be the slayer, and he who thinks it slain, both are ignorant. It neither slays nor is slain.",
+            "hindi": "जो इस आत्मा को मारने वाला समझता है और जो इसे मरा हुआ मानता है, वे दोनों ही नहीं जानते, क्योंकि यह आत्मा न किसी को मारता है और न मारा जाता है।",
+            "marathi": "जो या आत्म्याला मारणारा समजतो आणि जो याला मेलेला मानतो, ते दोघेही जाणत नाहीत, कारण हा आत्मा ना कुणाला मारतो ना मारला जातो.",
+            "word_meaning": "hantāram: the slayer. hatam: the slain. This verse clarifies a common misunderstanding about the soul's involvement in death.",
+            "keywords": [
+                "misconception about death",
+                "soul's nature",
+                "non-violence of the self"
+            ],
+            "summary": "Both the idea of the soul as killer and as killed are mistaken; the true self is beyond such action.",
+            "reflection": "Our deepest identity isn't touched by the roles we play or the outcomes we witness in the world."
+        },
+        {
+            "id": 67,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 20,
+            "sanskrit": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥",
+            "transliteration": "na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śāśvato 'yaṁ purāṇo na hanyate hanyamāne śarīre",
+            "english": "The soul is never born, nor does it ever die; nor having once existed does it cease to be. Unborn, eternal, ever-existing, and primeval, it is not slain when the body is slain.",
+            "hindi": "यह आत्मा न कभी जन्मता है और न मरता है, न यह होकर फिर से नहीं होने वाला है। यह अजन्मा, नित्य, शाश्वत और पुरातन है; शरीर के मारे जाने पर भी यह नहीं मरता।",
+            "marathi": "हा आत्मा कधीही जन्मत नाही आणि मरतही नाही, तो होऊन पुन्हा न होणारा नाही. हा अजन्मा, नित्य, शाश्वत आणि पुरातन आहे; शरीर मारले गेले तरीही हा मरत नाही.",
+            "word_meaning": "ajaḥ: unborn. nityaḥ: eternal. śāśvataḥ: everlasting. purāṇaḥ: ancient/primeval. One of the most quoted verses of the Gita on the soul's true nature.",
+            "keywords": [
+                "eternity of soul",
+                "unborn",
+                "deathlessness",
+                "famous verse"
+            ],
+            "summary": "This celebrated verse declares the soul unborn and undying, unaffected by the death of the body.",
+            "reflection": "When we identify with what is truly changeless in us, the fear of death softens into something we can hold more calmly."
+        },
+        {
+            "id": 68,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 21,
+            "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्।\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम्॥",
+            "transliteration": "vedāvināśinaṁ nityaṁ ya enam ajam avyayam\nkathaṁ sa puruṣaḥ pārtha kaṁ ghātayati hanti kam",
+            "english": "O Partha, how can the person who knows this soul to be indestructible, eternal, unborn, and undiminishing, cause anyone to be killed or kill anyone?",
+            "hindi": "हे पार्थ! जो पुरुष इस आत्मा को अविनाशी, नित्य, अजन्मा और अव्यय जानता है, वह किस प्रकार किसी को मरवाता है अथवा किसी को मारता है?",
+            "marathi": "हे पार्था! जो पुरुष या आत्म्याला अविनाशी, नित्य, अजन्मा आणि अव्यय जाणतो, तो कशाप्रकारे कुणाला मारवतो किंवा कुणाला मारतो?",
+            "word_meaning": "ghātayati: causes to be killed. This verse follows logically from the previous, asking a rhetorical question about action and the eternal self.",
+            "keywords": [
+                "knowledge of the soul",
+                "non-attachment to action",
+                "rhetorical teaching"
+            ],
+            "summary": "Krishna asks rhetorically how one who truly understands the eternal soul could see themselves as killer or victim.",
+            "reflection": "Deep understanding changes how we relate to our actions—not by making us careless, but by loosening false ownership of outcomes."
+        },
+        {
+            "id": 69,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 22,
+            "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥",
+            "transliteration": "vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro 'parāṇi\ntathā śarīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī",
+            "english": "As a person casts off worn-out garments and puts on new ones, so the embodied soul casts off worn-out bodies and enters into others that are new.",
+            "hindi": "जिस प्रकार मनुष्य पुराने वस्त्रों को त्यागकर नए वस्त्र धारण करता है, उसी प्रकार देहधारी आत्मा पुराने शरीरों को त्यागकर नए शरीरों को प्राप्त करता है।",
+            "marathi": "ज्याप्रमाणे मनुष्य जुनी वस्त्रे टाकून नवीन वस्त्रे धारण करतो, त्याचप्रमाणे देहधारी आत्मा जुने शरीर टाकून नवीन शरीर धारण करतो.",
+            "word_meaning": "vāsāṁsi jīrṇāni: worn-out garments. dehī: the embodied soul. A vivid and widely quoted metaphor for reincarnation.",
+            "keywords": [
+                "reincarnation metaphor",
+                "worn garments",
+                "famous verse",
+                "renewal"
+            ],
+            "summary": "This famous simile compares the soul changing bodies to a person changing clothes—natural and without loss to the self.",
+            "reflection": "Endings can be reframed as transitions; what we truly are continues on, even as its outer form changes."
+        },
+        {
+            "id": 70,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 23,
+            "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥",
+            "transliteration": "nainaṁ chindanti śastrāṇi nainaṁ dahati pāvakaḥ\nna cainaṁ kledayanty āpo na śoṣayati mārutaḥ",
+            "english": "Weapons do not cut this soul, fire does not burn it, water does not wet it, and wind does not dry it.",
+            "hindi": "इस आत्मा को शस्त्र काट नहीं सकते, अग्नि जला नहीं सकती, जल भिगो नहीं सकता और वायु सुखा नहीं सकती।",
+            "marathi": "या आत्म्याला शस्त्रे कापू शकत नाहीत, अग्नी जाळू शकत नाही, पाणी भिजवू शकत नाही आणि वारा सुकवू शकत नाही.",
+            "word_meaning": "chindanti: cut. dahati: burns. kledayanti: wets. śoṣayati: dries. Four elemental images emphasizing the soul's imperviousness to physical harm.",
+            "keywords": [
+                "indestructibility",
+                "elements",
+                "soul's invulnerability"
+            ],
+            "summary": "Krishna emphasizes that no physical force—weapon, fire, water, or wind—can harm the eternal soul.",
+            "reflection": "What is essential in us cannot be touched by the forces that batter our external circumstances."
+        },
+        {
+            "id": 71,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 24,
+            "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च।\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः॥",
+            "transliteration": "acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca\nnityaḥ sarva-gataḥ sthāṇur acalo 'yaṁ sanātanaḥ",
+            "english": "This soul cannot be cut, cannot be burned, cannot be wetted, and cannot be dried. It is eternal, all-pervading, stable, immovable, and ever the same.",
+            "hindi": "यह आत्मा अच्छेद्य, अदाह्य, अक्लेद्य और अशोष्य है। यह नित्य, सर्वव्यापी, स्थिर, अचल और सनातन है।",
+            "marathi": "हा आत्मा अच्छेद्य, अदाह्य, अक्लेद्य आणि अशोष्य आहे. हा नित्य, सर्वव्यापी, स्थिर, अचल आणि सनातन आहे.",
+            "word_meaning": "sthāṇuḥ: fixed/stable like a pillar. acalaḥ: immovable. sanātanaḥ: eternal, ancient. Reinforces verse 23's imagery in summary form.",
+            "keywords": [
+                "eternity",
+                "stability",
+                "soul's constancy"
+            ],
+            "summary": "This verse summarizes the soul's imperviousness and eternal, unchanging nature.",
+            "reflection": "Amid life's constant flux, there is value in returning attention to what remains stable within."
+        },
+        {
+            "id": 72,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 25,
+            "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते।\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि॥",
+            "transliteration": "avyakto 'yam acintyo 'yam avikāryo 'yam ucyate\ntasmād evaṁ viditvainaṁ nānuśocitum arhasi",
+            "english": "This soul is said to be unmanifest, unthinkable, and unchangeable. Therefore, knowing it as such, you should not grieve.",
+            "hindi": "यह आत्मा अव्यक्त, अचिन्त्य और अविकार्य कहा गया है। अतः इसे इस प्रकार जानकर तुझे शोक करना उचित नहीं है।",
+            "marathi": "हा आत्मा अव्यक्त, अचिंत्य आणि अविकार्य असे म्हटले आहे. म्हणून हे असे जाणून तुला शोक करणे योग्य नाही.",
+            "word_meaning": "avyaktaḥ: unmanifest, beyond the senses. acintyaḥ: inconceivable by the mind. avikāryaḥ: unchangeable.",
+            "keywords": [
+                "unmanifest self",
+                "inconceivability",
+                "no grief"
+            ],
+            "summary": "Krishna concludes this section by saying that since the soul is beyond perception and unchanging, grief for it is unwarranted.",
+            "reflection": "Some truths lie beyond what the mind can fully grasp; peace can still come from trusting them."
+        },
+        {
+            "id": 73,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 26,
+            "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्।\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि॥",
+            "transliteration": "atha cainaṁ nitya-jātaṁ nityaṁ vā manyase mṛtam\ntathāpi tvaṁ mahā-bāho naivaṁ śocitum arhasi",
+            "english": "But even if you think of the soul as constantly being born and constantly dying, even then, O mighty-armed one, you should not grieve in this way.",
+            "hindi": "अथवा यदि तू इस आत्मा को निरन्तर जन्मने वाला और निरन्तर मरने वाला भी मानता है, तो भी हे महाबाहो! तुझे इस प्रकार शोक करना उचित नहीं है।",
+            "marathi": "किंवा जर तू या आत्म्याला सतत जन्मणारा आणि सतत मरणारा मानतोस, तरीही हे महाबाहो! तुला असा शोक करणे योग्य नाही.",
+            "word_meaning": "mahā-bāho: mighty-armed one, an epithet for Arjuna. Krishna offers an alternate, conditional argument for those who might not accept the soul's eternity.",
+            "keywords": [
+                "alternative argument",
+                "concession",
+                "grief unwarranted"
+            ],
+            "summary": "Krishna offers a second line of reasoning: even granting repeated birth and death, grief remains inappropriate.",
+            "reflection": "Good counsel often meets us where we are, offering reasons that work even if we don't yet accept every premise."
+        },
+        {
+            "id": 74,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 27,
+            "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि॥",
+            "transliteration": "jātasya hi dhruvo mṛtyur dhruvaṁ janma mṛtasya ca\ntasmād aparihārye 'rthe na tvaṁ śocitum arhasi",
+            "english": "For death is certain for one who is born, and birth is certain for one who has died. Therefore, over this unavoidable matter, you should not grieve.",
+            "hindi": "जो जन्मा है उसकी मृत्यु निश्चित है और जो मरा है उसका जन्म निश्चित है। इसलिए इस अपरिहार्य विषय में तुझे शोक करना उचित नहीं है।",
+            "marathi": "जो जन्मला आहे त्याचा मृत्यू निश्चित आहे आणि जो मेला आहे त्याचा जन्म निश्चित आहे. म्हणून या अपरिहार्य विषयात तुला शोक करणे योग्य नाही.",
+            "word_meaning": "dhruvaḥ: certain, fixed. aparihārye arthe: regarding an unavoidable matter. A statement of the natural cycle of birth and death.",
+            "keywords": [
+                "inevitability",
+                "cycle of life",
+                "acceptance"
+            ],
+            "summary": "Krishna reminds Arjuna that birth and death are certain and unavoidable, so grieving over them is futile.",
+            "reflection": "Accepting what is truly inevitable can free our energy for what we can actually influence."
+        },
+        {
+            "id": 75,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 28,
+            "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत।\nअव्यक्तनिधनान्येव तत्र का परिदेवना॥",
+            "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata\navyakta-nidhanāny eva tatra kā paridevanā",
+            "english": "Beings are unmanifest in their beginning, manifest in their middle state, O Bharata, and unmanifest again in their end. What cause is there for lamentation in this?",
+            "hindi": "हे भारत! सभी प्राणी आरम्भ में अव्यक्त, मध्य में व्यक्त और अन्त में फिर अव्यक्त हो जाते हैं। इसमें विलाप करने का क्या कारण है?",
+            "marathi": "हे भारता! सर्व प्राणी सुरुवातीला अव्यक्त, मध्यभागी व्यक्त आणि शेवटी पुन्हा अव्यक्त होतात. यात विलाप करण्याचे काय कारण आहे?",
+            "word_meaning": "avyaktādīni: unmanifest in the beginning. vyakta-madhyāni: manifest in the middle. paridevanā: lamentation.",
+            "keywords": [
+                "cycle of manifestation",
+                "birth-life-death",
+                "no lament"
+            ],
+            "summary": "Life is framed as a middle, visible phase between two unmanifest states, making grief over its natural course unnecessary.",
+            "reflection": "Seeing life as one visible chapter within something larger can ease our fear of its passing."
+        },
+        {
+            "id": 76,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 29,
+            "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेन-मा-श्चर्यवद्वदति तथैव चान्यः।\nआश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित्॥",
+            "transliteration": "āścarya-vat paśyati kaścid enam āścarya-vad vadati tathaiva cānyaḥ\nāścarya-vac cainam anyaḥ śṛṇoti śrutvāpy enaṁ veda na caiva kaścit",
+            "english": "Some perceive this soul as a wonder, another speaks of it as a wonder, and another hears of it as a wonder; yet, even having heard, none truly understands it.",
+            "hindi": "कोई इस आत्मा को आश्चर्य के समान देखता है, कोई इसे आश्चर्य के समान वर्णन करता है, कोई इसे आश्चर्य के समान सुनता है; परन्तु सुनकर भी कोई इसे नहीं जानता।",
+            "marathi": "कोणी या आत्म्याला आश्चर्याप्रमाणे पाहतो, कोणी याचे आश्चर्याप्रमाणे वर्णन करतो, कोणी याला आश्चर्याप्रमाणे ऐकतो; परंतु ऐकूनही कोणी याला जाणत नाही.",
+            "word_meaning": "āścarya-vat: as a wonder/marvel. The verse emphasizes the mysterious, elusive nature of the soul, hard to fully grasp intellectually.",
+            "keywords": [
+                "mystery of the soul",
+                "wonder",
+                "limits of understanding"
+            ],
+            "summary": "Krishna acknowledges that the soul remains a profound wonder—spoken of, heard of, but rarely truly known.",
+            "reflection": "Some truths are less to be figured out and more to be gradually lived into."
+        },
+        {
+            "id": 77,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 30,
+            "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत।\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि॥",
+            "transliteration": "dehī nityam avadhyo 'yaṁ dehe sarvasya bhārata\ntasmāt sarvāṇi bhūtāni na tvaṁ śocitum arhasi",
+            "english": "This embodied soul, O Bharata, dwelling in the body of every being, is ever indestructible. Therefore you should not grieve for any creature.",
+            "hindi": "हे भारत! यह देहधारी आत्मा सबके शरीर में सदा अवध्य है। इसलिए तुझे किसी भी प्राणी के लिए शोक करना उचित नहीं है।",
+            "marathi": "हे भारता! हा देहधारी आत्मा सर्वांच्या शरीरात सदैव अवध्य आहे. म्हणून तुला कोणत्याही प्राण्यासाठी शोक करणे योग्य नाही.",
+            "word_meaning": "avadhyaḥ: not to be slain, indestructible. This verse closes Krishna's argument on the immortality of the soul (verses 11-30).",
+            "keywords": [
+                "conclusion",
+                "indestructibility",
+                "no grief for any being"
+            ],
+            "summary": "Krishna concludes his teaching on the soul by reaffirming that it is indestructible in every creature, so grief is unfounded.",
+            "reflection": "When we truly grasp what cannot be lost, our grip on fear for what merely changes form can loosen."
+        },
+        {
+            "id": 78,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 31,
+            "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि।\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते॥",
+            "transliteration": "sva-dharmam api cāvekṣya na vikampitum arhasi\ndharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate",
+            "english": "Furthermore, considering your own duty, you should not waver, for there is nothing better for a warrior than a righteous war.",
+            "hindi": "अपने धर्म को देखते हुए भी तुझे विचलित होना उचित नहीं है, क्योंकि धर्मयुक्त युद्ध से बढ़कर क्षत्रिय के लिए और कुछ श्रेष्ठ नहीं है।",
+            "marathi": "आपल्या धर्माकडे पाहूनही तुला विचलित होणे योग्य नाही, कारण धर्मयुक्त युद्धाहून श्रेष्ठ असे क्षत्रियासाठी दुसरे काही नाही.",
+            "word_meaning": "sva-dharmam: one's own duty, based on nature and role in society. kṣatriyasya: of a warrior/ruler class member. dharmyāt yuddhāt: from a righteous war.",
+            "keywords": [
+                "personal duty",
+                "svadharma",
+                "warrior's role"
+            ],
+            "summary": "Krishna shifts to the practical argument of duty, telling Arjuna that fighting a righteous war is his highest calling as a warrior.",
+            "reflection": "Sometimes clarity comes not from resolving every philosophical question, but from returning to the responsibility in front of us."
+        },
+        {
+            "id": 79,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 32,
+            "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्।\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्॥",
+            "transliteration": "yadṛcchayā copapannaṁ svarga-dvāram apāvṛtam\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam",
+            "english": "Happy are the warriors, O Partha, who obtain such a war unsought, opening the door to heaven.",
+            "hindi": "हे पार्थ! अपने आप प्राप्त हुए और स्वर्ग के द्वार को खोलने वाले ऐसे युद्ध को भाग्यशाली क्षत्रिय ही पाते हैं।",
+            "marathi": "हे पार्था! आपोआप प्राप्त झालेले आणि स्वर्गाचे द्वार उघडणारे असे युद्ध भाग्यवान क्षत्रियांनाच मिळते.",
+            "word_meaning": "yadṛcchayā: by chance, unsought. svarga-dvāram apāvṛtam: an open door to heaven. Frames the war as a rare opportunity for a warrior.",
+            "keywords": [
+                "fortunate opportunity",
+                "warrior's duty",
+                "heaven"
+            ],
+            "summary": "Krishna calls this unsought war a stroke of fortune for a warrior, an open gateway to heaven through righteous duty.",
+            "reflection": "Occasionally, the very challenges we resist turn out to be doorways to growth we wouldn't have chosen otherwise."
+        },
+        {
+            "id": 80,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 33,
+            "sanskrit": "अथ चेत्त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि।\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि॥",
+            "transliteration": "atha cet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣyasi\ntataḥ sva-dharmaṁ kīrtiṁ ca hitvā pāpam avāpsyasi",
+            "english": "But if you do not fight this righteous war, then, having abandoned your own duty and honor, you will incur sin.",
+            "hindi": "परन्तु यदि तू इस धर्मयुक्त युद्ध को नहीं करेगा, तो अपने धर्म और कीर्ति को त्यागकर पाप को प्राप्त होगा।",
+            "marathi": "पण जर तू या धर्मयुक्त युद्ध न केलेस, तर आपला धर्म आणि कीर्ती सोडून पाप प्राप्त करशील.",
+            "word_meaning": "sva-dharmaṁ hitvā: abandoning one's own duty. pāpam avāpsyasi: you will incur sin. A warning about the consequence of shirking duty.",
+            "keywords": [
+                "consequence of inaction",
+                "sin",
+                "abandoning duty"
+            ],
+            "summary": "Krishna warns that refusing this righteous fight means forsaking his duty and honor, incurring moral fault.",
+            "reflection": "Avoiding a hard responsibility doesn't remove its weight—it often just shifts the form that weight takes."
+        },
+        {
+            "id": 81,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 34,
+            "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्।\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते॥",
+            "transliteration": "akīrtiṁ cāpi bhūtāni kathayiṣyanti te 'vyayām\nsambhāvitasya cākīrtir maraṇād atiricyate",
+            "english": "People will also speak of your everlasting infamy, and for one who has been honored, infamy is worse than death.",
+            "hindi": "लोग तेरी सदा रहने वाली अपकीर्ति का भी वर्णन करेंगे, और सम्मानित व्यक्ति के लिए अपकीर्ति मृत्यु से भी बढ़कर है।",
+            "marathi": "लोक तुझ्या सदैव राहणाऱ्या अपकीर्तीचे वर्णन करतील, आणि सन्मानित व्यक्तीसाठी अपकीर्ती मृत्यूपेक्षाही वाईट आहे.",
+            "word_meaning": "akīrtim: infamy, disgrace. avyayām: imperishable, lasting. sambhāvitasya: for one who is respected/honored.",
+            "keywords": [
+                "infamy",
+                "honor",
+                "social consequence"
+            ],
+            "summary": "Krishna appeals to Arjuna's sense of honor, noting that lasting disgrace is a fate worse than death for a respected person.",
+            "reflection": "How we act in difficult moments can shape how our life's story is remembered, for better or worse."
+        },
+        {
+            "id": 82,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 35,
+            "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः।\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्॥",
+            "transliteration": "bhayād raṇād uparataṁ maṁsyante tvāṁ mahā-rathāḥ\nyeṣāṁ ca tvaṁ bahu-mato bhūtvā yāsyasi lāghavam",
+            "english": "The great warriors will think that you withdrew from battle out of fear, and you will be regarded lightly by those who once esteemed you highly.",
+            "hindi": "महारथी लोग तुझे भय के कारण युद्ध से हटा हुआ मानेंगे, और जिनकी दृष्टि में तू बहुत सम्मानित था, उनकी दृष्टि में तू तुच्छ हो जाएगा।",
+            "marathi": "महारथी लोक तुला भीतीमुळे युद्धातून मागे हटलेला मानतील, आणि ज्यांच्या दृष्टीत तू खूप सन्मानित होतास, त्यांच्या दृष्टीत तू तुच्छ होशील.",
+            "word_meaning": "mahā-rathāḥ: great chariot-warriors, elite fighters. bahu-mataḥ: highly regarded. lāghavam: lightness/disrespect, loss of esteem.",
+            "keywords": [
+                "reputation among peers",
+                "perceived cowardice",
+                "loss of esteem"
+            ],
+            "summary": "Krishna warns that fellow great warriors will misread Arjuna's withdrawal as cowardice, damaging his standing.",
+            "reflection": "How our choices are perceived by those who respect us is a real, if secondary, consideration in facing hard decisions."
+        },
+        {
+            "id": 83,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 36,
+            "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः।\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्॥",
+            "transliteration": "avācya-vādāṁś ca bahūn vadiṣyanti tavāhitāḥ\nnindantas tava sāmarthyaṁ tato duḥkhataraṁ nu kim",
+            "english": "Your enemies will speak many unspeakable words about you, disparaging your ability. What could be more painful than that?",
+            "hindi": "तेरे शत्रु तेरी सामर्थ्य की निन्दा करते हुए बहुत से न कहने योग्य वचन कहेंगे; उससे अधिक दुःखदायी और क्या होगा?",
+            "marathi": "तुझे शत्रू तुझ्या सामर्थ्याची निंदा करत बरेच न बोलण्यायोग्य शब्द बोलतील; त्याहून अधिक दुःखदायक काय असेल?",
+            "word_meaning": "avācya-vādān: unspeakable, insulting words. ahitāḥ: enemies/those unfriendly to you. sāmarthyam: capability/prowess.",
+            "keywords": [
+                "insults",
+                "enemies",
+                "pain of disgrace"
+            ],
+            "summary": "Krishna points out the added pain of hearing one's enemies mock one's abilities if Arjuna retreats from duty.",
+            "reflection": "The sting of ridicule after abandoning a responsibility can outlast the discomfort of having faced it."
+        },
+        {
+            "id": 84,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 37,
+            "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्।\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः॥",
+            "transliteration": "hato vā prāpsyasi svargaṁ jitvā vā bhokṣyase mahīm\ntasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ",
+            "english": "If slain, you will attain heaven; if victorious, you will enjoy the earth. Therefore arise, O son of Kunti, resolved to fight.",
+            "hindi": "मारा जाने पर तू स्वर्ग को प्राप्त होगा और जीतने पर पृथ्वी का भोग करेगा। इसलिए हे कौन्तेय! युद्ध के लिए दृढ़ निश्चय करके खड़ा हो जा।",
+            "marathi": "मारला गेलास तर स्वर्ग प्राप्त होशील आणि जिंकलास तर पृथ्वीचा भोग करशील. म्हणून हे कौंतेया! युद्धासाठी दृढ निश्चय करून ऊठ.",
+            "word_meaning": "hataḥ: slain. jitvā: having conquered. kṛta-niścayaḥ: having made a firm resolve. A pivotal call to decisive action.",
+            "keywords": [
+                "resolve",
+                "no-lose framing",
+                "call to arms"
+            ],
+            "summary": "Krishna frames the battle as a win-win from a spiritual standpoint: heaven if slain, the earth if victorious.",
+            "reflection": "Reframing a daunting choice in terms of what is gained either way can help us move from paralysis to resolve."
+        },
+        {
+            "id": 85,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 38,
+            "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥",
+            "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṁ pāpam avāpsyasi",
+            "english": "Treating pleasure and pain, gain and loss, victory and defeat alike, engage in this battle; thus you will not incur sin.",
+            "hindi": "सुख-दुःख, लाभ-हानि और जय-पराजय को समान समझकर युद्ध के लिए तैयार हो जा; इस प्रकार तुझे पाप नहीं लगेगा।",
+            "marathi": "सुख-दुःख, लाभ-हानी आणि जय-पराजय समान समजून युद्धासाठी सज्ज हो; अशाप्रकारे तुला पाप लागणार नाही.",
+            "word_meaning": "same kṛtvā: having made equal/equanimous. lābhālābhau: gain and loss. This verse introduces the idea of equanimous, detached action, foreshadowing karma yoga.",
+            "keywords": [
+                "equanimity in action",
+                "detachment",
+                "non-attachment to outcome"
+            ],
+            "summary": "Krishna introduces the principle of acting with equanimity toward outcomes, which frees action from sin.",
+            "reflection": "Doing our honest best while releasing our grip on the result is a quieter, steadier way to move through hard tasks."
+        },
+        {
+            "id": 86,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 39,
+            "sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु।\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि॥",
+            "transliteration": "eṣā te 'bhihitā sāṅkhye buddhir yoge tv imāṁ śṛṇu\nbuddhyā yukto yayā pārtha karma-bandhaṁ prahāsyasi",
+            "english": "This wisdom has been explained to you in terms of Sankhya (analytical knowledge); now hear it in terms of Yoga, endowed with which, O Partha, you shall cast off the bondage of action.",
+            "hindi": "यह बुद्धि तुझसे सांख्य के अनुसार कही गई; अब इसे योग के अनुसार सुन, जिस बुद्धि से युक्त होकर हे पार्थ! तू कर्मबन्धन को त्याग देगा।",
+            "marathi": "ही बुद्धी तुला सांख्यानुसार सांगितली; आता ही योगानुसार ऐक, ज्या बुद्धीने युक्त होऊन हे पार्था! तू कर्मबंधन सोडशील.",
+            "word_meaning": "Sāṅkhye: in terms of analytical knowledge/philosophy. Yoge: in terms of the discipline of action. karma-bandham: the bondage of action.",
+            "keywords": [
+                "transition",
+                "Sankhya and Yoga",
+                "karma bondage"
+            ],
+            "summary": "Krishna marks a transition from theoretical knowledge (Sankhya) to practical discipline (Yoga) that frees one from karmic bondage.",
+            "reflection": "Understanding a truth intellectually is one step; learning to live it in action is the deeper practice."
+        },
+        {
+            "id": 87,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 40,
+            "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥",
+            "transliteration": "nehābhikrama-nāśo 'sti pratyavāyo na vidyate\nsvalpam apy asya dharmasya trāyate mahato bhayāt",
+            "english": "In this path, no effort is ever lost, and no adverse result exists. Even a little of this dharma protects one from great fear.",
+            "hindi": "इस मार्ग में आरंभ किया हुआ प्रयत्न नष्ट नहीं होता और इसमें कोई विपरीत परिणाम भी नहीं है। इस धर्म का थोड़ा सा भी आचरण महान भय से रक्षा करता है।",
+            "marathi": "या मार्गात सुरू केलेला प्रयत्न नष्ट होत नाही आणि यात कोणताही विपरीत परिणाम नाही. या धर्माचे थोडेसेही आचरण महान भयापासून रक्षण करते.",
+            "word_meaning": "abhikrama-nāśaḥ: loss of effort undertaken. pratyavāyaḥ: adverse or contrary result. Encourages beginning the practice of yoga without fear of failure.",
+            "keywords": [
+                "no wasted effort",
+                "protection",
+                "encouragement to begin"
+            ],
+            "summary": "Krishna reassures Arjuna that any sincere effort on this spiritual path is never wasted and offers real protection.",
+            "reflection": "Starting something meaningful, even imperfectly, tends to matter more than we fear—progress here isn't lost, only built upon."
+        },
+        {
+            "id": 88,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 41,
+            "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन।\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्॥",
+            "transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana\nbahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām",
+            "english": "Here, O joy of the Kurus, the resolute intellect is single-pointed; the thoughts of the irresolute are many-branched and endless.",
+            "hindi": "हे कुरुनन्दन! इस मार्ग में निश्चयात्मिका बुद्धि एक ही होती है, परन्तु अनिश्चयी लोगों की बुद्धियाँ बहुशाखाओं वाली और अनन्त होती हैं।",
+            "marathi": "हे कुरुनंदना! या मार्गात निश्चयात्मक बुद्धी एकच असते, पण अनिश्चयी लोकांच्या बुद्धी अनेक शाखांच्या आणि अनंत असतात.",
+            "word_meaning": "vyavasāyātmikā buddhiḥ: resolute, single-pointed determination. bahu-śākhāḥ: many-branched, scattered. avyavasāyinām: of the irresolute.",
+            "keywords": [
+                "single-pointed focus",
+                "resolve",
+                "scattered mind"
+            ],
+            "summary": "Krishna contrasts the clarity of a resolute mind with the scattered, endless deliberations of an undecided one.",
+            "reflection": "A clear, committed intention tends to bring more peace than endless weighing of every possible option."
+        },
+        {
+            "id": 89,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 42,
+            "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः।\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः॥",
+            "transliteration": "yām imāṁ puṣpitāṁ vācaṁ pravadanty avipaścitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ",
+            "english": "The unwise, delighting in the flowery words of the Vedas concerned with ritual, declare that there is nothing else beyond this, O Partha.",
+            "hindi": "हे पार्थ! जो अज्ञानी वेदवाद में रत हैं और यह कहते हैं कि इसके अतिरिक्त और कुछ नहीं है, वे पुष्पित वाणी कहते हैं।",
+            "marathi": "हे पार्था! जे अज्ञानी वेदवादात रत आहेत आणि असे म्हणतात की याशिवाय दुसरे काही नाही, ते पुष्पित वाणी बोलतात.",
+            "word_meaning": "puṣpitām vācam: flowery, ornate speech. avipaścitaḥ: the unwise/undiscerning. veda-vāda-ratāḥ: attached to the ritualistic portions of Vedic disputation.",
+            "keywords": [
+                "ritualism",
+                "flowery words",
+                "limited understanding"
+            ],
+            "summary": "Krishna critiques those attached only to the ritualistic, reward-oriented portions of scripture, missing its deeper purpose.",
+            "reflection": "Attractive words or promised rewards can distract us from a more substantial, lasting path."
+        },
+        {
+            "id": 90,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 43,
+            "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्।\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति॥",
+            "transliteration": "kāmātmānaḥ svarga-parā janma-karma-phala-pradām\nkriyā-viśeṣa-bahulāṁ bhogaiśvarya-gatiṁ prati",
+            "english": "Full of desires, regarding heaven as the highest goal, they offer rebirth as the fruit of action, and prescribe many specific rites aimed at enjoyment and power.",
+            "hindi": "वे कामनाओं से युक्त, स्वर्ग को श्रेष्ठ मानने वाले, जन्म रूपी कर्मफल देने वाली और भोग-ऐश्वर्य की प्राप्ति के लिए विशेष क्रियाओं से युक्त वाणी कहते हैं।",
+            "marathi": "ते कामनांनी युक्त, स्वर्गाला श्रेष्ठ मानणारे, जन्मरूपी कर्मफल देणारी आणि भोग-ऐश्वर्याच्या प्राप्तीसाठी विशेष क्रियांनी युक्त वाणी बोलतात.",
+            "word_meaning": "kāmātmānaḥ: those whose nature is desire. bhogaiśvarya-gatim: the path toward enjoyment and power/prosperity. Continues the critique of reward-seeking ritualism.",
+            "keywords": [
+                "desire",
+                "reward-oriented ritual",
+                "heaven-seeking"
+            ],
+            "summary": "This verse continues describing those fixated on ritual for the sake of pleasure, power, and heavenly reward.",
+            "reflection": "Chasing external rewards, even lofty ones, can keep us tied to an endless cycle of seeking rather than lasting contentment."
+        },
+        {
+            "id": 91,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 44,
+            "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्।\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते॥",
+            "transliteration": "bhogaiśvarya-prasaktānāṁ tayāpahṛta-cetasām\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate",
+            "english": "For those whose minds are carried away by such words, attached to pleasure and power, the resolute intellect fit for meditative absorption does not arise.",
+            "hindi": "भोग और ऐश्वर्य में आसक्त तथा उस वाणी से हरे हुए चित्त वालों की बुद्धि समाधि में स्थिर नहीं होती।",
+            "marathi": "भोग आणि ऐश्वर्यात आसक्त तसेच त्या वाणीने हरलेल्या चित्ताच्या लोकांची बुद्धी समाधीत स्थिर होत नाही.",
+            "word_meaning": "bhogaiśvarya-prasaktānām: attached to enjoyment and prosperity. apahṛta-cetasām: whose minds are carried away/stolen. samādhau: in meditative absorption.",
+            "keywords": [
+                "distraction",
+                "attachment",
+                "obstacle to meditation"
+            ],
+            "summary": "Krishna explains that attachment to pleasure and power prevents the steady, focused intellect needed for deep meditation.",
+            "reflection": "Chasing comfort and status can quietly erode the inner stillness we need for clarity."
+        },
+        {
+            "id": 92,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 45,
+            "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन।\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्॥",
+            "transliteration": "trai-guṇya-viṣayā vedā nistrai-guṇyo bhavārjuna\nnirdvandvo nitya-sattva-stho niryoga-kṣema ātma-vān",
+            "english": "The Vedas deal mainly with the three gunas (modes of nature); be free from these three gunas, O Arjuna—free from duality, ever established in purity, free from concern for gain and safety, and self-possessed.",
+            "hindi": "वेद तीनों गुणों के विषय हैं; हे अर्जुन! तू त्रिगुणातीत हो, द्वन्द्वों से रहित, नित्य सत्त्व में स्थित, योगक्षेम की चिंता से रहित और आत्मवान बन।",
+            "marathi": "वेद तिन्ही गुणांचे विषय आहेत; हे अर्जुना! तू त्रिगुणातीत हो, द्वंद्वांपासून मुक्त, नित्य सत्त्वात स्थित, योगक्षेमाच्या चिंतेपासून मुक्त आणि आत्मवान बन.",
+            "word_meaning": "trai-guṇya-viṣayāḥ: concerned with the three gunas (sattva, rajas, tamas). nirdvandvaḥ: free from dualities (heat/cold, pleasure/pain). niryoga-kṣemaḥ: free from concern for acquisition and preservation.",
+            "keywords": [
+                "three gunas",
+                "transcendence",
+                "self-possession"
+            ],
+            "summary": "Krishna urges Arjuna to rise above the dualistic, gunas-bound concerns addressed by ritualistic Vedic practice, toward inner steadiness.",
+            "reflection": "Freeing ourselves from constant worry about gain and security opens space for a calmer, more grounded way of living."
+        },
+        {
+            "id": 93,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 46,
+            "sanskrit": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके।\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥",
+            "transliteration": "yāvān artha udapāne sarvataḥ samplutodake\ntāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ",
+            "english": "As much use as there is in a well when there is a flood of water everywhere, so much use are all the Vedas to a Brahmin who has attained true understanding.",
+            "hindi": "जैसे चारों ओर जल से भरे हुए स्थान में कुएँ का जितना प्रयोजन रह जाता है, उतना ही प्रयोजन ज्ञान को प्राप्त ब्राह्मण के लिए समस्त वेदों का रह जाता है।",
+            "marathi": "जसे चोहीकडे पाण्याने भरलेल्या ठिकाणी विहिरीचे जेवढे प्रयोजन उरते, तेवढेच प्रयोजन ज्ञान प्राप्त झालेल्या ब्राह्मणासाठी सर्व वेदांचे उरते.",
+            "word_meaning": "udapāne: a well/reservoir. samplutodake: in a place flooded with water on all sides. brāhmaṇasya vijānataḥ: for a Brahmin possessed of true knowledge.",
+            "keywords": [
+                "limits of scripture",
+                "realized knowledge",
+                "metaphor of the well"
+            ],
+            "summary": "This vivid metaphor suggests that for one who has attained deep spiritual understanding, ritualistic scriptural means become less essential.",
+            "reflection": "Once direct understanding dawns, external supports that once seemed indispensable may naturally recede in importance."
+        },
+        {
+            "id": 94,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 47,
+            "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+            "transliteration": "karmaṇy evādhikāras te mā phaleṣu kadācana\nmā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi",
+            "english": "Your right is to action alone, never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.",
+            "hindi": "तेरा कर्म करने में ही अधिकार है, फलों में कभी नहीं। तू कर्मफल का हेतु मत बन, और तेरी आसक्ति अकर्म में भी न हो।",
+            "marathi": "तुझा कर्म करण्यातच अधिकार आहे, फळांमध्ये कधीच नाही. तू कर्मफलाचा हेतू बनू नकोस, आणि तुझी आसक्ती अकर्मातही असू नये.",
+            "word_meaning": "adhikāraḥ: right/entitlement. karma-phala-hetuḥ: the cause/motive for the fruit of action. One of the most famous verses of the entire Gita.",
+            "keywords": [
+                "famous verse",
+                "non-attachment to results",
+                "action without desire",
+                "duty"
+            ],
+            "summary": "This celebrated verse establishes the core principle of karma yoga: focus on right action, releasing attachment to its results.",
+            "reflection": "Doing meaningful work for its own sake, rather than fixating on outcomes, is a steadier and often more sustainable way to live."
+        },
+        {
+            "id": 95,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 48,
+            "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+            "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya\nsiddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate",
+            "english": "Perform action established in yoga, O Dhananjaya, abandoning attachment, and remaining even-minded in success and failure. This evenness of mind is called yoga.",
+            "hindi": "हे धनञ्जय! योग में स्थित होकर, आसक्ति को त्यागकर तथा सिद्धि और असिद्धि में समान भाव रखकर कर्म कर; समत्व को ही योग कहा जाता है।",
+            "marathi": "हे धनंजया! योगात स्थित होऊन, आसक्ती सोडून तसेच सिद्धी आणि असिद्धीमध्ये समान भाव ठेवून कर्म कर; समत्वालाच योग म्हटले जाते.",
+            "word_meaning": "yoga-sthaḥ: established/steady in yoga. siddhy-asiddhyoḥ: in success and failure. samatvam: equanimity, evenness of mind—defined here as the essence of yoga.",
+            "keywords": [
+                "definition of yoga",
+                "equanimity",
+                "Dhananjaya"
+            ],
+            "summary": "Krishna defines yoga itself as equanimity—performing action while remaining balanced regardless of success or failure.",
+            "reflection": "Balance in the face of both success and setback is itself a discipline worth cultivating, not just a byproduct of it."
+        },
+        {
+            "id": 96,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 49,
+            "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय।\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः॥",
+            "transliteration": "dūreṇa hy avaraṁ karma buddhi-yogād dhanañjaya\nbuddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ",
+            "english": "Action performed with attachment is far inferior to action performed with the yoga of wisdom, O Dhananjaya. Seek refuge in this wisdom; pitiable are those whose motive is the fruit of action.",
+            "hindi": "हे धनञ्जय! बुद्धियोग से सकाम कर्म बहुत निम्न है; बुद्धि की शरण ग्रहण कर, क्योंकि फल के लिए कर्म करने वाले अत्यन्त दीन हैं।",
+            "marathi": "हे धनंजया! बुद्धियोगापेक्षा सकाम कर्म खूप कनिष्ठ आहे; बुद्धीचा आश्रय घे, कारण फळासाठी कर्म करणारे अत्यंत दीन असतात.",
+            "word_meaning": "avaram: inferior. buddhi-yogāt: compared to the yoga of the intellect/wisdom. kṛpaṇāḥ: pitiable, miserly in spirit—here, those obsessed with results.",
+            "keywords": [
+                "superiority of wisdom",
+                "seeking refuge in wisdom",
+                "pity for fruit-seekers"
+            ],
+            "summary": "Krishna emphasizes that acting with wisdom and equanimity is far superior to action driven by desire for reward.",
+            "reflection": "Being fixated on outcomes can leave us anxious and dependent on circumstances outside our control."
+        },
+        {
+            "id": 97,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 50,
+            "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥",
+            "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte\ntasmād yogāya yujyasva yogaḥ karmasu kauśalam",
+            "english": "One united with wisdom casts off, even in this life, both good and evil deeds. Therefore devote yourself to yoga; yoga is skill in action.",
+            "hindi": "बुद्धियोग से युक्त व्यक्ति इसी जीवन में अच्छे और बुरे दोनों कर्मों को त्याग देता है। इसलिए योग के लिए प्रयत्न कर, कर्मों में कुशलता ही योग है।",
+            "marathi": "बुद्धियोगाने युक्त व्यक्ती याच जीवनात चांगल्या आणि वाईट दोन्ही कर्मांचा त्याग करतो. म्हणून योगासाठी प्रयत्न कर, कर्मांमधील कौशल्यच योग आहे.",
+            "word_meaning": "jahāti: casts off/abandons. sukṛta-duṣkṛte: good deeds and bad deeds. karmasu kauśalam: skill in action—a widely quoted definition of yoga.",
+            "keywords": [
+                "yoga as skill",
+                "transcending good and bad karma",
+                "famous phrase"
+            ],
+            "summary": "Krishna offers another famous definition: yoga is skillfulness in action, freeing one from the binding effects of both good and bad deeds.",
+            "reflection": "Doing our work with full attention and care, without grasping at merit, is itself a form of freedom."
+        },
+        {
+            "id": 98,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 51,
+            "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥",
+            "transliteration": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣiṇaḥ\njanma-bandha-vinirmuktāḥ padaṁ gacchanty anāmayam",
+            "english": "The wise, united with wisdom, having abandoned the fruits born of action, and freed from the bondage of birth, attain the state beyond sorrow.",
+            "hindi": "बुद्धियुक्त बुद्धिमान लोग कर्मजन्य फल को त्यागकर तथा जन्मरूपी बंधन से मुक्त होकर, दुःखरहित परम पद को प्राप्त होते हैं।",
+            "marathi": "बुद्धियुक्त बुद्धिमान लोक कर्मजन्य फळ त्यागून तसेच जन्मरूपी बंधनातून मुक्त होऊन, दुःखरहित परम पदाला प्राप्त होतात.",
+            "word_meaning": "manīṣiṇaḥ: the wise. janma-bandha-vinirmuktāḥ: freed from the bondage of birth (the cycle of rebirth). padam anāmayam: the state free from affliction/disease—liberation.",
+            "keywords": [
+                "liberation",
+                "freedom from rebirth",
+                "wise sages"
+            ],
+            "summary": "By renouncing attachment to results, the wise become free from the cycle of rebirth and attain a sorrow-free state.",
+            "reflection": "Letting go of our grip on outcomes can be, paradoxically, one of the surest paths to lasting peace."
+        },
+        {
+            "id": 99,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 52,
+            "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च॥",
+            "transliteration": "yadā te moha-kalilaṁ buddhir vyatitariṣyati\ntadā gantāsi nirvedaṁ śrotavyasya śrutasya ca",
+            "english": "When your intellect crosses beyond the mire of delusion, then you shall become indifferent to what has been heard and what is yet to be heard, regarding scriptural rewards.",
+            "hindi": "जब तेरी बुद्धि मोहरूपी दलदल को पार कर जाएगी, तब तू सुने हुए और सुनने योग्य विषयों के प्रति उदासीन हो जाएगा।",
+            "marathi": "जेव्हा तुझी बुद्धी मोहरूपी दलदल पार करेल, तेव्हा तू ऐकलेल्या आणि ऐकण्यायोग्य विषयांबद्दल उदासीन होशील.",
+            "word_meaning": "moha-kalilam: the mire/thicket of delusion. nirvedam: indifference/detachment. śrotavyasya śrutasya: of what is to be heard and what has been heard, referring to scriptural teachings on rewards.",
+            "keywords": [
+                "crossing delusion",
+                "detachment from scripture's rewards",
+                "clarity"
+            ],
+            "summary": "Krishna predicts that as Arjuna's understanding deepens, he will become less swayed by promises found in ritualistic scripture.",
+            "reflection": "Clarity often brings a natural loosening of our grip on ideas and promises that once seemed essential."
+        },
+        {
+            "id": 100,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 53,
+            "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि॥",
+            "transliteration": "śruti-vipratipannā te yadā sthāsyati niścalā\nsamādhāv acalā buddhis tadā yogam avāpsyasi",
+            "english": "When your intellect, confused by conflicting scriptural texts, stands unmoved and steady in deep meditative absorption, then you shall attain yoga.",
+            "hindi": "जब शास्त्रों के परस्पर विरोधाभास से विचलित तेरी बुद्धि समाधि में अचल होकर स्थिर हो जाएगी, तब तू योग को प्राप्त करेगा।",
+            "marathi": "जेव्हा शास्त्रांच्या परस्पर विरोधाभासाने विचलित झालेली तुझी बुद्धी समाधीत अचल होऊन स्थिर होईल, तेव्हा तू योग प्राप्त करशील.",
+            "word_meaning": "śruti-vipratipannā: confused/perplexed by conflicting scriptural statements. acalā buddhiḥ: unwavering intellect. samādhau: in deep meditative absorption.",
+            "keywords": [
+                "steady meditation",
+                "yoga attained",
+                "beyond scriptural confusion"
+            ],
+            "summary": "Krishna assures that once the intellect becomes steady and unmoved despite conflicting teachings, true yoga is attained.",
+            "reflection": "Inner steadiness, more than resolving every intellectual debate, is what ultimately brings us to a settled peace."
+        },
+        {
+            "id": 101,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 54,
+            "sanskrit": "अर्जुन उवाच।\nस्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव।\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्॥",
+            "transliteration": "arjuna uvāca\nsthita-prajñasya kā bhāṣā samādhi-sthasya keśava\nsthita-dhīḥ kiṁ prabhāṣeta kim āsīta vrajeta kim",
+            "english": "Arjuna said: What is the description of a person of steady wisdom, merged in that meditative state, O Keshava? How does a person of steady mind speak, sit, and move about?",
+            "hindi": "अर्जुन ने कहा: हे केशव! समाधि में स्थित स्थितप्रज्ञ पुरुष का क्या लक्षण है? स्थिरबुद्धि पुरुष कैसे बोलता है, कैसे बैठता है, कैसे चलता है?",
+            "marathi": "अर्जुन म्हणाले: हे केशवा! समाधीत स्थित स्थितप्रज्ञ पुरुषाचे काय लक्षण आहे? स्थिरबुद्धी पुरुष कसा बोलतो, कसा बसतो, कसा चालतो?",
+            "word_meaning": "sthita-prajñasya: of one of steady/settled wisdom. Keshava: a name of Krishna. This question opens the celebrated closing section on the sage of steady wisdom.",
+            "keywords": [
+                "Arjuna's question",
+                "steady wisdom",
+                "sthitaprajna"
+            ],
+            "summary": "Arjuna asks Krishna to describe the outward and inward marks of a person who has achieved steady, settled wisdom.",
+            "reflection": "Curiosity about what a grounded, wise life actually looks like in practice is itself a meaningful step toward it."
+        },
+        {
+            "id": 102,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 55,
+            "sanskrit": "श्रीभगवानुवाच।\nप्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान्।\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते॥",
+            "transliteration": "śrī-bhagavān uvāca\nprajahāti yadā kāmān sarvān pārtha mano-gatān\nātmany evātmanā tuṣṭaḥ sthita-prajñas tadocyate",
+            "english": "The Blessed Lord said: When a person completely abandons all desires that arise in the mind, O Partha, and is satisfied in the Self by the Self alone, then that person is called one of steady wisdom.",
+            "hindi": "भगवान ने कहा: हे पार्थ! जब मनुष्य मन में उठने वाली सभी कामनाओं को पूर्णतः त्याग देता है और आत्मा से आत्मा में ही सन्तुष्ट रहता है, तब वह स्थितप्रज्ञ कहलाता है।",
+            "marathi": "भगवान म्हणाले: हे पार्था! जेव्हा मनुष्य मनात उठणाऱ्या सर्व कामनांचा पूर्णपणे त्याग करतो आणि आत्म्याने आत्म्यातच संतुष्ट राहतो, तेव्हा तो स्थितप्रज्ञ म्हटला जातो.",
+            "word_meaning": "prajahāti: completely abandons. mano-gatān kāmān: desires arising in the mind. ātmany evātmanā tuṣṭaḥ: satisfied in the self, by the self alone.",
+            "keywords": [
+                "definition of sthitaprajna",
+                "inner contentment",
+                "desirelessness"
+            ],
+            "summary": "Krishna begins his description: a person of steady wisdom has let go of all mental desires and finds contentment within the Self alone.",
+            "reflection": "Inner contentment that doesn't depend on external fulfillment is a quiet but profound form of freedom."
+        },
+        {
+            "id": 103,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 56,
+            "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+            "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ\nvīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate",
+            "english": "One whose mind is undisturbed in sorrow, who is free from longing amid pleasures, and who is free from attachment, fear, and anger, is called a sage of steady wisdom.",
+            "hindi": "जो दुःखों में उद्विग्न मन वाला नहीं है, सुखों में जिसकी स्पृहा नहीं है, तथा जो राग, भय और क्रोध से रहित है, वह स्थिरबुद्धि मुनि कहलाता है।",
+            "marathi": "जो दुःखांमध्ये उद्विग्न मन नसलेला आहे, सुखांमध्ये ज्याला स्पृहा नाही, तसेच जो राग, भय आणि क्रोधापासून मुक्त आहे, तो स्थिरबुद्धी मुनी म्हटला जातो.",
+            "word_meaning": "anudvigna-manāḥ: whose mind is unagitated. vigata-spṛhaḥ: free from craving. vīta-rāga-bhaya-krodhaḥ: free from attachment, fear, and anger.",
+            "keywords": [
+                "equanimity",
+                "freedom from fear and anger",
+                "sage's qualities"
+            ],
+            "summary": "This verse describes the emotional steadiness of the sage—undisturbed by sorrow, uncraving of pleasure, and free of attachment, fear, and anger.",
+            "reflection": "Steadiness doesn't mean feeling nothing; it means not being swept away by what we feel."
+        },
+        {
+            "id": 104,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 57,
+            "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्।\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
+            "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham\nnābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā",
+            "english": "One who is unattached everywhere, and who neither rejoices nor is repelled on obtaining good or evil, has wisdom firmly established.",
+            "hindi": "जो सर्वत्र स्नेहरहित है और शुभ-अशुभ को प्राप्त करके न हर्षित होता है और न द्वेष करता है, उसकी बुद्धि स्थिर है।",
+            "marathi": "जो सर्वत्र स्नेहरहित आहे आणि शुभ-अशुभ प्राप्त करून हर्षित होत नाही आणि द्वेषही करत नाही, त्याची बुद्धी स्थिर आहे.",
+            "word_meaning": "anabhisnehaḥ: without attachment. śubhāśubham: good and bad, favorable and unfavorable. nābhinandati na dveṣṭi: neither delights nor hates.",
+            "keywords": [
+                "non-attachment",
+                "equanimity toward outcomes",
+                "steady wisdom"
+            ],
+            "summary": "Krishna describes the sage as unmoved by good or bad fortune, neither elated nor resentful, reflecting deep equanimity.",
+            "reflection": "Meeting both fortune and misfortune with the same steady heart is a mark of real inner freedom."
+        },
+        {
+            "id": 105,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 58,
+            "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥",
+            "transliteration": "yadā saṁharate cāyaṁ kūrmo 'ṅgānīva sarvaśaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+            "english": "When, like a tortoise withdrawing its limbs from all sides, this person withdraws the senses from their objects, that person's wisdom is firmly established.",
+            "hindi": "जिस प्रकार कछुआ अपने अंगों को सब ओर से समेट लेता है, उसी प्रकार जो पुरुष इन्द्रियों को इन्द्रिय-विषयों से समेट लेता है, उसकी बुद्धि स्थिर है।",
+            "marathi": "ज्याप्रमाणे कासव आपले अवयव सर्व बाजूंनी आत घेते, त्याचप्रमाणे जो पुरुष इंद्रियांना इंद्रिय-विषयांपासून मागे घेतो, त्याची बुद्धी स्थिर आहे.",
+            "word_meaning": "saṁharate: withdraws/gathers in. kūrmaḥ: tortoise. indriyāṇi indriyārthebhyaḥ: the senses from sense objects—a well-known simile for sensory discipline.",
+            "keywords": [
+                "tortoise metaphor",
+                "sense withdrawal",
+                "sensory discipline"
+            ],
+            "summary": "The famous tortoise simile illustrates how a wise person can deliberately withdraw the senses from external distractions.",
+            "reflection": "Choosing, at times, to draw our attention inward rather than constantly outward can be an act of real strength."
+        },
+        {
+            "id": 106,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 59,
+            "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः।\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते॥",
+            "transliteration": "viṣayā vinivartante nirāhārasya dehinaḥ\nrasa-varjaṁ raso 'py asya paraṁ dṛṣṭvā nivartate",
+            "english": "The objects of the senses turn away from an abstinent embodied being, except for the taste for them; even that taste turns away upon realizing the Supreme.",
+            "hindi": "निराहारी देहधारी के विषय तो निवृत्त हो जाते हैं, परन्तु उनका रस नहीं छूटता; परन्तु परमात्मा का साक्षात्कार होने पर वह रस भी निवृत्त हो जाता है।",
+            "marathi": "निराहारी देहधारी विषयांपासून निवृत्त होतो, पण त्यांचा रस सुटत नाही; परंतु परमात्म्याचा साक्षात्कार झाल्यावर तो रसही निवृत्त होतो.",
+            "word_meaning": "nirāhārasya: of one who abstains/fasts from sense objects. rasa-varjam: except the subtle taste/longing. param dṛṣṭvā: having seen/realized the Supreme.",
+            "keywords": [
+                "subtle desire",
+                "self-realization",
+                "deeper renunciation"
+            ],
+            "summary": "Krishna notes that mere abstinence removes objects but not the subtle craving for them—only realization of the Supreme dissolves that.",
+            "reflection": "Willpower alone can restrain outer behavior, but lasting change often comes from a deeper shift in what we truly value."
+        },
+        {
+            "id": 107,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 60,
+            "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः।\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः॥",
+            "transliteration": "yatato hy api kaunteya puruṣasya vipaścitaḥ\nindriyāṇi pramāthīni haranti prasabhaṁ manaḥ",
+            "english": "Even the turbulent senses of a wise person striving for control, O son of Kunti, can forcibly carry away the mind.",
+            "hindi": "हे कौन्तेय! प्रयत्न करते हुए विवेकी पुरुष के मन को भी क्षुब्ध करने वाली इन्द्रियाँ बलपूर्वक हर लेती हैं।",
+            "marathi": "हे कौंतेया! प्रयत्न करणाऱ्या विवेकी पुरुषाच्या मनालाही क्षुब्ध करणाऱ्या इंद्रिया बळजबरीने हरण करतात.",
+            "word_meaning": "pramāthīni: turbulent, agitating. haranti prasabham: forcibly carry away. vipaścitaḥ: of the wise/discerning one—even they are not immune.",
+            "keywords": [
+                "difficulty of sense control",
+                "turbulent senses",
+                "humility"
+            ],
+            "summary": "Krishna acknowledges that even a wise, striving person's mind can be overpowered by the force of the senses.",
+            "reflection": "Acknowledging how easily we can be pulled off course is not weakness—it's the honest starting point for real discipline."
+        },
+        {
+            "id": 108,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 61,
+            "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः।\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता॥",
+            "transliteration": "tāni sarvāṇi saṁyamya yukta āsīta mat-paraḥ\nvaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā",
+            "english": "Having restrained all of these, one should sit integrated in yoga, intent on Me as the highest goal. Wisdom is firmly established for one whose senses are under control.",
+            "hindi": "उन सबको संयमित करके योगयुक्त होकर मुझमें परायण होकर बैठे; क्योंकि जिसकी इन्द्रियाँ वश में हैं, उसकी बुद्धि स्थिर है।",
+            "marathi": "त्या सर्वांना संयमित करून योगयुक्त होऊन माझ्यात परायण होऊन बसावे; कारण ज्याच्या इंद्रिया वश आहेत, त्याची बुद्धी स्थिर आहे.",
+            "word_meaning": "saṁyamya: having restrained/controlled. mat-paraḥ: devoted to Me (Krishna as the Supreme). vaśe: under control. Introduces devotion as an anchor for sense-control.",
+            "keywords": [
+                "devotion",
+                "self-control",
+                "steady wisdom"
+            ],
+            "summary": "Krishna advises restraining the senses while remaining focused on the Divine as the ultimate anchor, which stabilizes wisdom.",
+            "reflection": "Having something greater than momentary impulses to hold our attention gives self-discipline a steadier foundation."
+        },
+        {
+            "id": 109,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 62,
+            "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+            "transliteration": "dhyāyato viṣayān puṁsaḥ saṅgas teṣūpajāyate\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate",
+            "english": "For a person dwelling on the objects of the senses, attachment to them develops. From attachment arises desire, and from desire, anger is born.",
+            "hindi": "विषयों का चिन्तन करने वाले पुरुष की उनमें आसक्ति उत्पन्न होती है, आसक्ति से कामना उत्पन्न होती है और कामना से क्रोध उत्पन्न होता है।",
+            "marathi": "विषयांचे चिंतन करणाऱ्या पुरुषाच्या मनात त्यांच्याबद्दल आसक्ती निर्माण होते, आसक्तीतून कामना निर्माण होते आणि कामनेतून क्रोध निर्माण होतो.",
+            "word_meaning": "dhyāyataḥ: dwelling upon, contemplating. saṅgaḥ: attachment. kāmaḥ: desire. krodhaḥ: anger. Begins the well-known chain of psychological downfall.",
+            "keywords": [
+                "chain of downfall",
+                "attachment leading to anger",
+                "psychology of desire"
+            ],
+            "summary": "Krishna traces a psychological chain: dwelling on sense objects breeds attachment, which breeds desire, which breeds anger.",
+            "reflection": "Noticing where our attention repeatedly lingers can reveal, early, where trouble is quietly beginning to take root."
+        },
+        {
+            "id": 110,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 63,
+            "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।\nस्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+            "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ\nsmṛti-bhraṁśād buddhi-nāśo buddhi-nāśāt praṇaśyati",
+            "english": "From anger arises delusion, from delusion, confusion of memory; from the loss of memory, the ruin of intellect; and from the ruin of intellect, one perishes.",
+            "hindi": "क्रोध से मोह उत्पन्न होता है, मोह से स्मृति भ्रष्ट होती है, स्मृति के भ्रष्ट होने से बुद्धि का नाश होता है और बुद्धि के नाश होने से मनुष्य नष्ट हो जाता है।",
+            "marathi": "क्रोधातून मोह निर्माण होतो, मोहातून स्मृती भ्रष्ट होते, स्मृती भ्रष्ट झाल्याने बुद्धीचा नाश होतो आणि बुद्धीच्या नाशाने मनुष्य नष्ट होतो.",
+            "word_meaning": "sammohaḥ: delusion, loss of clear judgment. smṛti-vibhramaḥ: confusion/loss of memory. buddhi-nāśaḥ: destruction of the intellect. Completes the chain begun in verse 62.",
+            "keywords": [
+                "chain of downfall completed",
+                "delusion",
+                "loss of discernment"
+            ],
+            "summary": "This verse completes the chain: anger leads to delusion, memory loss, ruined judgment, and ultimately self-destruction.",
+            "reflection": "Small unchecked reactions can compound quickly; catching them early protects our clarity down the line."
+        },
+        {
+            "id": 111,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 64,
+            "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्।\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति॥",
+            "transliteration": "rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran\nātma-vaśyair vidheyātmā prasādam adhigacchati",
+            "english": "But the self-controlled person, moving among sense objects with senses free from attraction and aversion, and under the control of the self, attains tranquility.",
+            "hindi": "परन्तु राग-द्वेष से रहित तथा अपने वश में की हुई इन्द्रियों से विषयों में विचरण करने वाला संयमी पुरुष प्रसन्नता को प्राप्त करता है।",
+            "marathi": "पण राग-द्वेषरहित तसेच स्वतःच्या वश केलेल्या इंद्रियांनी विषयांमध्ये संचार करणारा संयमी पुरुष प्रसन्नता प्राप्त करतो.",
+            "word_meaning": "rāga-dveṣa-viyuktaiḥ: free from attraction and aversion. ātma-vaśyaiḥ: senses under one's own control. prasādam: grace, tranquility, clarity of mind.",
+            "keywords": [
+                "freedom from likes and dislikes",
+                "self-mastery",
+                "tranquility"
+            ],
+            "summary": "Krishna shows the positive counterpart: engaging the world with disciplined senses, free from attraction and aversion, brings inner peace.",
+            "reflection": "Engaging fully with life, without being pulled by constant craving or avoidance, allows genuine calm to settle in."
+        },
+        {
+            "id": 112,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 65,
+            "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते।\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते॥",
+            "transliteration": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate\nprasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate",
+            "english": "In that tranquility, the destruction of all sorrows takes place, for the intellect of one whose mind is serene soon becomes firmly steady.",
+            "hindi": "उस प्रसन्नता में सब दुःखों का नाश हो जाता है, क्योंकि प्रसन्नचित्त पुरुष की बुद्धि शीघ्र ही स्थिर हो जाती है।",
+            "marathi": "त्या प्रसन्नतेत सर्व दुःखांचा नाश होतो, कारण प्रसन्नचित्त पुरुषाची बुद्धी लवकरच स्थिर होते.",
+            "word_meaning": "prasāde: in that grace/tranquility. sarva-duḥkhānāṁ hāniḥ: destruction of all sorrows. prasanna-cetasaḥ: of one whose mind is serene/clear.",
+            "keywords": [
+                "end of sorrow",
+                "serenity",
+                "steady intellect"
+            ],
+            "summary": "With inner tranquility, all sorrows dissolve, and the calm mind quickly settles into steady wisdom.",
+            "reflection": "Cultivating an inner calm isn't a luxury—it's often the very condition that allows clear thinking and lasting relief from suffering."
+        },
+        {
+            "id": 113,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 66,
+            "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना।\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम्॥",
+            "transliteration": "nāsti buddhir ayuktasya na cāyuktasya bhāvanā\nna cābhāvayataḥ śāntir aśāntasya kutaḥ sukham",
+            "english": "There is no wisdom for the unsteady, nor is there meditation for the unsteady; for one without meditation, there is no peace; and for one without peace, how can there be happiness?",
+            "hindi": "अयुक्त (असंयमी) पुरुष की न बुद्धि होती है, न भावना होती है; भावनारहित पुरुष को शान्ति नहीं मिलती और अशान्त पुरुष को सुख कहाँ?",
+            "marathi": "अयुक्त (असंयमी) पुरुषाची ना बुद्धी असते, ना भावना असते; भावनारहित पुरुषाला शांती मिळत नाही आणि अशांत पुरुषाला सुख कुठून?",
+            "word_meaning": "ayuktasya: of one who is not integrated/disciplined (in yoga). bhāvanā: meditative contemplation. A chain linking discipline, meditation, peace, and happiness.",
+            "keywords": [
+                "chain to happiness",
+                "lack of discipline",
+                "necessity of peace"
+            ],
+            "summary": "Krishna links discipline, meditation, and peace as necessary steps, without which lasting happiness cannot exist.",
+            "reflection": "Happiness isn't usually found directly; it tends to follow from the quieter work of cultivating steadiness and peace first."
+        },
+        {
+            "id": 114,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 67,
+            "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते।\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि॥",
+            "transliteration": "indriyāṇāṁ hi caratāṁ yan mano 'nuvidhīyate\ntad asya harati prajñāṁ vāyur nāvam ivāmbhasi",
+            "english": "As a boat on water is swept away by a strong wind, so the mind that yields to the wandering senses carries away one's discernment.",
+            "hindi": "जिस प्रकार जल में नाव को वायु हर लेती है, उसी प्रकार विचरण करने वाली इन्द्रियों में से जिस एक इन्द्रिय के साथ मन जुड़ जाता है, वह अकेली ही बुद्धि को हर लेती है।",
+            "marathi": "ज्याप्रमाणे पाण्यात नावेला वारा वाहून नेतो, त्याचप्रमाणे संचार करणाऱ्या इंद्रियांपैकी ज्या एका इंद्रियाशी मन जोडले जाते, ती एकटीच बुद्धीला हरण करते.",
+            "word_meaning": "caratām indriyāṇām: of the wandering senses. vāyuḥ nāvam ivāmbhasi: like wind [carries away] a boat on water—a classic Gita simile.",
+            "keywords": [
+                "boat and wind metaphor",
+                "mind following senses",
+                "loss of discernment"
+            ],
+            "summary": "This vivid image compares an undisciplined mind following the senses to a boat helplessly swept away by wind on water.",
+            "reflection": "Left unanchored, our attention can be swept along by whatever pulls at it strongest in the moment."
+        },
+        {
+            "id": 115,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 68,
+            "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥",
+            "transliteration": "tasmād yasya mahā-bāho nigṛhītāni sarvaśaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā",
+            "english": "Therefore, O mighty-armed one, the wisdom of one whose senses are completely restrained from their objects on every side is firmly established.",
+            "hindi": "इसलिए हे महाबाहो! जिस पुरुष की इन्द्रियाँ सभी ओर से विषयों से पूर्णतः वश में की हुई हैं, उसकी बुद्धि स्थिर है।",
+            "marathi": "म्हणून हे महाबाहो! ज्या पुरुषाच्या इंद्रिया सर्व बाजूंनी विषयांपासून पूर्णपणे वश केलेल्या आहेत, त्याची बुद्धी स्थिर आहे.",
+            "word_meaning": "nigṛhītāni sarvaśaḥ: completely restrained/withheld on all sides. Restates and reinforces the theme of the necessity of sense-control for steady wisdom.",
+            "keywords": [
+                "reinforcement",
+                "sense restraint",
+                "steady wisdom"
+            ],
+            "summary": "Krishna reiterates that complete mastery over the senses is the foundation for firmly established wisdom.",
+            "reflection": "Real steadiness of mind tends to grow from consistent, everyday discipline rather than occasional effort."
+        },
+        {
+            "id": 116,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 69,
+            "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः॥",
+            "transliteration": "yā niśā sarva-bhūtānāṁ tasyāṁ jāgarti saṁyamī\nyasyāṁ jāgrati bhūtāni sā niśā paśyato muneḥ",
+            "english": "What is night for all beings, in that the self-controlled one is awake; and what is waking time for all beings, that is night for the sage who sees within.",
+            "hindi": "जो समस्त प्राणियों के लिए रात्रि है, उसमें संयमी पुरुष जागता है; और जिसमें सब प्राणी जागते हैं, वह द्रष्टा मुनि के लिए रात्रि है।",
+            "marathi": "जी सर्व प्राण्यांसाठी रात्र आहे, तिच्यात संयमी पुरुष जागतो; आणि ज्यात सर्व प्राणी जागतात, ती द्रष्टा मुनीसाठी रात्र आहे.",
+            "word_meaning": "niśā: night. saṁyamī: the self-controlled one. paśyataḥ muneḥ: of the sage who truly perceives/sees. A paradoxical verse contrasting worldly and spiritual awareness.",
+            "keywords": [
+                "paradox of awareness",
+                "sage's perspective",
+                "inner vs outer waking"
+            ],
+            "summary": "This paradoxical verse contrasts ordinary worldly awareness with the sage's awakened inner vision—each is 'night' to the other.",
+            "reflection": "What most people chase all their waking hours may hold little value to someone awake to a deeper reality, and vice versa."
+        },
+        {
+            "id": 117,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 70,
+            "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।\nतद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥",
+            "transliteration": "āpūryamāṇam acala-pratiṣṭhaṁ samudram āpaḥ praviśanti yadvat\ntadvat kāmā yaṁ praviśanti sarve sa śāntim āpnoti na kāma-kāmī",
+            "english": "As waters enter the ocean, which, though ever being filled, remains ever unmoved, so the one into whom all desires enter and remain unmoved attains peace, not the one who longs for desires.",
+            "hindi": "जिस प्रकार निरन्तर जल से भरे रहने पर भी समुद्र अपनी मर्यादा में अचल रहता है, उसी प्रकार जिसमें सभी कामनाएँ प्रवेश करती हैं, वही पुरुष शान्ति पाता है, कामनाओं की इच्छा रखने वाला नहीं।",
+            "marathi": "ज्याप्रमाणे सतत जलाने भरत असूनही समुद्र आपल्या मर्यादेत अचल राहतो, त्याचप्रमाणे ज्यात सर्व कामना प्रवेश करतात, तोच पुरुष शांती मिळवतो, कामनांची इच्छा ठेवणारा नाही.",
+            "word_meaning": "āpūryamāṇam acala-pratiṣṭham: ever being filled yet remaining unmoved/steady (the ocean). kāma-kāmī: one who desires/craves after desires.",
+            "keywords": [
+                "ocean metaphor",
+                "unmoved by desire",
+                "peace"
+            ],
+            "summary": "The famous ocean simile shows that peace belongs to one whose depth of being remains unmoved even as desires arise and pass, unlike one who chases them.",
+            "reflection": "Peace tends to come not from having no desires arise, but from not being swept along by every one that does."
+        },
+        {
+            "id": 118,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 71,
+            "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः।\nनिर्ममो निरहङ्कारः स शान्तिमधिगच्छति॥",
+            "transliteration": "vihāya kāmān yaḥ sarvān pumāṁś carati niḥspṛhaḥ\nnirmamo nirahaṅkāraḥ sa śāntim adhigacchati",
+            "english": "The person who, abandoning all desires, moves about free from longing, without any sense of 'mine' and without egoism, attains peace.",
+            "hindi": "जो पुरुष समस्त कामनाओं को त्यागकर, निःस्पृह होकर, ममतारहित और अहंकाररहित होकर विचरण करता है, वह शान्ति को प्राप्त होता है।",
+            "marathi": "जो पुरुष सर्व कामनांचा त्याग करून, निःस्पृह होऊन, ममतारहित आणि अहंकाररहित होऊन संचार करतो, तो शांती प्राप्त करतो.",
+            "word_meaning": "niḥspṛhaḥ: free from longing. nirmamaḥ: free from the sense of 'mine' (possessiveness). nirahaṅkāraḥ: free from egoism/'I-ness'.",
+            "keywords": [
+                "desirelessness",
+                "ego dissolution",
+                "peace attained"
+            ],
+            "summary": "Peace comes to one who has released both craving and the ego-based sense of ownership ('I' and 'mine').",
+            "reflection": "Much of our restlessness is tied to grasping—for things, outcomes, or a sense of self to defend; loosening that grip brings quiet."
+        },
+        {
+            "id": 119,
+            "chapter": 2,
+            "chapter_name": "Sankhya Yoga",
+            "verse": 72,
+            "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति।\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति॥",
+            "transliteration": "eṣā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati\nsthitvāsyām anta-kāle 'pi brahma-nirvāṇam ṛcchati",
+            "english": "This, O Partha, is the state of being established in Brahman; having attained it, one is never again deluded. Established in this state even at the hour of death, one attains oneness with Brahman.",
+            "hindi": "हे पार्थ! यह ब्राह्मी स्थिति है, इसे प्राप्त करके मनुष्य फिर कभी मोहित नहीं होता। अन्तकाल में भी इस स्थिति में स्थित रहकर वह ब्रह्मनिर्वाण को प्राप्त होता है।",
+            "marathi": "हे पार्था! ही ब्राह्मी स्थिती आहे, ही प्राप्त करून मनुष्य पुन्हा कधीही मोहित होत नाही. अंतकाळीही या स्थितीत स्थित राहून तो ब्रह्मनिर्वाण प्राप्त करतो.",
+            "word_meaning": "brāhmī sthitiḥ: the state of abiding in Brahman, ultimate spiritual reality. brahma-nirvāṇam: liberation/extinction of ignorance in union with Brahman. The closing verse of Chapter 2.",
+            "keywords": [
+                "Brahman-consciousness",
+                "liberation",
+                "closing verse",
+                "moksha"
+            ],
+            "summary": "Krishna concludes the chapter by describing the state of established, unshakeable Brahman-consciousness—undeluded even at death, leading to ultimate liberation.",
+            "reflection": "A life anchored in something deeper than fleeting circumstance can carry us with steadiness even through its final moments."
+        }
+    ]
+}
