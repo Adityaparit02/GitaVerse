@@ -1,0 +1,881 @@
+{
+    "book": "Bhagavad Gita",
+    "language": "Multilingual",
+    "total_chapters": 18,
+    "total_verses": 700,
+    "chapter": 3,
+    "chapter_name": "Karma Yoga",
+    "chapter_3_title": "Karma Yoga (The Yoga of Action / Selfless Action)",
+    "verses_in_this_file": 43,
+    "note": "This file contains Chapter 3, Karma Yoga (The Yoga of Action / The Yoga of Selfless Action), verses 1 to 43, as part of the complete 700-verse Bhagavad Gita database. IDs are global across the entire database and continue sequentially from Chapter 2 (which ends at ID 119), running from 120 to 162 for this chapter.",
+    "verses": [
+        {
+            "id": 120,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 1,
+            "sanskrit": "अर्जुन उवाच |\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन |\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ||",
+            "transliteration": "arjuna uvācha | jyāyasī chet karmaṇas te matā buddhir janārdana | tat kiṁ karmaṇi ghore māṁ niyojayasi keśava ||",
+            "english": "Arjuna said: O Janardana, if You consider knowledge (buddhi) superior to action, why then, O Keshava, do You urge me to engage in this dreadful action?",
+            "hindi": "अर्जुन ने कहा: हे जनार्दन! यदि आप कर्म से बुद्धि (ज्ञान) को श्रेष्ठ मानते हैं, तो हे केशव! फिर मुझे इस भयंकर कर्म (युद्ध) में क्यों लगा रहे हैं?",
+            "marathi": "अर्जुन म्हणाला: हे जनार्दना! जर तुम्ही कर्मापेक्षा बुद्धीला (ज्ञानाला) श्रेष्ठ मानता, तर हे केशवा! मला या भयंकर कर्मात (युद्धात) का गुंतवत आहात?",
+            "word_meaning": "Jyāyasī = superior; buddhi = knowledge/discernment; ghore karmaṇi = in dreadful action (referring to war); Janardana and Keshava are names of Krishna.",
+            "keywords": [
+                "Arjuna's confusion",
+                "knowledge vs action",
+                "Karma Yoga introduction",
+                "Janardana",
+                "Keshava"
+            ],
+            "summary": "Arjuna is puzzled: since Krishna has praised knowledge over action, he questions why Krishna is pushing him toward the terrible act of war.",
+            "reflection": "When teachings seem to conflict, honest questioning is the first step toward clarity. It is natural to seek harmony between wisdom and action in our own lives."
+        },
+        {
+            "id": 121,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 2,
+            "sanskrit": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे |\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ||",
+            "transliteration": "vyāmiśreṇeva vākyena buddhiṁ mohayasīva me | tad ekaṁ vada niśchitya yena śreyo 'ham āpnuyām ||",
+            "english": "With this seemingly conflicting speech You appear to confuse my understanding. Therefore, tell me decisively that one path by which I may attain the highest good.",
+            "hindi": "आपके इस मिले-जुले वचनों से मेरी बुद्धि मानो मोहित हो रही है। अतः वह एक निश्चित बात बताइए, जिससे मैं कल्याण प्राप्त कर सकूँ।",
+            "marathi": "तुमच्या या संमिश्र वचनांनी माझी बुद्धी जणू मोहित होत आहे. म्हणून मला ते एकच निश्चित सांगा, ज्याने माझे कल्याण होईल.",
+            "word_meaning": "Vyāmiśreṇa vākyena = with apparently mixed/conflicting words; mohayasi = confuse; śreyaḥ = the highest good/welfare.",
+            "keywords": [
+                "confusion",
+                "seeking clarity",
+                "shreyas",
+                "Arjuna's request"
+            ],
+            "summary": "Arjuna asks Krishna to clearly state one definite path to the highest good, since the mixed instructions seem confusing.",
+            "reflection": "When overwhelmed by choices, ask for the single clearest path forward rather than getting lost in complexity."
+        },
+        {
+            "id": 122,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 3,
+            "sanskrit": "श्रीभगवानुवाच |\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ |\nज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ||",
+            "transliteration": "śrī bhagavān uvācha | loke 'smin dvividhā niṣṭhā purā proktā mayānagha | jñānayogena sāṅkhyānāṁ karmayogena yoginām ||",
+            "english": "The Blessed Lord said: O sinless one, in this world a twofold path was taught by Me of old: the path of knowledge for the contemplative (Sankhyas), and the path of action for the yogis.",
+            "hindi": "श्रीभगवान बोले: हे निष्पाप! इस लोक में दो प्रकार की निष्ठा पहले मेरे द्वारा कही गई है - सांख्ययोगियों के लिए ज्ञानयोग और योगियों के लिए कर्मयोग।",
+            "marathi": "श्रीभगवान म्हणाले: हे निष्पापा! या जगात दोन प्रकारच्या निष्ठा मी पूर्वी सांगितल्या आहेत - सांख्ययोग्यांसाठी ज्ञानयोग आणि योग्यांसाठी कर्मयोग.",
+            "word_meaning": "Niṣṭhā = path/steadfastness; jñānayoga = path of knowledge; sāṅkhyānām = of the contemplatives; karmayoga = path of action; yoginām = of the active yogis.",
+            "keywords": [
+                "Jnana Yoga",
+                "Karma Yoga",
+                "Sankhya",
+                "two paths",
+                "Krishna's teaching"
+            ],
+            "summary": "Krishna explains that two complementary paths to liberation exist: the path of knowledge and the path of selfless action.",
+            "reflection": "There is more than one valid way to grow spiritually. Choose the path that suits your temperament, and walk it sincerely."
+        },
+        {
+            "id": 123,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 4,
+            "sanskrit": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते |\nन च संन्यसनादेव सिद्धिं समधिगच्छति ||",
+            "transliteration": "na karmaṇām anārambhān naiṣkarmyaṁ puruṣo 'śnute | na cha sannyasanād eva siddhiṁ samadhigachchhati ||",
+            "english": "Not by abstaining from action does a person attain freedom from action (actionlessness), nor by renunciation alone does one attain perfection.",
+            "hindi": "मनुष्य कर्मों का आरंभ न करने मात्र से नैष्कर्म्य (कर्मों से मुक्ति) को प्राप्त नहीं होता और न ही केवल संन्यास से सिद्धि प्राप्त करता है।",
+            "marathi": "मनुष्य केवळ कर्म न करण्याने नैष्कर्म्य (कर्मातून मुक्ती) प्राप्त करत नाही, तसेच केवळ संन्यासानेही सिद्धी प्राप्त होत नाही.",
+            "word_meaning": "Anārambhāt = by not undertaking; naiṣkarmya = freedom from the bondage of action; sannyasana = renunciation; siddhi = perfection.",
+            "keywords": [
+                "naishkarmya",
+                "renunciation",
+                "action",
+                "perfection",
+                "misconception"
+            ],
+            "summary": "Krishna clarifies that mere physical inaction or outward renunciation does not by itself lead to spiritual freedom or perfection.",
+            "reflection": "Avoiding responsibility is not the same as spiritual growth. True freedom comes from the right inner attitude, not from mere withdrawal."
+        },
+        {
+            "id": 124,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 5,
+            "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||",
+            "transliteration": "na hi kaśchit kṣaṇam api jātu tiṣṭhaty akarmakṛt | kāryate hy avaśaḥ karma sarvaḥ prakṛtijair guṇaiḥ ||",
+            "english": "Indeed, no one can remain without performing action even for a moment; for everyone is helplessly driven to action by the qualities (gunas) born of nature (prakriti).",
+            "hindi": "निःसंदेह कोई भी मनुष्य किसी भी क्षण बिना कर्म किए नहीं रह सकता, क्योंकि प्रकृति से उत्पन्न गुण सभी को विवश होकर कर्म करने पर बाध्य करते हैं।",
+            "marathi": "खरोखर कोणीही मनुष्य क्षणभरही कर्माशिवाय राहू शकत नाही, कारण प्रकृतीजन्य गुण सर्वांना विवश होऊन कर्म करण्यास भाग पाडतात.",
+            "word_meaning": "Kṣaṇam api = even for a moment; akarmakṛt = without performing action; avaśaḥ = helplessly/involuntarily; prakṛtijaiḥ guṇaiḥ = by the qualities born of nature.",
+            "keywords": [
+                "gunas",
+                "prakriti",
+                "inevitability of action",
+                "nature's compulsion"
+            ],
+            "summary": "Action is inevitable for embodied beings because the three gunas of nature constantly compel everyone to act.",
+            "reflection": "Since action is unavoidable, the real spiritual work lies in how and why we act, not in trying to avoid acting altogether."
+        },
+        {
+            "id": 125,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 6,
+            "sanskrit": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् |\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ||",
+            "transliteration": "karmendriyāṇi saṁyamya ya āste manasā smaran | indriyārthān vimūḍhātmā mithyāchāraḥ sa uchyate ||",
+            "english": "One who restrains the organs of action but continues to dwell in the mind on sense objects, that deluded soul is called a hypocrite (one of false conduct).",
+            "hindi": "जो मूढ़ बुद्धि वाला मनुष्य कर्मेन्द्रियों को हठपूर्वक रोककर मन से इन्द्रियों के विषयों का चिंतन करता रहता है, वह मिथ्याचारी (पाखंडी) कहलाता है।",
+            "marathi": "जो मूढ मनुष्य कर्मेंद्रियांना बळजबरीने रोखून मनाने इंद्रियविषयांचे चिंतन करत राहतो, त्याला मिथ्याचारी (ढोंगी) म्हणतात.",
+            "word_meaning": "Karmendriyāṇi = organs of action; saṁyamya = restraining; smaran = remembering/dwelling on; mithyāchāraḥ = hypocrite, one of pretended/false conduct.",
+            "keywords": [
+                "hypocrisy",
+                "mithyachara",
+                "restraint",
+                "mind vs senses",
+                "false renunciation"
+            ],
+            "summary": "Outward restraint of the body while the mind still craves sense objects is condemned as hypocrisy, not true renunciation.",
+            "reflection": "Genuine discipline begins in the mind. Suppressing outward behavior while inwardly craving is self-deception, not progress."
+        },
+        {
+            "id": 126,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 7,
+            "sanskrit": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन |\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ||",
+            "transliteration": "yas tv indriyāṇi manasā niyamyārabhate 'rjuna | karmendriyaiḥ karmayogam asaktaḥ sa viśiṣyate ||",
+            "english": "But he, O Arjuna, who controls the senses by the mind and, without attachment, engages the organs of action in karma yoga, he is superior.",
+            "hindi": "किन्तु हे अर्जुन! जो पुरुष मन से इन्द्रियों को वश में करके अनासक्त होकर कर्मेन्द्रियों द्वारा कर्मयोग का आरंभ करता है, वह श्रेष्ठ है।",
+            "marathi": "परंतु हे अर्जुना! जो पुरुष मनाने इंद्रियांना वश करून अनासक्त राहून कर्मेंद्रियांद्वारे कर्मयोगाचा आरंभ करतो, तो श्रेष्ठ आहे.",
+            "word_meaning": "Niyamya = controlling; ārabhate = undertakes/begins; asaktaḥ = without attachment; viśiṣyate = is distinguished/superior.",
+            "keywords": [
+                "Karma Yoga",
+                "sense control",
+                "non-attachment",
+                "superior action"
+            ],
+            "summary": "The one who controls the senses through the mind and performs action without attachment is far superior to the mere outward renunciate.",
+            "reflection": "True mastery is inner mastery. Acting without attachment, while fully engaged in duty, is more valuable than empty withdrawal."
+        },
+        {
+            "id": 127,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 8,
+            "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः |\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ||",
+            "transliteration": "niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ | śarīrayātrāpi cha te na prasiddhyed akarmaṇaḥ ||",
+            "english": "Perform your prescribed duty, for action is superior to inaction. Even the mere maintenance of your body would not be possible without action.",
+            "hindi": "तू शास्त्रविहित कर्म कर, क्योंकि कर्म न करने की अपेक्षा कर्म करना श्रेष्ठ है। कर्म के बिना तो तेरा शरीर-निर्वाह भी सिद्ध नहीं हो सकता।",
+            "marathi": "तू शास्त्रविहित कर्म कर, कारण कर्म न करण्यापेक्षा कर्म करणे श्रेष्ठ आहे. कर्माशिवाय तर तुझा शरीरनिर्वाहही होणार नाही.",
+            "word_meaning": "Niyataṁ karma = prescribed/obligatory duty; jyāyaḥ = superior; akarmaṇaḥ = than inaction; śarīrayātrā = bodily maintenance/sustenance.",
+            "keywords": [
+                "prescribed duty",
+                "action superior to inaction",
+                "bodily maintenance",
+                "practical necessity"
+            ],
+            "summary": "Krishna instructs Arjuna to perform his prescribed duty, since action is necessary even for basic bodily survival, let alone spiritual growth.",
+            "reflection": "Even our most basic existence depends on action. Engage fully with your responsibilities rather than escaping them."
+        },
+        {
+            "id": 128,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 9,
+            "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः |\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ||",
+            "transliteration": "yajñārthāt karmaṇo 'nyatra loko 'yaṁ karmabandhanaḥ | tad arthaṁ karma kaunteya muktasaṅgaḥ samāchara ||",
+            "english": "This world is bound by action, except when action is performed for the sake of sacrifice (yajna). Therefore, O son of Kunti, perform action for that purpose, free from attachment.",
+            "hindi": "यज्ञ के निमित्त किए जाने वाले कर्म के अतिरिक्त अन्य कर्मों में लगा हुआ यह मनुष्य समुदाय कर्मों से बंधता है। इसलिए हे कुन्तीपुत्र! तू आसक्ति से रहित होकर उसी यज्ञ के निमित्त भलीभाँति कर्म कर।",
+            "marathi": "यज्ञासाठी केलेल्या कर्माव्यतिरिक्त इतर कर्मांत गुंतलेला हा मनुष्यसमुदाय कर्मांनी बांधला जातो. म्हणून हे कुंतीपुत्रा! तू आसक्तीरहित होऊन त्या यज्ञासाठीच उत्तम प्रकारे कर्म कर.",
+            "word_meaning": "Yajñārthāt = for the sake of sacrifice; karmabandhanaḥ = bound by action; muktasaṅgaḥ = free from attachment; samāchara = perform well.",
+            "keywords": [
+                "yajna",
+                "sacrifice",
+                "bondage of action",
+                "detachment",
+                "Kaunteya"
+            ],
+            "summary": "Action performed as sacrifice (selfless offering) does not bind; all other self-centered action keeps one bound to the cycle of karma.",
+            "reflection": "Reframe your work as an offering rather than a personal transaction, and it stops being a source of bondage."
+        },
+        {
+            "id": 129,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 10,
+            "sanskrit": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः |\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||",
+            "transliteration": "sahayajñāḥ prajāḥ sṛiṣṭvā purovācha prajāpatiḥ | anena prasaviṣyadhvam eṣa vo 'stv iṣṭakāmadhuk ||",
+            "english": "In ancient times, having created mankind together with sacrifice, Prajapati (the Creator) said: By this shall you prosper; let this be the fulfiller of your desires.",
+            "hindi": "सृष्टि के आदि में प्रजापति ब्रह्मा ने यज्ञ सहित प्रजाओं को रचकर कहा - इस यज्ञ द्वारा तुम वृद्धि को प्राप्त करो, यह तुम्हारी इच्छित कामनाओं को पूर्ण करने वाला हो।",
+            "marathi": "सृष्टीच्या आरंभी प्रजापती ब्रह्मदेवाने यज्ञासह प्रजा निर्माण करून सांगितले - या यज्ञाद्वारे तुम्ही वृद्धी प्राप्त करा, हा तुमच्या इच्छित कामनांची पूर्तता करणारा होवो.",
+            "word_meaning": "Sahayajñāḥ = together with sacrifice; prajāpatiḥ = the Creator (Brahma); prasaviṣyadhvam = you shall prosper/multiply; kāmadhuk = fulfiller of desires.",
+            "keywords": [
+                "Prajapati",
+                "creation",
+                "sacrifice origin",
+                "mutual prosperity"
+            ],
+            "summary": "At the dawn of creation, sacrifice was established by the Creator as the means by which humanity would prosper and desires be fulfilled.",
+            "reflection": "Cooperation and giving are woven into the fabric of creation itself; prosperity flows from mutual offering, not isolated grasping."
+        },
+        {
+            "id": 130,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 11,
+            "sanskrit": "देवान्भावयतानेन ते देवा भावयन्तु वः |\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||",
+            "transliteration": "devān bhāvayatānena te devā bhāvayantu vaḥ | parasparaṁ bhāvayantaḥ śreyaḥ param avāpsyatha ||",
+            "english": "Nourish the gods with this (sacrifice), and may those gods nourish you in return; thus nourishing one another, you shall attain the supreme good.",
+            "hindi": "तुम इस यज्ञ द्वारा देवताओं को उन्नत करो और वे देवता तुम्हें उन्नत करें। इस प्रकार परस्पर एक-दूसरे को उन्नत करते हुए तुम परम कल्याण को प्राप्त होगे।",
+            "marathi": "तुम या यज्ञाद्वारे देवतांना उन्नत करा आणि ते देवता तुम्हाला उन्नत करोत. अशा प्रकारे परस्पर एकमेकांना उन्नत करत तुम्ही परम कल्याण प्राप्त कराल.",
+            "word_meaning": "Bhāvayata = nourish/propitiate; parasparam = mutually; śreyaḥ param = the supreme good/welfare.",
+            "keywords": [
+                "mutual nourishment",
+                "gods and humans",
+                "reciprocity",
+                "supreme good"
+            ],
+            "summary": "A reciprocal relationship of giving between humans and the divine forces of nature leads to the highest welfare for all.",
+            "reflection": "Relationships and communities flourish through mutual give-and-take. Nourish others, and you too will be nourished."
+        },
+        {
+            "id": 131,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 12,
+            "sanskrit": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः |\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ||",
+            "transliteration": "iṣṭān bhogān hi vo devā dāsyante yajñabhāvitāḥ | tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ ||",
+            "english": "Nourished by sacrifice, the gods will indeed grant you the enjoyments you desire. One who enjoys these gifts without offering anything in return to them is verily a thief.",
+            "hindi": "यज्ञ से पोषित हुए देवता तुम्हें बिना माँगे ही इच्छित भोग प्रदान करेंगे। जो पुरुष उनके द्वारा दिए हुए भोगों को उन्हें बिना अर्पण किए स्वयं भोगता है, वह चोर ही है।",
+            "marathi": "यज्ञाने पोषित झालेले देवता तुम्हाला विनाविनंती इच्छित भोग देतील. जो पुरुष त्यांनी दिलेले भोग त्यांना अर्पण न करता स्वतः उपभोगतो, तो चोरच आहे.",
+            "word_meaning": "Iṣṭān bhogān = desired enjoyments; yajñabhāvitāḥ = nourished/gratified by sacrifice; stena = thief.",
+            "keywords": [
+                "gratitude",
+                "reciprocity",
+                "theft metaphor",
+                "selfishness condemned"
+            ],
+            "summary": "Those who enjoy nature's or society's gifts without giving anything back in gratitude or offering are compared to thieves.",
+            "reflection": "Receiving without giving back — whether from nature, community, or family — is a subtle form of taking without earning."
+        },
+        {
+            "id": 132,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 13,
+            "sanskrit": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः |\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ||",
+            "transliteration": "yajñaśiṣṭāśinaḥ santo muchyante sarvakilbiṣaiḥ | bhuñjate te tv aghaṁ pāpā ye pachanty ātmakāraṇāt ||",
+            "english": "The virtuous who eat the remnants of sacrifice are freed from all sins; but the wicked, who cook only for their own sake, verily eat sin.",
+            "hindi": "यज्ञ से बचे हुए अन्न को खाने वाले श्रेष्ठ पुरुष सब पापों से मुक्त हो जाते हैं, परन्तु जो पापी लोग केवल अपने लिए ही अन्न पकाते हैं, वे तो पाप को ही खाते हैं।",
+            "marathi": "यज्ञातून उरलेले अन्न खाणारे श्रेष्ठ पुरुष सर्व पापांतून मुक्त होतात, परंतु जे पापी लोक केवळ स्वतःसाठीच अन्न शिजवतात, ते पापच खातात.",
+            "word_meaning": "Yajñaśiṣṭāśinaḥ = those who eat the remnants of sacrifice; kilbiṣaiḥ = sins; ātmakāraṇāt = for one's own sake alone.",
+            "keywords": [
+                "sacrifice remnants",
+                "sin and virtue",
+                "selfless eating",
+                "self-centered cooking"
+            ],
+            "summary": "Eating what remains after selfless offering purifies; eating what is prepared purely for oneself, without any sharing, accrues sin.",
+            "reflection": "A life oriented toward sharing and offering is naturally purifying; a life of pure self-interest quietly accumulates its own burden."
+        },
+        {
+            "id": 133,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 14,
+            "sanskrit": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः |\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ||",
+            "transliteration": "annād bhavanti bhūtāni parjanyād annasambhavaḥ | yajñād bhavati parjanyo yajñaḥ karmasamudbhavaḥ ||",
+            "english": "From food, creatures come into being; from rain, food is produced; from sacrifice, rain arises; and sacrifice is born of action.",
+            "hindi": "सम्पूर्ण प्राणी अन्न से उत्पन्न होते हैं, अन्न वृष्टि से उत्पन्न होता है, वृष्टि यज्ञ से होती है और यज्ञ विहित कर्मों से उत्पन्न होने वाला है।",
+            "marathi": "सर्व प्राणी अन्नापासून उत्पन्न होतात, अन्न वृष्टीपासून उत्पन्न होते, वृष्टी यज्ञापासून होते आणि यज्ञ विहित कर्मांपासून उत्पन्न होतो.",
+            "word_meaning": "Annāt = from food; bhūtāni = beings/creatures; parjanyāt = from rain; karmasamudbhavaḥ = born of (prescribed) action.",
+            "keywords": [
+                "cycle of life",
+                "food chain",
+                "rain",
+                "sacrifice",
+                "interdependence"
+            ],
+            "summary": "Krishna describes a cosmic cycle: action produces sacrifice, sacrifice produces rain, rain produces food, and food sustains all beings.",
+            "reflection": "Everything in existence is interconnected in cycles of giving and receiving; our actions ripple outward to sustain the whole web of life."
+        },
+        {
+            "id": 134,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 15,
+            "sanskrit": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् |\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ||",
+            "transliteration": "karma brahmodbhavaṁ viddhi brahmākṣarasamudbhavam | tasmāt sarvagataṁ brahma nityaṁ yajñe pratiṣṭhitam ||",
+            "english": "Know that action arises from the Veda (Brahman), and the Veda arises from the Imperishable (the Supreme). Therefore the all-pervading Brahman is ever established in sacrifice.",
+            "hindi": "तू यह जान कि कर्म वेद से उत्पन्न हुआ है और वेद अक्षर (परब्रह्म परमात्मा) से उत्पन्न हुआ है। इसलिए सर्वव्यापी ब्रह्म सदैव यज्ञ में प्रतिष्ठित है।",
+            "marathi": "तू हे जाण की कर्म वेदापासून उत्पन्न झाले आहे आणि वेद अक्षरापासून (परब्रह्म परमात्म्यापासून) उत्पन्न झाला आहे. म्हणून सर्वव्यापी ब्रह्म सदैव यज्ञात प्रतिष्ठित आहे.",
+            "word_meaning": "Brahmodbhavam = arising from the Veda/Brahman; akṣara = the Imperishable; sarvagataṁ = all-pervading; pratiṣṭhitam = established.",
+            "keywords": [
+                "Brahman",
+                "Veda",
+                "origin of action",
+                "cosmic order",
+                "akshara"
+            ],
+            "summary": "The chain of cause and effect is traced back to the eternal, imperishable Brahman, showing that sacrifice is rooted in the ultimate reality itself.",
+            "reflection": "Our daily actions, however small, are ultimately connected to the deepest source of existence — this can lend sacredness to ordinary work."
+        },
+        {
+            "id": 135,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 16,
+            "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः |\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||",
+            "transliteration": "evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ | aghāyur indriyārāmo moghaṁ pārtha sa jīvati ||",
+            "english": "He who does not follow this wheel of reciprocity thus set in motion here, living a sinful life, delighting in the senses, lives in vain, O Partha.",
+            "hindi": "हे पार्थ! जो पुरुष इस प्रकार परम्परा से प्रचलित सृष्टिचक्र के अनुसार नहीं चलता, वह इन्द्रियों के द्वारा भोगों में रमण करने वाला पापायु पुरुष व्यर्थ ही जीता है।",
+            "marathi": "हे पार्था! जो पुरुष अशा प्रकारे परंपरेने चालत आलेल्या सृष्टिचक्राप्रमाणे चालत नाही, तो इंद्रियांद्वारे भोगांत रमणारा पापायु पुरुष व्यर्थच जगतो.",
+            "word_meaning": "Chakraṁ = wheel/cycle; nānuvartayati = does not follow; aghāyuḥ = one who lives sinfully; indriyārāmaḥ = delighting in the senses; moghaṁ = in vain.",
+            "keywords": [
+                "cosmic wheel",
+                "sinful life",
+                "sense indulgence",
+                "wasted life",
+                "Partha"
+            ],
+            "summary": "Those who break the cycle of mutual sacrifice and giving, living only for sensory pleasure, are said to live a purposeless, sinful existence.",
+            "reflection": "A life spent only chasing personal pleasure, disconnected from contribution to others, ultimately feels empty and unfulfilled."
+        },
+        {
+            "id": 136,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 17,
+            "sanskrit": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः |\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ||",
+            "transliteration": "yas tv ātmaratir eva syād ātmatṛiptaśh cha mānavaḥ | ātmany eva cha santuṣṭas tasya kāryaṁ na vidyate ||",
+            "english": "But the man who rejoices only in the Self, who is satisfied with the Self, and content in the Self alone — for him there remains nothing that must be done.",
+            "hindi": "किन्तु जो मनुष्य आत्मा में ही रमण करने वाला हो और आत्मा में ही तृप्त तथा आत्मा में ही संतुष्ट हो, उसके लिए कोई कर्तव्य कर्म नहीं रह जाता।",
+            "marathi": "परंतु जो मनुष्य आत्म्यातच रमण करणारा असेल आणि आत्म्यातच तृप्त तसेच आत्म्यातच संतुष्ट असेल, त्याच्यासाठी कोणतेही कर्तव्य कर्म शिल्लक राहत नाही.",
+            "word_meaning": "Ātmaratiḥ = rejoicing in the Self; ātmatṛiptaḥ = satisfied in the Self; kāryaṁ na vidyate = there is nothing that needs to be done.",
+            "keywords": [
+                "self-realization",
+                "contentment",
+                "no obligation",
+                "inner fulfillment"
+            ],
+            "summary": "One who has found complete fulfillment within the Self is no longer bound by any obligatory duty, having transcended the need for action-based fulfillment.",
+            "reflection": "True inner contentment frees us from the restless need to prove or complete ourselves through external achievement."
+        },
+        {
+            "id": 137,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 18,
+            "sanskrit": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन |\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ||",
+            "transliteration": "naiva tasya kṛitenārtho nākṛteneha kaśhchana | na chāsya sarvabhūteṣhu kaśhchid arthavyapāśhrayaḥ ||",
+            "english": "For him there is no interest in what is done, nor any purpose in what is left undone in this world; nor does he depend on any being for any object of self-interest.",
+            "hindi": "उस आत्मज्ञानी पुरुष का इस संसार में न तो कर्म करने से कोई प्रयोजन रहता है और न कर्म न करने से ही, तथा समस्त प्राणियों में भी उसका किंचित मात्र भी स्वार्थ का सम्बन्ध नहीं रहता।",
+            "marathi": "त्या आत्मज्ञानी पुरुषाचा या जगात कर्म करण्याने काही प्रयोजन नसते, तसेच कर्म न करण्यानेही नसते, आणि सर्व प्राण्यांशीही त्याचा किंचितही स्वार्थाचा संबंध राहत नाही.",
+            "word_meaning": "Kṛitena = by doing; akṛitena = by not doing; arthavyapāśhrayaḥ = dependence for any self-interested purpose.",
+            "keywords": [
+                "self-sufficiency",
+                "beyond gain and loss",
+                "no self-interest",
+                "liberation"
+            ],
+            "summary": "The self-realized person has no personal stake left in action or inaction, and no selfish dependence on any other being.",
+            "reflection": "As inner freedom grows, our actions become less about personal gain and more about pure, disinterested service."
+        },
+        {
+            "id": 138,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 19,
+            "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर |\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||",
+            "transliteration": "tasmād asaktaḥ satataṁ kāryaṁ karma samāchara | asakto hy ācharan karma param āpnoti pūruṣaḥ ||",
+            "english": "Therefore, always perform your prescribed duty without attachment; for by performing action without attachment, a person attains the Supreme.",
+            "hindi": "इसलिए तू निरंतर आसक्तिरहित होकर कर्तव्य कर्म को भलीभाँति करता रह, क्योंकि आसक्तिरहित होकर कर्म करता हुआ मनुष्य परमात्मा को प्राप्त हो जाता है।",
+            "marathi": "म्हणून तू सतत आसक्तीरहित राहून कर्तव्य कर्म उत्तम प्रकारे कर, कारण आसक्तीरहित राहून कर्म करणारा मनुष्य परमात्म्याला प्राप्त होतो.",
+            "word_meaning": "Asaktaḥ = without attachment; satataṁ = constantly; param āpnoti = attains the Supreme.",
+            "keywords": [
+                "detached action",
+                "duty",
+                "attaining the Supreme",
+                "central teaching"
+            ],
+            "summary": "This verse crystallizes the essence of Karma Yoga: performing one's duty steadily, without attachment, leads to the highest spiritual attainment.",
+            "reflection": "You don't need to abandon your responsibilities to grow spiritually — do your work fully, but hold the outcome lightly."
+        },
+        {
+            "id": 139,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 20,
+            "sanskrit": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः |\nलोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ||",
+            "transliteration": "karmaṇaiva hi saṁsiddhim āsthitā janakādayaḥ | lokasaṅgraham evāpi sampaśyan kartum arhasi ||",
+            "english": "Indeed, King Janaka and others attained perfection through action alone. You too should act, considering also the welfare and unity of the world (lokasangraha).",
+            "hindi": "राजा जनक आदि ज्ञानीजन भी कर्म द्वारा ही परम सिद्धि को प्राप्त हुए थे। इसलिए तथा लोकसंग्रह को देखते हुए भी तुझे कर्म करना उचित है।",
+            "marathi": "राजा जनक आदी ज्ञानी पुरुषही कर्माद्वारेच परम सिद्धीला प्राप्त झाले होते. म्हणून तसेच लोकसंग्रहाचा विचार करूनही तुला कर्म करणे योग्य आहे.",
+            "word_meaning": "Saṁsiddhim = perfection; janakādayaḥ = Janaka and others; lokasaṅgraham = welfare/holding together of the world.",
+            "keywords": [
+                "Janaka",
+                "lokasangraha",
+                "example of the wise",
+                "world welfare"
+            ],
+            "summary": "Krishna cites King Janaka as an example of someone who achieved perfection through action, urging Arjuna to act for the sake of setting a good example for the world.",
+            "reflection": "Even those who have nothing left to gain personally often continue working — for the sake of others who look to them as an example."
+        },
+        {
+            "id": 140,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 21,
+            "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः |\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||",
+            "transliteration": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ | sa yat pramāṇaṁ kurute lokas tad anuvartate ||",
+            "english": "Whatever a great person does, other people follow that very example; whatever standard he sets by his own conduct, the world pursues it.",
+            "hindi": "श्रेष्ठ पुरुष जो-जो आचरण करता है, अन्य पुरुष भी वैसा-वैसा ही आचरण करते हैं। वह जो कुछ प्रमाण कर देता है, समस्त मनुष्य समुदाय उसी के अनुसार बरतने लगता है।",
+            "marathi": "श्रेष्ठ पुरुष जे जे आचरण करतो, इतर पुरुषही तसेच आचरण करतात. तो जे काही प्रमाण ठरवतो, संपूर्ण मनुष्यसमुदाय त्याच्याच अनुसार वागू लागतो.",
+            "word_meaning": "Śhreṣhṭhaḥ = the great/superior person; pramāṇaṁ = standard/example; anuvartate = follows.",
+            "keywords": [
+                "leadership by example",
+                "influence",
+                "role models",
+                "societal impact"
+            ],
+            "summary": "This verse highlights the responsibility of respected or influential people, since ordinary people naturally imitate their behavior and standards.",
+            "reflection": "Consider how your example influences others, especially those who look up to you — your actions often speak louder than your words."
+        },
+        {
+            "id": 141,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 22,
+            "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||",
+            "transliteration": "na me pārthāsti kartavyaṁ triṣu lokeṣhu kiñchana | nānavāptam avāptavyaṁ varta eva cha karmaṇi ||",
+            "english": "O Partha, there is nothing in the three worlds that must be done by Me, nor anything unattained that needs to be attained; yet I engage in action.",
+            "hindi": "हे पार्थ! मुझे इन तीनों लोकों में न तो कोई कर्तव्य कर्म है और न कोई प्राप्त करने योग्य वस्तु ही अप्राप्त है, फिर भी मैं कर्म में ही बर्तता हूँ।",
+            "marathi": "हे पार्था! मला या तिन्ही लोकांत कोणतेही कर्तव्य कर्म नाही, तसेच कोणतीही प्राप्त करण्यायोग्य वस्तूही अप्राप्त नाही, तरीही मी कर्मातच वागतो.",
+            "word_meaning": "Kartavyaṁ = duty to be done; triṣhu lokeṣhu = in the three worlds; anavāptam avāptavyaṁ = unattained thing to be attained.",
+            "keywords": [
+                "Krishna's example",
+                "divine action",
+                "no personal need",
+                "selfless engagement"
+            ],
+            "summary": "Krishna, though the Supreme Being with nothing to gain, still continues to act — establishing the ideal example of selfless action.",
+            "reflection": "Even when you have 'nothing to prove,' continuing to engage constructively sets a powerful example for those around you."
+        },
+        {
+            "id": 142,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 23,
+            "sanskrit": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः |\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||",
+            "transliteration": "yadi hy ahaṁ na varteyaṁ jātu karmaṇy atandritaḥ | mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ ||",
+            "english": "For if I did not engage tirelessly in action, O Partha, men would follow My path in every way.",
+            "hindi": "हे पार्थ! यदि कदाचित मैं सावधान होकर कर्मों में न बरतूँ, तो बड़ी हानि हो जाए, क्योंकि मनुष्य सब प्रकार से मेरे ही मार्ग का अनुसरण करते हैं।",
+            "marathi": "हे पार्था! जर कदाचित मी सावध राहून कर्मात वागलो नाही, तर मोठे नुकसान होईल, कारण मनुष्य सर्व प्रकारे माझ्याच मार्गाचे अनुसरण करतात.",
+            "word_meaning": "Atandritaḥ = tirelessly, without laziness; vartma anuvartante = follow the path.",
+            "keywords": [
+                "Krishna's responsibility",
+                "influence of the ideal",
+                "example-setting",
+                "diligence"
+            ],
+            "summary": "Krishna explains that if He, the ideal being, were to become negligent in action, humanity at large would follow that negligence.",
+            "reflection": "Those in positions of influence carry a responsibility: their diligence or laziness sets the tone for everyone who follows them."
+        },
+        {
+            "id": 143,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 24,
+            "sanskrit": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् |\nसङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ||",
+            "transliteration": "utsīdeyur ime lokā na kuryāṁ karma ched aham | saṅkarasya cha kartā syām upahanyām imāḥ prajāḥ ||",
+            "english": "These worlds would perish if I did not perform action; I would become the cause of confusion (of duties, varna-sankara), and I would destroy these beings.",
+            "hindi": "यदि मैं कर्म न करूँ, तो ये सब लोक नष्ट-भ्रष्ट हो जाएँ और मैं संकरता (वर्णसंकर) का करने वाला होऊँ तथा इस समस्त प्रजा को नष्ट करने वाला बनूँ।",
+            "marathi": "जर मी कर्म केले नाही, तर हे सर्व लोक नष्ट होतील आणि मी संकरतेचा (वर्णसंकराचा) कर्ता होईन तसेच या संपूर्ण प्रजेचा नाश करणारा बनेन.",
+            "word_meaning": "Utsīdeyuḥ = would perish/collapse; saṅkarasya kartā = cause of confusion/intermixture; upahanyām = would destroy.",
+            "keywords": [
+                "cosmic order",
+                "consequences of inaction",
+                "responsibility",
+                "sankara/confusion"
+            ],
+            "summary": "Krishna warns that His own inaction, even as the Supreme, would cause the collapse of cosmic and social order, harming all beings.",
+            "reflection": "Neglecting our responsibilities doesn't just affect us — it can ripple outward and disturb the order and wellbeing of those who depend on us."
+        },
+        {
+            "id": 144,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 25,
+            "sanskrit": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत |\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् ||",
+            "transliteration": "saktāḥ karmaṇy avidvāṁso yathā kurvanti bhārata | kuryād vidvāṁs tathāsaktaśh chikīrṣhur lokasaṅgraham ||",
+            "english": "As the ignorant act with attachment to action, O Bharata, so should the wise act without attachment, desiring the welfare and integration of the world.",
+            "hindi": "हे भारत! अज्ञानी पुरुष जिस प्रकार आसक्त होकर कर्म करते हैं, विद्वान भी उसी प्रकार आसक्ति रहित होकर, किन्तु लोकसंग्रह करना चाहता हुआ कर्म करे।",
+            "marathi": "हे भारता! अज्ञानी पुरुष जसे आसक्त राहून कर्म करतात, त्याचप्रमाणे विद्वानानेही आसक्तीरहित राहून, परंतु लोकसंग्रह करण्याची इच्छा बाळगून कर्म करावे.",
+            "word_meaning": "Avidvāṁsaḥ = the ignorant; asaktaḥ = without attachment; chikīrṣhuḥ lokasaṅgraham = desiring the welfare/cohesion of the world.",
+            "keywords": [
+                "wise vs ignorant action",
+                "lokasangraha again",
+                "role of the enlightened",
+                "detached engagement"
+            ],
+            "summary": "The wise should act just as actively as the ignorant, but without personal attachment, motivated instead by concern for the welfare of society.",
+            "reflection": "Being spiritually mature doesn't mean withdrawing from the world's activity — it means engaging fully while keeping ego out of it."
+        },
+        {
+            "id": 145,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 26,
+            "sanskrit": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् |\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ||",
+            "transliteration": "na buddhibhedaṁ janayed ajñānāṁ karmasaṅginām | joṣhayet sarvakarmāṇi vidvān yuktaḥ samācharan ||",
+            "english": "The wise should not unsettle the minds of the ignorant who are attached to action; rather, being himself steadfast, he should inspire them, engaging in all actions properly.",
+            "hindi": "पूर्ण ज्ञानी पुरुष को चाहिए कि वह कर्मों में आसक्ति वाले अज्ञानी पुरुषों की बुद्धि में भ्रम उत्पन्न न करे, बल्कि स्वयं शास्त्रविहित समस्त कर्म भलीभाँति करता हुआ, उनसे भी वैसा ही करवाए।",
+            "marathi": "पूर्ण ज्ञानी पुरुषाने कर्मात आसक्त असलेल्या अज्ञानी पुरुषांच्या बुद्धीत भ्रम निर्माण करू नये, तर स्वतः शास्त्रविहित सर्व कर्मे उत्तम प्रकारे करत, त्यांच्याकडूनही तसेच करवून घ्यावे.",
+            "word_meaning": "Buddhibhedaṁ = confusion/disturbance of understanding; karmasaṅginām = of those attached to action; joṣhayet = should encourage/engage.",
+            "keywords": [
+                "responsibility of the wise",
+                "not disturbing others' faith",
+                "gentle guidance",
+                "leading by involvement"
+            ],
+            "summary": "The enlightened should not disturb the faith of those still attached to action, but instead guide them by their own dedicated example.",
+            "reflection": "When you know more than others, resist the urge to disrupt their process abruptly — lead by example and gentle encouragement instead."
+        },
+        {
+            "id": 146,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 27,
+            "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः |\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||",
+            "transliteration": "prakṛiteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ | ahaṅkāravimūḍhātmā kartāham iti manyate ||",
+            "english": "All actions are, in every way, performed by the gunas (qualities) of nature (prakriti); but one whose mind is deluded by egoism thinks, 'I am the doer.'",
+            "hindi": "सम्पूर्ण कर्म सब प्रकार से प्रकृति के गुणों द्वारा ही किए जाते हैं, तो भी जिसका अंतःकरण अहंकार से मोहित हो रहा है, ऐसा अज्ञानी पुरुष 'मैं कर्ता हूँ' - ऐसा मानता है।",
+            "marathi": "संपूर्ण कर्म सर्व प्रकारे प्रकृतीच्या गुणांद्वारेच केले जातात, तरीही ज्याचे अंतःकरण अहंकाराने मोहित झाले आहे, असा अज्ञानी पुरुष 'मी कर्ता आहे' असे मानतो.",
+            "word_meaning": "Prakṛiteḥ guṇaiḥ = by the qualities of nature; ahaṅkāravimūḍhātmā = one whose self is deluded by ego; kartāham = 'I am the doer.'",
+            "keywords": [
+                "ego",
+                "gunas as true doer",
+                "false sense of doership",
+                "illusion of ahamkara"
+            ],
+            "summary": "In reality, the gunas of nature perform all actions; the ego-bound person mistakenly believes he himself is the independent doer.",
+            "reflection": "Notice how much of what we take credit for is actually shaped by forces, conditioning, and circumstances beyond our sole control."
+        },
+        {
+            "id": 147,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 28,
+            "sanskrit": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः |\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||",
+            "transliteration": "tattvavit tu mahābāho guṇakarmavibhāgayoḥ | guṇā guṇeṣhu vartanta iti matvā na sajjate ||",
+            "english": "But, O mighty-armed one, the knower of truth regarding the divisions of the gunas and their actions, understanding that 'the gunas act upon the gunas,' does not become attached.",
+            "hindi": "परन्तु हे महाबाहो! गुणविभाग और कर्मविभाग के तत्त्व को जानने वाला ज्ञानयोगी 'सब गुण ही गुणों में बरत रहे हैं' - ऐसा समझकर उनमें आसक्त नहीं होता।",
+            "marathi": "परंतु हे महाबाहो! गुणविभाग आणि कर्मविभागाचे तत्त्व जाणणारा ज्ञानयोगी 'सर्व गुणच गुणांमध्ये वागत आहेत' असे समजून त्यांच्यात आसक्त होत नाही.",
+            "word_meaning": "Tattvavit = knower of truth; guṇakarmavibhāgayoḥ = of the divisions of gunas and their actions; guṇā guṇeṣhu vartante = the gunas act upon (interact with) the gunas.",
+            "keywords": [
+                "knower of truth",
+                "gunas interacting",
+                "non-attachment through understanding",
+                "mahabaho"
+            ],
+            "summary": "The wise, understanding that the interplay of nature's qualities (senses, mind, objects) is simply guna interacting with guna, remain detached from the sense of personal doership.",
+            "reflection": "Understanding the mechanics behind our reactions and desires — how conditioning interacts with circumstance — helps loosen our grip of false ownership."
+        },
+        {
+            "id": 148,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 29,
+            "sanskrit": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु |\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ||",
+            "transliteration": "prakṛiter guṇasammūḍhāḥ sajjante guṇakarmasu | tān akṛitsnavido mandān kṛitsnavin na vichālayet ||",
+            "english": "Those deluded by the gunas of nature become attached to the actions of the gunas. The one of complete knowledge should not unsettle these dull-witted persons of incomplete understanding.",
+            "hindi": "प्रकृति के गुणों से अत्यन्त मोहित हुए मनुष्य गुणों में और कर्मों में आसक्त होते हैं, उन पूर्णतया न समझने वाले मंदबुद्धि अज्ञानियों को पूर्ण ज्ञानवाला पुरुष विचलित न करे।",
+            "marathi": "प्रकृतीच्या गुणांनी अत्यंत मोहित झालेले मनुष्य गुणांत व कर्मांत आसक्त होतात, त्या पूर्णपणे न समजणाऱ्या मंदबुद्धी अज्ञान्यांना पूर्ण ज्ञानी पुरुषाने विचलित करू नये.",
+            "word_meaning": "Guṇasammūḍhāḥ = deluded by the gunas; mandān = the dull-witted; kṛitsnavit = one of complete knowledge; na vichālayet = should not unsettle.",
+            "keywords": [
+                "patience with the ignorant",
+                "gradual guidance",
+                "compassion of the wise",
+                "not disturbing faith"
+            ],
+            "summary": "The wise, possessing complete knowledge, should be patient and not disturb those of lesser understanding who remain attached to action out of ignorance.",
+            "reflection": "Wisdom includes patience — meeting people where they are rather than forcing insights on them before they're ready."
+        },
+        {
+            "id": 149,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 30,
+            "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||",
+            "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātmachetasā | nirāśhīr nirmamo bhūtvā yudhyasva vigatajvaraḥ ||",
+            "english": "Surrendering all actions to Me, with your mind fixed on the Supreme Self, being free from desire and possessiveness, fight, freed from mental fever.",
+            "hindi": "मुझमें अध्यात्मचित्त से सम्पूर्ण कर्मों को अर्पण करके, आशारहित, ममतारहित तथा संतापरहित होकर तू युद्ध कर।",
+            "marathi": "माझ्यात अध्यात्मचित्ताने संपूर्ण कर्मे अर्पण करून, आशारहित, ममतारहित तसेच संतापरहित होऊन तू युद्ध कर.",
+            "word_meaning": "Sannyasya = surrendering/renouncing; adhyātmachetasā = with mind fixed on the Self; nirāśhīḥ = free from desire; vigatajvaraḥ = free from mental fever/anguish.",
+            "keywords": [
+                "surrender",
+                "Karma Yoga applied",
+                "fighting without attachment",
+                "central instruction to Arjuna"
+            ],
+            "summary": "Krishna gives Arjuna the practical instruction: dedicate all actions to the Divine, act without craving results or possessiveness, and proceed free of inner turmoil.",
+            "reflection": "Offering our efforts to something greater than personal gain — a cause, a higher purpose — can free us from the anxiety of outcomes."
+        },
+        {
+            "id": 150,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 31,
+            "sanskrit": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः |\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ||",
+            "transliteration": "ye me matam idaṁ nityam anutiṣhṭhanti mānavāḥ | śhraddhāvanto 'nasūyanto muchyante te 'pi karmabhiḥ ||",
+            "english": "Those who constantly practice this teaching of Mine, full of faith and free from envy/cavilling, they too are released from the bondage of actions.",
+            "hindi": "जो मनुष्य दोषदृष्टि से रहित और श्रद्धायुक्त होकर मेरे इस मत का सदा अनुसरण करते हैं, वे भी कर्मों के बंधन से मुक्त हो जाते हैं।",
+            "marathi": "जे मनुष्य दोषदृष्टीरहित आणि श्रद्धायुक्त होऊन माझ्या या मताचे सदैव अनुसरण करतात, तेही कर्मांच्या बंधनातून मुक्त होतात.",
+            "word_meaning": "Anutiṣhṭhanti = practice/follow; śhraddhāvantaḥ = full of faith; anasūyantaḥ = free from envy/fault-finding; muchyante = are freed.",
+            "keywords": [
+                "faith",
+                "freedom from bondage",
+                "following teaching sincerely",
+                "non-envious practice"
+            ],
+            "summary": "Those who sincerely and faithfully live by this teaching of selfless action, without cynicism, achieve liberation from the bondage of karma.",
+            "reflection": "Sincere, consistent practice of a good principle — approached with an open heart rather than skepticism — gradually frees us from old patterns."
+        },
+        {
+            "id": 151,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 32,
+            "sanskrit": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् |\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ||",
+            "transliteration": "ye tv etad abhyasūyanto nānutiṣhṭhanti me matam | sarvajñānavimūḍhāṁs tān viddhi naṣhṭān achetasaḥ ||",
+            "english": "But those who, cavilling and finding fault, do not follow this teaching of Mine — know them to be deluded in all knowledge, senseless, and ruined.",
+            "hindi": "परन्तु जो मनुष्य दोष दृष्टि से मेरे इस मत में दोष लगाते हुए इसके अनुसार आचरण नहीं करते, उन मूर्खों को तू सम्पूर्ण ज्ञानों में मोहित और नष्ट हुए ही समझ।",
+            "marathi": "परंतु जे मनुष्य दोषदृष्टीने माझ्या या मतात दोष शोधत त्यानुसार आचरण करत नाहीत, त्या मूर्खांना तू संपूर्ण ज्ञानांत मोहित आणि नष्ट झालेलेच समज.",
+            "word_meaning": "Abhyasūyantaḥ = finding fault/cavilling; sarvajñānavimūḍhān = deluded in all knowledge; naṣhṭān achetasaḥ = ruined and senseless.",
+            "keywords": [
+                "skepticism warned against",
+                "consequences of rejecting wisdom",
+                "delusion",
+                "cynicism"
+            ],
+            "summary": "Those who cynically reject this teaching instead of practicing it are described as thoroughly deluded and spiritually lost.",
+            "reflection": "Persistent cynicism toward wisdom, rather than genuine engagement with it, tends to leave us stuck rather than growing."
+        },
+        {
+            "id": 152,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 33,
+            "sanskrit": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि |\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||",
+            "transliteration": "sadṛiśhaṁ cheṣhṭate svasyāḥ prakṛiter jñānavān api | prakṛitiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣhyati ||",
+            "english": "Even a person of knowledge acts in accordance with his own nature; all beings follow their nature. What can mere restraint accomplish?",
+            "hindi": "सर्वज्ञानी पुरुष भी अपनी प्रकृति के अनुरूप ही चेष्टा करता है। सभी प्राणी प्रकृति को ही प्राप्त होते हैं (उसके अनुसार बर्तते हैं), फिर निग्रह (बलात रोकना) क्या करेगा?",
+            "marathi": "सर्वज्ञानी पुरुषही आपल्या प्रकृतीनुसारच चेष्टा करतो. सर्व प्राणी प्रकृतीलाच अनुसरतात, मग निग्रह (बळजबरीने रोखणे) काय करणार?",
+            "word_meaning": "Sadṛiśhaṁ = in accordance with; svasyāḥ prakṛiteḥ = one's own nature; nigrahaḥ = forceful restraint.",
+            "keywords": [
+                "nature (svabhava)",
+                "limits of forced restraint",
+                "acting according to nature",
+                "wisdom vs nature"
+            ],
+            "summary": "Even the wise cannot escape acting according to their own inherent nature; forcefully suppressing this nature accomplishes little.",
+            "reflection": "Fighting your fundamental nature through sheer willpower rarely works long-term — better to channel and refine it wisely."
+        },
+        {
+            "id": 153,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 34,
+            "sanskrit": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ |\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ||",
+            "transliteration": "indriyasyendriyasyārthe rāgadveṣhau vyavasthitau | tayor na vaśham āgachchhet tau hy asya paripanthinau ||",
+            "english": "Attachment and aversion are seated in the senses with regard to their respective objects. One should not come under the control of these two, for they are indeed obstacles on one's path.",
+            "hindi": "इन्द्रिय-इन्द्रिय के अर्थ में राग और द्वेष छिपे रहते हैं, मनुष्य को उन दोनों के वश में नहीं होना चाहिए, क्योंकि वे दोनों ही उसके कल्याण मार्ग में विघ्न डालने वाले शत्रु हैं।",
+            "marathi": "इंद्रिय-इंद्रियाच्या विषयात राग आणि द्वेष लपलेले असतात, मनुष्याने त्या दोघांच्या वश होऊ नये, कारण ते दोघेही त्याच्या कल्याणाच्या मार्गात विघ्न आणणारे शत्रू आहेत.",
+            "word_meaning": "Rāgadveṣhau = attraction and aversion; vyavasthitau = situated/established; paripanthinau = obstacles/enemies on the path.",
+            "keywords": [
+                "attachment and aversion",
+                "senses",
+                "obstacles to progress",
+                "raga-dvesha"
+            ],
+            "summary": "Krishna warns that liking and disliking, rooted in the senses' contact with objects, are dangerous forces that obstruct one's spiritual path if left unchecked.",
+            "reflection": "Notice your automatic likes and dislikes — they quietly steer behavior. Awareness of these patterns is the first step to not being ruled by them."
+        },
+        {
+            "id": 154,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 35,
+            "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् |\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ||",
+            "transliteration": "śhreyān svadharmo viguṇaḥ paradharmāt svanuṣhṭhitāt | svadharme nidhanaṁ śhreyaḥ paradharmo bhayāvahaḥ ||",
+            "english": "Better is one's own duty, though imperfectly performed, than the duty of another well performed. Better is death in one's own duty; the duty of another is fraught with fear/danger.",
+            "hindi": "अच्छी प्रकार आचरण किए हुए दूसरे के धर्म से गुणरहित भी अपना धर्म श्रेष्ठ है। अपने धर्म में मरना भी कल्याणकारक है और दूसरे का धर्म भय को देने वाला है।",
+            "marathi": "चांगल्या प्रकारे आचरण केलेल्या दुसऱ्याच्या धर्मापेक्षा गुणरहित असला तरी स्वतःचा धर्म श्रेष्ठ आहे. स्वतःच्या धर्मात मरणही कल्याणकारक आहे आणि दुसऱ्याचा धर्म भय देणारा आहे.",
+            "word_meaning": "Svadharmaḥ = one's own duty/nature-based path; viguṇaḥ = imperfect/lacking excellence; paradharmaḥ = another's duty; bhayāvahaḥ = fraught with fear/danger.",
+            "keywords": [
+                "svadharma",
+                "own duty vs another's",
+                "authenticity",
+                "famous verse"
+            ],
+            "summary": "It is better to follow one's own natural duty imperfectly than to perform someone else's duty perfectly, because straying from one's own path brings inner danger.",
+            "reflection": "Comparing yourself to others and trying to live their path, even if it looks 'better,' often leads to inner conflict. Honor your own authentic path."
+        },
+        {
+            "id": 155,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 36,
+            "sanskrit": "अर्जुन उवाच |\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः |\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ||",
+            "transliteration": "arjuna uvācha | atha kena prayukto 'yaṁ pāpaṁ charati pūruṣhaḥ | anichchhann api vārṣhṇeya balād iva niyojitaḥ ||",
+            "english": "Arjuna said: Then, impelled by what does a person commit sin, even unwillingly, O Varshneya (Krishna), as if compelled by force?",
+            "hindi": "अर्जुन ने कहा: हे वार्ष्णेय (कृष्ण)! फिर यह मनुष्य न चाहता हुआ भी बलात् लगाए हुए की भाँति किससे प्रेरित होकर पाप का आचरण करता है?",
+            "marathi": "अर्जुन म्हणाला: हे वार्ष्णेय (कृष्णा)! मग हा मनुष्य नको असतानाही जबरदस्तीने लावल्याप्रमाणे कशाने प्रेरित होऊन पापाचरण करतो?",
+            "word_meaning": "Prayuktaḥ = impelled/driven; anichchhan api = even unwillingly; balād iva niyojitaḥ = as if engaged by force; Vārṣhṇeya = a name of Krishna (descendant of Vrishni).",
+            "keywords": [
+                "Arjuna's question",
+                "cause of sin",
+                "involuntary wrongdoing",
+                "Varshneya"
+            ],
+            "summary": "Arjuna asks what inner force drives a person to commit sinful acts even against their own will, as though compelled by an external power.",
+            "reflection": "We've all experienced acting against our better judgment as if pulled by an unseen force — this verse sets up an honest look at that experience."
+        },
+        {
+            "id": 156,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 37,
+            "sanskrit": "श्रीभगवानुवाच |\nकाम एष क्रोध एष रजोगुणसमुद्भवः |\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||",
+            "transliteration": "śhrī bhagavān uvācha | kāma eṣha krodha eṣha rajoguṇasamudbhavaḥ | mahāśhano mahāpāpmā viddhy enam iha vairiṇam ||",
+            "english": "The Blessed Lord said: It is desire, it is anger, born of the rajo guna — all-devouring and greatly sinful. Know this to be the enemy here.",
+            "hindi": "श्रीभगवान बोले: रजोगुण से उत्पन्न हुआ यह काम ही क्रोध है, यह बहुत खाने वाला और बड़ा पापी है, इसको ही तू इस विषय में वैरी जान।",
+            "marathi": "श्रीभगवान म्हणाले: रजोगुणापासून उत्पन्न झालेला हा काम (इच्छा) आणि क्रोधच आहे, हा खूप भक्षण करणारा आणि मोठा पापी आहे, यालाच तू या बाबतीत शत्रू समज.",
+            "word_meaning": "Kāmaḥ = desire; krodhaḥ = anger; rajoguṇasamudbhavaḥ = born of the passionate/rajas quality; mahāśhanaḥ = all-devouring; vairiṇam = enemy.",
+            "keywords": [
+                "desire and anger",
+                "rajo guna",
+                "the true enemy",
+                "root cause of sin"
+            ],
+            "summary": "Krishna identifies desire (kama), and the anger that arises when it is thwarted, as the true root cause of sinful, compulsive behavior.",
+            "reflection": "Unchecked craving, when frustrated, easily turns into anger. Recognizing desire as the root helps us address problems at their source."
+        },
+        {
+            "id": 157,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 38,
+            "sanskrit": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ||",
+            "transliteration": "dhūmenāvriyate vahnir yathādarśho malena cha | yatholbenāvṛito garbhas tathā tenedam āvṛitam ||",
+            "english": "As fire is covered by smoke, as a mirror by dust, and as an embryo is enveloped by the womb, so is this (knowledge) covered by that (desire).",
+            "hindi": "जैसे धुएँ से अग्नि और मैल से दर्पण ढका जाता है तथा जैसे जेर से गर्भ ढका रहता है, वैसे ही उस काम के द्वारा यह ज्ञान ढका रहता है।",
+            "marathi": "जसा धुराने अग्नी आणि मळाने आरसा झाकला जातो, तसेच जसे वारेने गर्भ झाकलेला असतो, तसेच त्या कामाने हे ज्ञान झाकलेले राहते.",
+            "word_meaning": "Dhūmena = by smoke; vahniḥ = fire; ādarśhaḥ = mirror; ulbena = by the womb/membrane; garbhaḥ = embryo/foetus.",
+            "keywords": [
+                "threefold analogy",
+                "desire obscuring knowledge",
+                "fire smoke mirror embryo",
+                "veiling of wisdom"
+            ],
+            "summary": "Krishna illustrates with three analogies how desire progressively covers and obscures a person's inner wisdom and discernment.",
+            "reflection": "Notice how strong craving can cloud clear thinking, much like smoke dims a flame — awareness of this fog is the first step to clearing it."
+        },
+        {
+            "id": 158,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 39,
+            "sanskrit": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ||",
+            "transliteration": "āvṛitaṁ jñānam etena jñānino nityavairiṇā | kāmarūpeṇa kaunteya duṣhpūreṇānalena cha ||",
+            "english": "Knowledge is covered, O son of Kunti, by this constant enemy of the wise, which takes the form of desire and is as insatiable as fire.",
+            "hindi": "हे कुन्तीपुत्र! इस ज्ञानी के नित्य वैरी और अग्नि के समान कभी न भरने वाले काम रूप से यह ज्ञान ढका हुआ है।",
+            "marathi": "हे कुंतीपुत्रा! या ज्ञान्याच्या नित्य वैऱ्याने आणि अग्नीसमान कधीही न भरणाऱ्या कामरूपाने हे ज्ञान झाकलेले आहे.",
+            "word_meaning": "Jñāninaḥ nityavairiṇā = the constant enemy of the wise; kāmarūpeṇa = in the form of desire; duṣhpūreṇa analena = by fire that is never satisfied/filled.",
+            "keywords": [
+                "insatiable desire",
+                "constant enemy",
+                "obscured wisdom",
+                "Kaunteya"
+            ],
+            "summary": "Desire is described as the perpetual enemy of the wise — an unquenchable fire that continually clouds even a knowledgeable person's discernment.",
+            "reflection": "Chasing satisfaction through desire alone is like feeding a fire that never says 'enough' — recognizing this pattern helps break its grip."
+        },
+        {
+            "id": 159,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 40,
+            "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ||",
+            "transliteration": "indriyāṇi mano buddhir asyādhiṣhṭhānam uchyate | etair vimohayaty eṣha jñānam āvṛitya dehinam ||",
+            "english": "The senses, the mind, and the intellect are said to be its seat; through these, it deludes the embodied soul by veiling knowledge.",
+            "hindi": "इन्द्रियाँ, मन और बुद्धि - ये सब इस काम के निवास स्थान कहे जाते हैं, यह काम इन मन-बुद्धि आदि के द्वारा ज्ञान को ढककर जीवात्मा को मोहित करता है।",
+            "marathi": "इंद्रिये, मन आणि बुद्धी - हे सर्व या कामाचे निवासस्थान म्हटले जाते, हा काम या मन-बुद्धी आदींद्वारे ज्ञान झाकून जीवात्म्याला मोहित करतो.",
+            "word_meaning": "Adhiṣhṭhānam = seat/abode; vimohayati = deludes; jñānam āvṛitya = veiling knowledge; dehinam = the embodied being.",
+            "keywords": [
+                "seat of desire",
+                "senses mind intellect",
+                "delusion mechanism",
+                "veiling of the soul"
+            ],
+            "summary": "Krishna explains that desire operates through the senses, mind, and intellect, using these faculties as its base to delude the embodied soul.",
+            "reflection": "Understanding exactly where and how craving takes root — in the senses, mind, and reasoning — helps us intervene more precisely."
+        },
+        {
+            "id": 160,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 41,
+            "sanskrit": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||",
+            "transliteration": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣhabha | pāpmānaṁ prajahi hy enaṁ jñānavijñānanāśhanam ||",
+            "english": "Therefore, O best of the Bharatas, first controlling the senses, slay this sinful thing (desire), which is the destroyer of both knowledge and discriminative wisdom.",
+            "hindi": "इसलिए हे भरतश्रेष्ठ! तू पहले इन्द्रियों को वश में करके इस ज्ञान और विज्ञान का नाश करने वाले महान पापी काम को अवश्य ही बलपूर्वक मार डाल।",
+            "marathi": "म्हणून हे भरतश्रेष्ठा! तू आधी इंद्रियांना वश करून या ज्ञान आणि विज्ञानाचा नाश करणाऱ्या महान पापी कामाला अवश्य बळजबरीने मारून टाक.",
+            "word_meaning": "Niyamya = controlling/restraining; bharatarṣhabha = best of the Bharatas; jñānavijñānanāśhanam = destroyer of knowledge and discriminative wisdom.",
+            "keywords": [
+                "conquering desire",
+                "sense control first",
+                "practical instruction",
+                "Bharatarshabha"
+            ],
+            "summary": "Krishna instructs Arjuna to first master the senses and then decisively overcome desire, which destroys both theoretical and experiential wisdom.",
+            "reflection": "The practical starting point for inner mastery is sense discipline — small daily choices about where attention and indulgence go."
+        },
+        {
+            "id": 161,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 42,
+            "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः |\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ||",
+            "transliteration": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṁ manaḥ | manasas tu parā buddhir yo buddheḥ paratas tu saḥ ||",
+            "english": "The senses, they say, are superior (to the gross body); superior to the senses is the mind; superior to the mind is the intellect; and that which is superior even to the intellect is He (the Self).",
+            "hindi": "इन्द्रियों को स्थूल शरीर से पर अर्थात श्रेष्ठ, बलवान और तेजस्वी कहते हैं, इन्द्रियों से पर मन है, मन से भी पर बुद्धि है और जो बुद्धि से भी अत्यंत पर है, वह आत्मा है।",
+            "marathi": "इंद्रियांना स्थूल शरीरापेक्षा श्रेष्ठ, बलवान आणि तेजस्वी म्हणतात, इंद्रियांपेक्षा मन श्रेष्ठ आहे, मनापेक्षाही बुद्धी श्रेष्ठ आहे आणि जी बुद्धीपेक्षाही अत्यंत श्रेष्ठ आहे, ती आत्मा आहे.",
+            "word_meaning": "Parāṇi = superior; indriyebhyaḥ paraṁ manaḥ = mind is superior to the senses; buddheḥ parataḥ = superior to the intellect (the Self/Atman).",
+            "keywords": [
+                "hierarchy of being",
+                "senses mind intellect self",
+                "Atman as highest",
+                "inner hierarchy"
+            ],
+            "summary": "Krishna presents a hierarchy: senses, then mind, then intellect, with the Self (Atman) standing supreme above all of them.",
+            "reflection": "When facing an inner conflict, appeal to the highest faculty available — reasoned intellect, and ultimately your deepest sense of self — rather than raw impulse."
+        },
+        {
+            "id": 162,
+            "chapter": 3,
+            "chapter_name": "Karma Yoga",
+            "verse": 43,
+            "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना |\nजहि शत्रुं महाबाहो कामरूपं दुरासदम् ||",
+            "transliteration": "evaṁ buddheḥ paraṁ buddhvā saṁstabhyātmānam ātmanā | jahi śhatruṁ mahābāho kāmarūpaṁ durāsadam ||",
+            "english": "Thus, knowing That which is superior to the intellect (the Self), and steadying the lower self by means of the higher Self, O mighty-armed, slay this enemy in the form of desire, so hard to conquer.",
+            "hindi": "इस प्रकार बुद्धि से पर अर्थात सूक्ष्म, बलवान और अत्यंत श्रेष्ठ आत्मा को जानकर और बुद्धि के द्वारा मन को वश में करके, हे महाबाहो! तू इस कामरूप दुर्जय शत्रु को मार डाल।",
+            "marathi": "अशा प्रकारे बुद्धीपेक्षा श्रेष्ठ अशा सूक्ष्म, बलवान व अत्यंत श्रेष्ठ आत्म्याला जाणून आणि बुद्धीद्वारे मनाला वश करून, हे महाबाहो! तू या कामरूप दुर्जय शत्रूला मारून टाक.",
+            "word_meaning": "Buddheḥ paraṁ buddhvā = having known that which is beyond the intellect; saṁstabhya ātmānam ātmanā = steadying the self by the Self; durāsadam = hard to overcome/approach.",
+            "keywords": [
+                "final instruction",
+                "conquering desire",
+                "Self mastery",
+                "concluding verse of chapter"
+            ],
+            "summary": "The chapter concludes with Krishna's final call to Arjuna: use the awareness of the higher Self to steady the mind and conquer the formidable enemy of desire.",
+            "reflection": "Lasting change comes from connecting with your deepest values and sense of self, using that inner anchor to steady the mind against strong urges."
+        }
+    ]
+}
